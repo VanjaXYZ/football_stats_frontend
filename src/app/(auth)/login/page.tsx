@@ -13,6 +13,7 @@ import Image from "next/image";
 import { useForm } from "react-hook-form";
 import { z } from "zod";
 import FS_LOGO from "@/assets/logo crna.png";
+import { useRouter } from "next/navigation";
 
 const loginSchema = z
   .object({
@@ -49,8 +50,11 @@ const Login = () => {
     },
   });
 
+  const router = useRouter();
+
   const handleLogin = (values: z.infer<typeof loginSchema>) => {
     console.log(values);
+    router.replace("/");
   };
 
   return (
