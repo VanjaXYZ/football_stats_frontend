@@ -41,7 +41,7 @@ const loginSchema = z
     }
   );
 
-const Login = () => {
+const LoginForm = () => {
   const form = useForm<z.infer<typeof loginSchema>>({
     resolver: zodResolver(loginSchema),
     defaultValues: {
@@ -116,4 +116,4 @@ const Login = () => {
   );
 };
 
-export default Login;
+export default LoginForm;
