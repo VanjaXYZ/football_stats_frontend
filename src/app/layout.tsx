@@ -21,7 +21,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={montserrat.className}>
-        <div className="bg-black/90 h-16 px-6 flex items-center py-10">
+        <div className="bg-black/70 h-16 px-6 flex items-center py-10 fixed top-0 w-full">
           <Image src={FS_WHITE_LOGO} alt="fs_logo" width={50} height={50} />
           <TopNavMenu />
         </div>
