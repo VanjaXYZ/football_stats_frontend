@@ -1,10 +1,5 @@
 "use client";
 import { Button } from "@/components/ui/button";
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
-import { Input } from "@/components/ui/input";
-import { useForm } from "react-hook-form";
-import { z } from "zod";
-import { zodResolver } from "@hookform/resolvers/zod";
 import {
   Form,
   FormControl,
@@ -12,6 +7,12 @@ import {
   FormItem,
   FormMessage,
 } from "@/components/ui/form";
+import { Input } from "@/components/ui/input";
+import { zodResolver } from "@hookform/resolvers/zod";
+import Image from "next/image";
+import { useForm } from "react-hook-form";
+import { z } from "zod";
+import FS_LOGO from "@/assets/logo crna.png";
 
 const loginSchema = z
   .object({
@@ -59,7 +60,13 @@ const Login = () => {
           onSubmit={form.handleSubmit(handleLogin)}
           className="max-w-sm mx-auto mt-20 px-4 sm:px-0"
         >
-          <h3 className="py-2 text-center font-bold text-2xl">LOGIN</h3>
+          <Image
+            src={FS_LOGO}
+            alt="fs_logo"
+            width={150}
+            height={150}
+            className="mx-auto mb-20"
+          />
           <div className="space-y-4">
             <FormField
               name="username"
@@ -68,7 +75,11 @@ const Login = () => {
                 return (
                   <FormItem>
                     <FormControl>
-                      <Input {...field} placeholder="Enter username" />
+                      <Input
+                        {...field}
+                        placeholder="Enter username"
+                        className="rounded-full shadow-md"
+                      />
                     </FormControl>
                     <FormMessage />
                   </FormItem>
@@ -82,7 +93,11 @@ const Login = () => {
                 return (
                   <FormItem>
                     <FormControl>
-                      <Input {...field} placeholder="Enter password" />
+                      <Input
+                        {...field}
+                        placeholder="Enter password"
+                        className="rounded-full shadow-md"
+                      />
                     </FormControl>
                     <FormMessage />
                   </FormItem>
@@ -90,7 +105,7 @@ const Login = () => {
               }}
             />
           </div>
-          <Button className="w-full mt-20">Login</Button>
+          <Button className="w-full mt-20 bg-black">Login</Button>
         </form>
       </Form>
     </>
