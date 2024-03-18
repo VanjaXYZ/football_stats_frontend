@@ -54,7 +54,7 @@ const LoginForm = () => {
 
   const handleLogin = (values: z.infer<typeof loginSchema>) => {
     console.log(values);
-    router.replace("/");
+    router.replace("/home");
   };
 
   return (
