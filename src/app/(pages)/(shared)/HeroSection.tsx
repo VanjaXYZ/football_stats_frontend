@@ -4,7 +4,7 @@ import Image from "next/image";
 
 const HeroSection = () => {
   return (
-    <div className="relative pb-10 w-full border">
+    <div className="relative z-0 pb-10">
       <h1 className="uppercase text-6xl font-bold  pt-24 text-center text-white">
         Football-Stats
       </h1>
@@ -18,7 +18,7 @@ const HeroSection = () => {
         <span>0-2</span>
         <span>2-1/1-2</span>
       </div>
-      <div className="absolute top-0 w-full h-full -z-10">
+      <div className="absolute top-0 w-full h-full -z-30">
         <Image
           src={HERO_IMAGE}
           alt="hero_image"
