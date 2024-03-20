@@ -69,7 +69,7 @@ const LoginForm = () => {
             alt="fs_logo"
             width={150}
             height={150}
-            className="mx-auto mb-20"
+            className="mx-auto mb-20 mt-40"
           />
           <div className="space-y-4">
             <FormField
