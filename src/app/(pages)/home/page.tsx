@@ -1,6 +1,7 @@
 import React from "react";
 import HeroSection from "../(shared)/HeroSection";
 import TableComponent from "../(shared)/TableComponent";
+import StatsBetweenTeams from "./components/StatsBetweenTeams";
 
 const Homepage = () => {
   const homepageColumnData = [
@@ -69,6 +70,9 @@ const Homepage = () => {
       <HeroSection />
       <section>
         <TableComponent column={homepageColumnData} row={homepageRowData} />
+      </section>
+      <section>
+        <StatsBetweenTeams />
       </section>
     </main>
   );
