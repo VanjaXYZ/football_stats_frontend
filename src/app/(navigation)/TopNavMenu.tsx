@@ -1,13 +1,17 @@
 "use client";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
+import { useUserStore } from "@/store/UserStore";
 
 const TopNavMenu = () => {
   const pathname = usePathname();
+  const { user } = useUserStore();
+  console.log(user);
 
   return (
     pathname !== "/login" && (
       <div className="ms-auto flex gap-16 items-center">
+        <span className="text-white">Logged as: {user?.username}</span>
         <Link
           href={"/home"}
           className={
