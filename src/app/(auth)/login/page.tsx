@@ -14,6 +14,9 @@ import { useForm } from "react-hook-form";
 import { z } from "zod";
 import FS_LOGO from "@/assets/logo crna.png";
 import { useRouter } from "next/navigation";
+import { useUserStore } from "@/store/UserStore";
+import { useToast } from "@/components/ui/use-toast";
+import { cn } from "@/lib/utils";
 
 const loginSchema = z
   .object({
@@ -51,9 +54,18 @@ const LoginForm = () => {
   });
 
   const router = useRouter();
+  const { setUsername, user } = useUserStore();
+  const { toast } = useToast();
 
   const handleLogin = (values: z.infer<typeof loginSchema>) => {
-    console.log(values);
+    setUsername(values?.username);
+    toast({
+      className: cn(
+        "top-0 right-0 flex fixed md:max-w-[420px] md:top-4 md:right-[37.5%]"
+      ),
+      variant: "success",
+      title: `Welcome ${values?.username}`,
+    });
     router.replace("/home");
   };
 
