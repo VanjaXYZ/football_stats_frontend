@@ -1,11 +1,11 @@
-import type { Metadata } from "next";
-import { Inter, Montserrat } from "next/font/google";
-import "./globals.css";
-import TopNavMenu from "./(navigation)/TopNavMenu";
 import FS_WHITE_LOGO from "@/assets/logo bijela.png";
+import { Toaster } from "@/components/ui/toaster";
+import type { Metadata } from "next";
+import { Montserrat } from "next/font/google";
 import Image from "next/image";
+import TopNavMenu from "./(navigation)/TopNavMenu";
+import "./globals.css";
 
-const inter = Inter({ subsets: ["latin"] });
 const montserrat = Montserrat({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
@@ -26,6 +26,7 @@ export default function RootLayout({
           <TopNavMenu />
         </div>
         {children}
+        <Toaster />
       </body>
     </html>
   );
