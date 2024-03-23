@@ -1,7 +1,13 @@
 import React from "react";
+import HeroSection from "../(shared)/HeroSection";
 
 const About = () => {
-  return <div>Hello from About page...</div>;
+  return (
+    <>
+      <HeroSection />
+      <div>Hello from About page...</div>
+    </>
+  );
 };
 
 export default About;
