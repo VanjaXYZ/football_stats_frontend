@@ -5,8 +5,7 @@ import { useUserStore } from "@/store/UserStore";
 
 const TopNavMenu = () => {
   const pathname = usePathname();
-  const { user } = useUserStore();
-  console.log(user);
+  const { user } = useUserStore() as any;
 
   return (
     pathname !== "/login" && (
