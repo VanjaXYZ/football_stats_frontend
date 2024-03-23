@@ -69,12 +69,15 @@ const StatsBetweenTeams = () => {
           Stats between teams
         </h2>
         <div className="w-full p-20 flex justify-center items-center gap-x-16">
+          {/* Choose country */}
           <SelectComponent
             data={countriesData}
             dataType="country"
             label="Countries"
             setFn={handleCountry}
           />
+
+          {/* Choose home team */}
           {stats.country && (
             <SelectComponent
               data={homeTeams}
@@ -83,6 +86,8 @@ const StatsBetweenTeams = () => {
               setFn={handleHomeTeam}
             />
           )}
+
+          {/* Choose away team */}
           {stats.homeTeam && (
             <SelectComponent
               data={awayTeams}
