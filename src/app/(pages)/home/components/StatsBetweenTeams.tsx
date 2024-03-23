@@ -1,7 +1,7 @@
-import React from "react";
+"use client";
 import { ChevronDown } from "lucide-react";
-import { Button } from "@/components/ui/button";
 import SelectComponent from "../../(shared)/SelectComponent";
+import { useStatsBetweenStore } from "@/store/StatsBetweenStore";
 
 const StatsBetweenTeams = () => {
   const countriesData = [
@@ -40,6 +40,23 @@ const StatsBetweenTeams = () => {
     "FC Lyon",
     "West Ham",
   ];
+
+  const { setCountry, setHomeTeam, setAwayTeam, stats } =
+    useStatsBetweenStore() as any;
+
+  const handleCountry = (e: string) => {
+    setCountry(e);
+    console.log("Country: ", e);
+  };
+  const handleHomeTeam = (e: string) => {
+    setHomeTeam(e);
+    console.log("Home team: ", e);
+  };
+  const handleAwayTeam = (e: string) => {
+    setAwayTeam(e);
+    console.log("Away team: ", e);
+  };
+  console.log(stats);
   return (
     <>
       <section>
@@ -56,17 +73,24 @@ const StatsBetweenTeams = () => {
             data={countriesData}
             dataType="country"
             label="Countries"
+            setFn={handleCountry}
           />
-          <SelectComponent
-            data={homeTeams}
-            dataType="home team"
-            label="Home team"
-          />
-          <SelectComponent
-            data={awayTeams}
-            dataType="away team"
-            label="Away team"
-          />
+          {stats.country && (
+            <SelectComponent
+              data={homeTeams}
+              dataType="home team"
+              label="Home team"
+              setFn={handleHomeTeam}
+            />
+          )}
+          {stats.homeTeam && (
+            <SelectComponent
+              data={awayTeams}
+              dataType="away team"
+              label="Away team"
+              setFn={handleAwayTeam}
+            />
+          )}
         </div>
       </section>
     </>
