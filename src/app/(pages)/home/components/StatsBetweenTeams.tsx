@@ -75,6 +75,7 @@ const StatsBetweenTeams = () => {
             dataType="country"
             label="Countries"
             setFn={handleCountry}
+            value={stats.country}
           />
 
           {/* Choose home team */}
@@ -84,6 +85,7 @@ const StatsBetweenTeams = () => {
               dataType="home team"
               label="Home team"
               setFn={handleHomeTeam}
+              value={stats.homeTeam}
             />
           )}
 
@@ -94,6 +96,7 @@ const StatsBetweenTeams = () => {
               dataType="away team"
               label="Away team"
               setFn={handleAwayTeam}
+              value={stats.awayTeam}
             />
           )}
         </div>

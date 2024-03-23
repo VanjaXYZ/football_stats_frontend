@@ -10,9 +10,9 @@ import {
   SelectValue,
 } from "@/components/ui/select";
 
-const SelectComponent = ({ data, dataType, label, setFn }: any) => {
+const SelectComponent = ({ data, dataType, label, setFn, value }: any) => {
   return (
-    <Select onValueChange={(e: any) => setFn(e)}>
+    <Select onValueChange={(e: any) => setFn(e)} value={value}>
       <SelectTrigger className="w-[180px]">
         <SelectValue placeholder={`Select ${dataType}`} />
       </SelectTrigger>
