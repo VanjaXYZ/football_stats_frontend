@@ -1,3 +1,4 @@
+"use client";
 import React from "react";
 import {
   Select,
@@ -9,9 +10,9 @@ import {
   SelectValue,
 } from "@/components/ui/select";
 
-const SelectComponent = ({ data, dataType, label }: any) => {
+const SelectComponent = ({ data, dataType, label, setFn }: any) => {
   return (
-    <Select>
+    <Select onValueChange={(e: any) => setFn(e)}>
       <SelectTrigger className="w-[180px]">
         <SelectValue placeholder={`Select ${dataType}`} />
       </SelectTrigger>
@@ -19,7 +20,9 @@ const SelectComponent = ({ data, dataType, label }: any) => {
         <SelectGroup>
           <SelectLabel>{label}</SelectLabel>
           {data?.map((item: string) => (
-            <SelectItem value={item}>{item}</SelectItem>
+            <SelectItem value={item} key={item}>
+              {item}
+            </SelectItem>
           ))}
         </SelectGroup>
       </SelectContent>
