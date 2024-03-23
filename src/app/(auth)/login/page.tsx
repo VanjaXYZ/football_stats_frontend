@@ -54,7 +54,7 @@ const LoginForm = () => {
   });
 
   const router = useRouter();
-  const { setUsername, user } = useUserStore();
+  const { setUsername, user } = useUserStore() as any;
   const { toast } = useToast();
 
   const handleLogin = (values: z.infer<typeof loginSchema>) => {
