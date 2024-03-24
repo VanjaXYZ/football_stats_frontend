@@ -5,7 +5,7 @@ const OtherStats = () => {
   return (
     <>
       <HeroSection />
-      <div>Hello from Other Stats page...</div>;
+      <div>This is next task...</div>;
     </>
   );
 };
