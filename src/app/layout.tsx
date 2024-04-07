@@ -5,6 +5,7 @@ import { Montserrat } from "next/font/google";
 import Image from "next/image";
 import TopNavMenu from "./(navigation)/TopNavMenu";
 import "./globals.css";
+import Footer from "./(pages)/(shared)/Footer";
 
 const montserrat = Montserrat({ subsets: ["latin"] });
 
@@ -26,6 +27,9 @@ export default function RootLayout({
           <TopNavMenu />
         </div>
         {children}
+        <div className="sticky bottom-0">
+          <Footer />
+        </div>
         <Toaster />
       </body>
     </html>
