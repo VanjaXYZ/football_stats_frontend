@@ -21,15 +21,16 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={montserrat.className}>
+      <body
+        className={montserrat.className}
+        style={{ minHeight: "100vh", display: "flex", flexDirection: "column" }}
+      >
         <div className="bg-black/70 h-16 px-6 flex items-center py-10 fixed top-0 w-full z-10">
           <Image src={FS_WHITE_LOGO} alt="fs_logo" width={50} height={50} />
           <TopNavMenu />
         </div>
-        {children}
-        <div className="sticky bottom-0">
-          <Footer />
-        </div>
+        <div style={{ flex: "1 0 auto" }}>{children}</div>
+        <Footer />
         <Toaster />
       </body>
     </html>
