@@ -21,7 +21,7 @@ const DashboardLayout = ({
   five_plus: React.ReactNode;
   six_plus: React.ReactNode;
   seven_plus: React.ReactNode;
-  two_oneTwo: React.ReactNode;
+  two_one_two: React.ReactNode;
   no_goals: React.ReactNode;
   seven_plus_teams: React.ReactNode;
 }) => {
@@ -37,6 +37,7 @@ const DashboardLayout = ({
         <div>{five_plus}</div>
         <div>{six_plus}</div>
         <div>{seven_plus}</div>
+        <div>{two_one_two}</div>
         <div>{seven_plus_teams}</div>
       </div>
     </div>
