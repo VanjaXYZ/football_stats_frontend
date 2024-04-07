@@ -1,6 +1,8 @@
+"use client";
 import { Button } from "@/components/ui/button";
 import React from "react";
 import SelectComponent from "../../(shared)/SelectComponent";
+import { useOtherStats } from "@/store/OtherStatsStore";
 
 const NumberOfGoals = () => {
   const numberOfGoalsData: string[] | number = [
@@ -26,6 +28,12 @@ const NumberOfGoals = () => {
     "Nigeria",
     "Germany",
   ];
+  const { otherStats, setOtherStatsCountry } = useOtherStats() as any;
+
+  const handleSetCountry = (country: string) => {
+    setOtherStatsCountry(country);
+    console.log(country);
+  };
   return (
     <>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-20 px-4 py-8">
@@ -34,7 +42,13 @@ const NumberOfGoals = () => {
         ))}
       </div>
       <div className="flex justify-center ">
-        <SelectComponent />
+        <SelectComponent
+          data={countries}
+          dataType="country"
+          label={"Countries"}
+          setFn={handleSetCountry}
+          value={otherStats.country}
+        />
       </div>
     </>
   );
