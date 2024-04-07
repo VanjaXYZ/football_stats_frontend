@@ -242,7 +242,7 @@ const StatsBetweenTeams = () => {
         <h2 className="text-center font-bold text-4xl uppercase mt-12">
           Stats between teams
         </h2>
-        <div className="w-full p-20 flex justify-center items-center gap-x-16">
+        <div className="w-full p-20 flex justify-center items-center sm:gap-x-16 space-y-4 sm:space-y-0 flex-col sm:flex-row">
           {/* Choose country */}
           <SelectComponent
             data={countriesData}
