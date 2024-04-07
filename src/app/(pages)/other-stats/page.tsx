@@ -1,11 +1,12 @@
 import React from "react";
 import HeroSection from "../(shared)/HeroSection";
+import NumberOfGoals from "./components/NumberOfGoals";
 
 const OtherStats = () => {
   return (
     <>
       <HeroSection />
-      <div>This is next task...</div>;
+      <NumberOfGoals />
     </>
   );
 };
