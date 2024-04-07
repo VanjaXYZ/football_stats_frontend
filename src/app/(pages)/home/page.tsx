@@ -69,10 +69,10 @@ const Homepage = () => {
     <main className=" w-full min-h-[100vh]">
       <HeroSection />
       <section>
-        <TableComponent column={homepageColumnData} row={homepageRowData} />
+        <StatsBetweenTeams />
       </section>
       <section>
-        <StatsBetweenTeams />
+        <TableComponent column={homepageColumnData} row={homepageRowData} />
       </section>
     </main>
   );
