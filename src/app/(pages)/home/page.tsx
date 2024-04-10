@@ -2,6 +2,7 @@ import React from "react";
 import HeroSection from "../(shared)/HeroSection";
 import TableComponent from "../(shared)/TableComponent";
 import StatsBetweenTeams from "./components/StatsBetweenTeams";
+import { ChevronDown } from "lucide-react";
 
 const Homepage = () => {
   const homepageColumnData = [
@@ -73,6 +74,9 @@ const Homepage = () => {
       </section>
       <section>
         <TableComponent column={homepageColumnData} row={homepageRowData} />
+        <h2 className="text-4xl text-center font-bold bg-black text-white py-4 flex justify-center items-center gap-x-4">
+          <span>View all</span> <ChevronDown size={36} />
+        </h2>
       </section>
     </main>
   );
