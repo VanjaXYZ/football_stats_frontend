@@ -3,6 +3,8 @@ import { ChevronDown } from "lucide-react";
 import SelectComponent from "../../(shared)/SelectComponent";
 import { useStatsBetweenStore } from "@/store/StatsBetweenStore";
 import TableComponent from "../../(shared)/TableComponent";
+import { Button } from "@/components/ui/button";
+import Link from "next/link";
 
 const StatsBetweenTeams = () => {
   const countriesData = [
@@ -268,9 +270,21 @@ const StatsBetweenTeams = () => {
               value={stats.awayTeam}
             />
           )}
+
+          {/* Open stats in new browser tab */}
+          {stats.homeTeam && (
+            <Button asChild>
+              <Link
+                href={`/home/stats-between-teams/${stats.homeTeam}-${stats.awayTeam}`}
+                target="_blank"
+              >
+                Show
+              </Link>
+            </Button>
+          )}
         </div>
       </section>
-      {stats.homeTeam && (
+      {/* {stats.homeTeam && (
         <>
           <section>
             <TableComponent column={homeTeamStatsHeaders} row={homeTeamStats} />
@@ -280,7 +294,7 @@ const StatsBetweenTeams = () => {
             <TableComponent column={last_10_games} row={last_10_games_data} />
           </section>
         </>
-      )}
+      )} */}
     </>
   );
 };
