@@ -73,6 +73,9 @@ const Homepage = () => {
         <StatsBetweenTeams />
       </section>
       <section>
+        <h2 className="text-center font-bold text-4xl uppercase mt-12">
+          Game predictions
+        </h2>
         <TableComponent column={homepageColumnData} row={homepageRowData} />
         <h2 className="text-4xl text-center font-bold bg-black text-white py-4 flex justify-center items-center gap-x-4">
           <span>View all</span> <ChevronDown size={36} />
