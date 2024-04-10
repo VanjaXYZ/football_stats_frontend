@@ -25,7 +25,7 @@ const TableComponent = ({ column, row }: any) => {
           ))}
         </TableRow>
       </TableHeader>
-      <TableBody className="[&>*:nth-child(even)]:bg-gray-400 [&>*:nth-child(odd)]:bg-gray-300">
+      <TableBody className="[&>*:nth-child(even)]:bg-gray-600 [&>*:nth-child(odd)]:bg-gray-500">
         {row?.map((item: any, index: number) => (
           <TableRow key={`row-${index}`}>
             {column?.map((data: any, cellIndex: number) => (
@@ -33,7 +33,7 @@ const TableComponent = ({ column, row }: any) => {
                 key={`cellID-${cellIndex}`}
                 className="text-center font-semibold"
               >
-                {item[data.key]}
+                {data.Component ? data.Component(item) : item[data.key]}
               </TableCell>
             ))}
           </TableRow>
