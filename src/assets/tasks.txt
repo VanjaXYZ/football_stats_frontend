@@ -1,0 +1,8 @@
+1. StatsBetweenTeams - 
+1.1 Dodati dugme 'See stats' koje ce otvoriti novi page sa statistikom trenutnom koja se prikazuje na homepage kada se odabere home ili away team. 
+1.2 URL neka se sastoji od imena timova.
+1.3 ubaciti postotke ispod 0-1, 0-2...n.
+
+2. GAME PREDICTIONS - 
+1.1 ispod imena timova njihov ELO rejting ispisi (e.g. ELO: 500)
+1.2 ispod 1, X, 2 - dodati postotke 
