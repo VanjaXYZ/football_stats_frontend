@@ -34,7 +34,13 @@ const Homepage = () => {
       header: "1",
       Component: (item: any) => (
         <div className="flex flex-col items-center">
-          <span>{item.one}</span>
+          <span
+            className={`${
+              item?.diference_one > 0 ? "text-green-500" : "text-red-600"
+            } text-black`}
+          >
+            {item.one}
+          </span>
           <span>{item?.prediction_home}%</span>
         </div>
       ),
@@ -44,7 +50,13 @@ const Homepage = () => {
       header: "x",
       Component: (item: any) => (
         <div className="flex flex-col items-center">
-          <span>{item.x}</span>
+          <span
+            className={`${
+              item?.diference_x > 0 ? "text-green-500" : "text-red-500"
+            } text-black`}
+          >
+            {item.x}
+          </span>
           <span>{item?.prediction_draw}%</span>
         </div>
       ),
@@ -54,7 +66,13 @@ const Homepage = () => {
       header: "2",
       Component: (item: any) => (
         <div className="flex flex-col items-center">
-          <span>{item.two}</span>
+          <span
+            className={`${
+              item?.diference_two > 0 ? "text-green-500" : "text-red-600"
+            } text-black`}
+          >
+            {item.two}
+          </span>
           <span>{item?.prediction_away}%</span>
         </div>
       ),
