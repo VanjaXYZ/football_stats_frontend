@@ -3,7 +3,7 @@ import React, { useState, useEffect } from "react";
 import HeroSection from "../(shared)/HeroSection";
 import TableComponent from "../(shared)/TableComponent";
 import StatsBetweenTeams from "./components/StatsBetweenTeams";
-import { ChevronDown } from "lucide-react";
+import { ChevronDown, MoveDown, MoveUp } from "lucide-react";
 import axios from "axios";
 import { Config } from "../../../../Config";
 const Homepage = () => {
@@ -36,10 +36,15 @@ const Homepage = () => {
         <div className="flex flex-col items-center">
           <span
             className={`${
-              item?.diference_one > 0 ? "text-green-500" : "text-red-600"
-            } text-black`}
+              item?.diference_one > 0 ? "text-green-500" : "text-red-800"
+            } text-black flex items-center`}
           >
-            {item.one}
+            {Number(item.one).toFixed(2)}
+            {item?.diference_one > 0 ? (
+              <MoveDown color="#3fd951" size={18} />
+            ) : (
+              <MoveDown color="#911212" size={18} />
+            )}
           </span>
           <span>{item?.prediction_home}%</span>
         </div>
@@ -52,10 +57,15 @@ const Homepage = () => {
         <div className="flex flex-col items-center">
           <span
             className={`${
-              item?.diference_x > 0 ? "text-green-500" : "text-red-500"
-            } text-black`}
+              item?.diference_x > 0 ? "text-green-500" : "text-red-800"
+            } text-black flex items-center`}
           >
-            {item.x}
+            {Number(item.x).toFixed(2)}
+            {item?.diference_x > 0 ? (
+              <MoveUp color="#3fd951" size={18} />
+            ) : (
+              <MoveDown color="#911212" size={18} />
+            )}
           </span>
           <span>{item?.prediction_draw}%</span>
         </div>
@@ -68,10 +78,15 @@ const Homepage = () => {
         <div className="flex flex-col items-center">
           <span
             className={`${
-              item?.diference_two > 0 ? "text-green-500" : "text-red-600"
-            } text-black`}
+              item?.diference_two > 0 ? "text-green-500" : "text-red-800"
+            } text-black flex items-center`}
           >
-            {item.two}
+            {Number(item.two).toFixed(2)}
+            {item?.diference_two > 0 ? (
+              <MoveUp color="#3fd951" size={18} />
+            ) : (
+              <MoveDown color="#911212" size={18} />
+            )}
           </span>
           <span>{item?.prediction_away}%</span>
         </div>
