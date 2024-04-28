@@ -41,7 +41,7 @@ const Homepage = () => {
           >
             {Number(item.one).toFixed(2)}
             {item?.diference_one > 0 ? (
-              <MoveDown color="#3fd951" size={18} />
+              <MoveUp color="#3fd951" size={18} />
             ) : (
               <MoveDown color="#911212" size={18} />
             )}
