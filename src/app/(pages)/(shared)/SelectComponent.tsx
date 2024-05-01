@@ -19,9 +19,9 @@ const SelectComponent = ({ data, dataType, label, setFn, value }: any) => {
       <SelectContent>
         <SelectGroup>
           <SelectLabel>{label}</SelectLabel>
-          {data?.map((item: string) => (
-            <SelectItem value={item} key={item}>
-              {item}
+          {data?.map((item: any) => (
+            <SelectItem value={item} key={item?.country}>
+              {item.country}
             </SelectItem>
           ))}
         </SelectGroup>
