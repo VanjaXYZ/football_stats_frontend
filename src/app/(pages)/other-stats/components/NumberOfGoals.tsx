@@ -32,7 +32,6 @@ const NumberOfGoals = () => {
 
   const handleSetCountry = (country: string) => {
     setOtherStatsCountry(country);
-    console.log(country);
   };
   return (
     <>
