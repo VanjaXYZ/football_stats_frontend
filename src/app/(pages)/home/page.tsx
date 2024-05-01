@@ -1,7 +1,7 @@
 import { Suspense } from "react";
 import HeroSection from "../(shared)/HeroSection";
-import StatsBetweenTeams from "./components/StatsBetweenTeams";
-import { GamePredictions } from "./components/GamePredictions";
+import StatsBetweenTeams from "./components/stats_between_teams/StatsBetweenTeams";
+import { GamePredictions } from "./components/game_predictions/GamePredictions";
 import { TableLoading } from "../(shared)/Loaders";
 const Homepage = () => {
   return (
