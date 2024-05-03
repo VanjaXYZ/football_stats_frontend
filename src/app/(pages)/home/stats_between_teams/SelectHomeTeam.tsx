@@ -18,7 +18,7 @@ const SelectHomeTeam = () => {
 
   useEffect(() => {
     const fetchTeams = async () => {
-      const teamsData = await getTeams(stats?.country?.country);
+      const teamsData = await getTeams(stats?.country);
       setTeams(teamsData?.teams);
     };
 
