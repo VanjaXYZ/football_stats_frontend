@@ -13,7 +13,7 @@ const ChooseTeams = async () => {
         <h2 className="text-center font-bold text-4xl uppercase mt-12">
           Stats between teams
         </h2>
-        <div className="w-full p-20 flex justify-center items-center sm:gap-x-16 space-y-4 sm:space-y-0 flex-col sm:flex-row">
+        <div className="w-full p-10 flex justify-center items-center sm:gap-x-16 space-y-4 sm:space-y-0 flex-col sm:flex-row">
           {/* Choose country */}
           <SelectCountry countries={countries} />
 
@@ -22,10 +22,10 @@ const ChooseTeams = async () => {
 
           {/* Choose away team */}
           <SelectAwayTeam />
-
-          {/* Open stats in new browser tab */}
-          <ShowHistoryBetweenTeamsButton />
         </div>
+
+        {/* Open stats in new browser tab */}
+        <ShowHistoryBetweenTeamsButton />
       </section>
     </>
   );
