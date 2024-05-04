@@ -5,12 +5,15 @@ import React, { useEffect, useState } from "react";
 import TableComponent from "../../(shared)/TableComponent";
 import TeamVsTeamHeader from "./TeamVsTeamHeader";
 import TeamVsTeamStats from "./TeamVsTeamStats";
+import { TableLoading } from "../../(shared)/Loaders";
 
 const StatsBetweenTeams = () => {
   const { stats } = useStatsBetweenStore() as any;
   const [teamsScore, setTeamsScore] = useState<any[]>([]);
+  const [isLoading, setIsLoading] = useState<boolean>(true);
   useEffect(() => {
     const fetchStats = async () => {
+      setIsLoading(true);
       try {
         const getStats = await getStatsBetweenTeams(
           stats?.country,
@@ -18,8 +21,10 @@ const StatsBetweenTeams = () => {
           stats?.awayTeam
         );
         setTeamsScore([getStats]);
+        setIsLoading(false);
       } catch (error) {
         // Handle error if necessary
+        setIsLoading(false);
         console.error("Error fetching stats:", error);
       }
     };
@@ -141,9 +146,18 @@ const StatsBetweenTeams = () => {
 
   return (
     <div className="mt-20">
-      <TeamVsTeamHeader homeTeam={stats.homeTeam} awayTeam={stats.awayTeam} />
-      <TableComponent column={topTableData} row={teamsScore} />
-      <TeamVsTeamStats stats={teamsScore[0]?.last_games} />
+      {isLoading ? (
+        <TableLoading />
+      ) : (
+        <>
+          <TeamVsTeamHeader
+            homeTeam={stats.homeTeam}
+            awayTeam={stats.awayTeam}
+          />
+          <TableComponent column={topTableData} row={teamsScore} />
+          <TeamVsTeamStats stats={teamsScore[0]?.last_games} />
+        </>
+      )}
     </div>
   );
 };
