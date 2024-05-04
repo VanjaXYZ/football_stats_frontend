@@ -11,10 +11,16 @@ import {
 import { useStatsBetweenStore } from "@/store/StatsBetweenStore";
 
 const SelectCountry = ({ countries }: any) => {
-  const { setCountry, stats } = useStatsBetweenStore() as any;
+  const { setCountry, setHomeTeam, setAwayTeam, stats } =
+    useStatsBetweenStore() as any;
+  const onSetCountry = (e: string) => {
+    setCountry(e);
+    setHomeTeam("");
+    setAwayTeam("");
+  };
   return (
     <>
-      <Select onValueChange={(e: any) => setCountry(e)} value={stats.country}>
+      <Select onValueChange={onSetCountry} value={stats.country}>
         <SelectTrigger className="w-[180px]">
           <SelectValue placeholder={`Select country`} />
         </SelectTrigger>
