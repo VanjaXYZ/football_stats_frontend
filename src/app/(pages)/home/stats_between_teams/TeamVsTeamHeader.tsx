@@ -9,7 +9,7 @@ const TeamVsTeamHeader = ({
 }) => {
   return (
     <h2 className="text-4xl py-6 text-center font-semibold">
-      {homeTeam} vs {awayTeam}
+      {homeTeam} {awayTeam && `vs ${awayTeam}`}
     </h2>
   );
 };
