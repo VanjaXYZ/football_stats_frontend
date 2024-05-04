@@ -18,14 +18,15 @@ const ShowHistoryBetweenTeamsButton = () => {
 
   return (
     stats.homeTeam && (
-      <Button asChild>
-        <Link
-          href={`home/stats_between_teams?country=${stats.country}&home-team=${stats.homeTeam}&away-team=${stats.awayTeam}`}
-          target="_blank"
-        >
-          Show
-        </Link>
-      </Button>
+      <div className="flex justify-center">
+        <Button asChild className="w-[180px]">
+          <Link
+            href={`home/stats_between_teams?country=${stats.country}&home-team=${stats.homeTeam}&away-team=${stats.awayTeam}`}
+          >
+            Show
+          </Link>
+        </Button>
+      </div>
     )
   );
 };
