@@ -6,6 +6,7 @@ import Image from "next/image";
 import TopNavMenu from "./(navigation)/TopNavMenu";
 import "./globals.css";
 import Footer from "./(pages)/(shared)/Footer";
+import Link from "next/link";
 
 const montserrat = Montserrat({ subsets: ["latin"] });
 
@@ -26,7 +27,9 @@ export default function RootLayout({
         style={{ minHeight: "100vh", display: "flex", flexDirection: "column" }}
       >
         <div className="bg-black/70 h-16 px-6 flex items-center py-10 fixed top-0 w-full z-10">
-          <Image src={FS_WHITE_LOGO} alt="fs_logo" width={50} height={50} />
+          <Link href={"/home"}>
+            <Image src={FS_WHITE_LOGO} alt="fs_logo" width={50} height={50} />
+          </Link>
           <TopNavMenu />
         </div>
         <div style={{ flex: "1 0 auto" }}>{children}</div>
