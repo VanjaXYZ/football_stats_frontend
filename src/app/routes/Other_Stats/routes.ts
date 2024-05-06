@@ -6,7 +6,6 @@ export const getOverallStats = async (url?: string) => {
   try {
     const response = await axios.get(`${Config.baseURL}/${url}`);
     if (response?.status === 200) {
-      console.log(response?.data);
       return response.data;
     }
   } catch (error: any) {
