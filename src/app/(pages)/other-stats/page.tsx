@@ -1,8 +1,7 @@
-import React from "react";
 import HeroSection from "../(shared)/HeroSection";
 import NumberOfGoals from "./components/NumberOfGoals";
 
-const OtherStats = () => {
+const OtherStats = async () => {
   return (
     <>
       <HeroSection />
