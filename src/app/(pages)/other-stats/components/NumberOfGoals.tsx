@@ -30,24 +30,12 @@ const NumberOfGoals = () => {
   ];
   const { otherStats, setOtherStatsCountry } = useOtherStats() as any;
 
-  const handleSetCountry = (country: string) => {
-    setOtherStatsCountry(country);
-  };
   return (
     <>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-20 px-4 py-8">
         {numberOfGoalsData.map((goals, index) => (
           <Button key={index}>{goals}</Button>
         ))}
-      </div>
-      <div className="flex justify-center ">
-        <SelectComponent
-          data={countries}
-          dataType="country"
-          label={"Countries"}
-          setFn={handleSetCountry}
-          value={otherStats.country}
-        />
       </div>
     </>
   );
