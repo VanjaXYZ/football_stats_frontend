@@ -21,7 +21,7 @@ export const useStatsBetweenStore = create(
     }),
     {
       name: "stats",
-      storage: createJSONStorage(() => localStorage),
+      storage: createJSONStorage(() => sessionStorage),
     }
   )
 );
