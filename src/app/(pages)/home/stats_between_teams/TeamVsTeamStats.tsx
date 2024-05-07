@@ -2,7 +2,6 @@ import React from "react";
 import TableComponent from "../../(shared)/TableComponent";
 
 const TeamVsTeamStats = ({ stats }: { stats: any }) => {
-  console.log(stats);
   const headerTableData = [
     {
       key: "",
