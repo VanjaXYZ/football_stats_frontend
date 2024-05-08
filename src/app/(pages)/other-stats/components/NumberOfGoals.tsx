@@ -16,7 +16,7 @@ const NumberOfGoals = () => {
     "4+",
     "5+",
     "6+",
-    "7+",
+    "7+ (between teams)",
     "1-2/2-1",
     "7+ ALL",
   ];
