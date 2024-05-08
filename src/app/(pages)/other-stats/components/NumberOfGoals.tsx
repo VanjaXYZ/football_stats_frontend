@@ -18,6 +18,7 @@ const NumberOfGoals = () => {
     "6+",
     "7+",
     "1-2/2-1",
+    "7+ ALL",
   ];
 
   const urls = [
@@ -30,6 +31,7 @@ const NumberOfGoals = () => {
     "stats/plus_6",
     "stats/plus_7",
     "stats/two_one",
+    "stats/plus_7_all",
   ];
   const onGetData = async (path: string[], position: number) => {
     const data = await getOverallStats(path[position]);
