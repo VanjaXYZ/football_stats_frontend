@@ -97,12 +97,17 @@ export const GamePredictions = async () => {
     },
   ];
   const predictedGames = await getPredictedGames();
+  console.log("GAMES: ", predictedGames);
   return (
     <>
       <h2 className="text-center font-bold text-4xl uppercase mt-12">
         Game predictions
       </h2>
-      <TableComponent column={homepageColumnData} row={predictedGames} />
+      {predictedGames ? (
+        <TableComponent column={homepageColumnData} row={predictedGames} />
+      ) : (
+        <p className="text-center p-20">No data</p>
+      )}
     </>
   );
 };
