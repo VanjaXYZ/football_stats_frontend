@@ -1,10 +1,13 @@
 import React from "react";
 import TableComponent from "../../(shared)/TableComponent";
+import Image from "next/image";
+import { Config } from "../../../../../Config";
 
 interface Item {
   team: string;
   country: string;
   numberOfGames: number;
+  images_country?: any;
 }
 
 const ShowNumberOfGoalsStats = ({ data }: any) => {
@@ -46,7 +49,23 @@ const ShowNumberOfGoalsStats = ({ data }: any) => {
         for (let value of Object.values(item)) {
           const single_value = value as Item;
           if (single_value?.country) {
-            return <div>{single_value.country}</div>;
+            return (
+              <div className="flex items-center justify-between gap-x-6 max-w-32 m-auto">
+                <Image
+                  src={`${
+                    Config.baseURL
+                  }/${single_value?.images_country[0]?.img_path.replace(
+                    "/",
+                    ""
+                  )}`}
+                  alt={item?.country}
+                  width={20}
+                  height={20}
+                />
+
+                {single_value.country}
+              </div>
+            );
           }
         }
       },
