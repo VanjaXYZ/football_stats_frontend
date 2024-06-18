@@ -1,10 +1,12 @@
 "use server";
 import axios from "axios";
 import { Config } from "../../../../Config";
+import { revalidatePath } from "next/cache";
 
-export const getOverallStats = async (url?: string) => {
+export const getOverallStats = async (url?: string, country?: string) => {
+  const hasCountry = country ? `/${country}` : "";
   try {
-    const response = await axios.get(`${Config.baseURL}/${url}`);
+    const response = await axios.get(`${Config.baseURL}/${url}${hasCountry}`);
     if (response?.status === 200) {
       return response.data;
     }
