@@ -83,11 +83,13 @@ const NumberOfGoals = ({ countries }: { countries: any }) => {
           </Button>
         ))}
       </div>
-      <SelectOtherStatsCountry
-        countries={countries}
-        onGetData={onGetData}
-        setStatsData={(value: any) => setStatsData(value)}
-      />
+      <section className="flex justify-center py-4">
+        <SelectOtherStatsCountry
+          countries={countries}
+          onGetData={onGetData}
+          setStatsData={(value: any) => setStatsData(value)}
+        />
+      </section>
       {statsData?.length > 0 && <ShowNumberOfGoalsStats data={statsData} />}
     </>
   );
