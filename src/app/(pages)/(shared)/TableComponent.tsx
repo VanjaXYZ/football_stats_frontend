@@ -33,7 +33,7 @@ const TableComponent = ({ column, row }: any) => {
                 key={`cellID-${cellIndex}`}
                 className="text-center font-semibold"
               >
-                {data.Component ? data.Component(item) : item[data.key]}
+                {data?.Component ? data?.Component(item) : item[data?.key]}
               </TableCell>
             ))}
           </TableRow>
