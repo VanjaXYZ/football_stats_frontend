@@ -36,7 +36,7 @@ const SelectOtherStatsCountry = ({ countries, setStatsData }: any) => {
     };
 
     fetchData();
-  }, [otherStats, setStatsData]);
+  }, [otherStats]);
   return (
     <>
       <Select onValueChange={onGetCountryStats} value={otherStats.country}>
