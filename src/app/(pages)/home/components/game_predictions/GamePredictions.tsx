@@ -97,7 +97,6 @@ export const GamePredictions = async () => {
     },
   ];
   const predictedGames = await getPredictedGames();
-  console.log("GAMES: ", predictedGames);
   return (
     <>
       <h2 className="text-center font-bold text-4xl uppercase mt-12">
