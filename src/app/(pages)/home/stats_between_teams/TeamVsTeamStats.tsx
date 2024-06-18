@@ -31,7 +31,7 @@ const TeamVsTeamStats = ({ stats }: { stats: any }) => {
   ];
   return (
     <div className="py-4 space-y-2">
-      <h3 className="text-xl font-semibold">Last 10 games</h3>
+      <h3 className="text-xl font-semibold antialiased">Last 10 games</h3>
       <TableComponent column={headerTableData} row={stats} />
     </div>
   );
