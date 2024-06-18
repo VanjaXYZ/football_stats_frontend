@@ -3,10 +3,12 @@ import { getOverallStats } from "@/app/routes/Other_Stats/routes";
 import { Button } from "@/components/ui/button";
 import { useOtherStats } from "@/store/OtherStatsStore";
 import { useState } from "react";
+import SelectOtherStatsCountry from "./SelectOtherStatsCountry";
 import ShowNumberOfGoalsStats from "./ShowNumberOfGoalsStats";
 
-const NumberOfGoals = () => {
-  const { otherStats, setOtherStatsCountry } = useOtherStats() as any;
+const NumberOfGoals = ({ countries }: { countries: any }) => {
+  const { otherStats, setActiveUrl, setOtherStatsCountry } =
+    useOtherStats() as any;
   const [statsData, setStatsData] = useState([]);
   const numberOfGoalsData: string[] | number = [
     "No goals",
@@ -49,8 +51,12 @@ const NumberOfGoals = () => {
     "7+ (between teams)",
   ];
   const special_urls = ["stats/two_one", "stats/plus_7_all"];
+
   const onGetData = async (path: string[], position: number) => {
-    const data = await getOverallStats(path[position]);
+    setOtherStatsCountry("");
+    const hasCountry = otherStats.country ? otherStats.country : "";
+    const data = await getOverallStats(path[position], hasCountry);
+    setActiveUrl(path[position]);
     setStatsData(data);
     return data;
   };
@@ -77,7 +83,12 @@ const NumberOfGoals = () => {
           </Button>
         ))}
       </div>
-      {statsData.length > 0 && <ShowNumberOfGoalsStats data={statsData} />}
+      <SelectOtherStatsCountry
+        countries={countries}
+        onGetData={onGetData}
+        setStatsData={(value: any) => setStatsData(value)}
+      />
+      {statsData?.length > 0 && <ShowNumberOfGoalsStats data={statsData} />}
     </>
   );
 };
