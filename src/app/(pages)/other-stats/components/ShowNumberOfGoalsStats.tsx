@@ -28,15 +28,11 @@ const ShowNumberOfGoalsStats = ({ data }: any) => {
       header: "Away team",
       Component: (item: any) => <div>{item?.team_2}</div>,
     },
-
     checkIf_Plus_7_All && {
-      key: checkIf_Plus_7_All ? "country_plus_7_all" : "team",
-      header: checkIf_Plus_7_All ? "Home team" : "Team",
-      Component: (item: any) => (
-        <div>{checkIf_Plus_7_All ? item?.team_1 : item?.team}</div>
-      ),
+      key: "country_plus_7_all",
+      header: "Home team",
+      Component: (item: any) => <div>{item?.team_1}</div>,
     },
-
     checkIf_Plus_7_All && {
       key: "country_plus_7_all",
       header: "Away team",
@@ -75,7 +71,7 @@ const ShowNumberOfGoalsStats = ({ data }: any) => {
       header: "Number of games",
       Component: (item: any) => <div>{item?.numberOfGames}</div>,
     },
-  ];
+  ].filter(Boolean);
   return (
     <div className="w-full">
       <TableComponent column={tableHeaders} row={data} />;
