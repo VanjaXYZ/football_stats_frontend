@@ -1,7 +1,6 @@
 "use server";
 import axios from "axios";
 import { Config } from "../../../../Config";
-import { revalidatePath } from "next/cache";
 
 export const getOverallStats = async (url?: string, country?: string) => {
   const hasCountry = country ? `/${country}` : "";
