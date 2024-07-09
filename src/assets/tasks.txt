@@ -6,3 +6,7 @@
 2. GAME PREDICTIONS - 
 1.1 ispod imena timova njihov ELO rejting ispisi (e.g. ELO: 500) - 👍
 1.2 ispod 1, X, 2 - dodati postotke - 👍
+
+3. HOME stranica - 
+3.1 '/random-three/random_three_stats' - API
+3.2 Ispod Game predictions napraviti 3 tabele. Svaka tabela ce dobijati response sa gore navedenog apija. 3 tabele x 10 timova. Iznad svake tabele neka pise tip rezultata/statistike.
