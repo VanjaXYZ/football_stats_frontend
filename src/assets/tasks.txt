@@ -10,3 +10,8 @@
 3. HOME stranica - 
 3.1 '/random-three/random_three_stats' - API
 3.2 Ispod Game predictions napraviti 3 tabele. Svaka tabela ce dobijati response sa gore navedenog apija. 3 tabele x 10 timova. Iznad svake tabele neka pise tip rezultata/statistike.
+
+4. ELO stranica - 
+4.1 napraviti side menu sa listom drzava. 
+4.2 Search u tom meniju koji ce da trazi drzave koje user ukuca
+4.3 klikom na drzavu updatuje se UI sa tabelom na toj stranici
