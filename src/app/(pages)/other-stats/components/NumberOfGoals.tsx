@@ -90,7 +90,11 @@ const NumberOfGoals = ({ countries }: { countries: any }) => {
           setStatsData={(value: any) => setStatsData(value)}
         />
       </section>
-      {statsData?.length > 0 && <ShowNumberOfGoalsStats data={statsData} />}
+      {statsData?.length > 0 ? (
+        <ShowNumberOfGoalsStats data={statsData} />
+      ) : (
+        <p className="text-center p-20">No data</p>
+      )}
     </>
   );
 };
