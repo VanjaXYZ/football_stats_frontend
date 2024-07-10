@@ -39,9 +39,9 @@ const TopELOTeams = ({ topEloTeams }: { topEloTeams: any }) => {
     },
   ];
   return (
-    <>
+    <div className="w-full">
       <TableComponent column={columnsData} row={topEloTeams} />
-    </>
+    </div>
   );
 };
 
