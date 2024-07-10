@@ -3,6 +3,7 @@ import HeroSection from "../(shared)/HeroSection";
 import { TableLoading } from "../(shared)/Loaders";
 import { GamePredictions } from "./components/game_predictions/GamePredictions";
 import ChooseTeams from "./stats_between_teams/ChooseTeams";
+import GenerateRandomThreeStats from "./components/generate_random_three_stats/GenerateRandomThreeStats";
 const Homepage = () => {
   return (
     <main className=" w-full min-h-[100vh]">
@@ -13,6 +14,7 @@ const Homepage = () => {
       <Suspense fallback={<TableLoading />}>
         <GamePredictions />
       </Suspense>
+      <GenerateRandomThreeStats />
     </main>
   );
 };
