@@ -9,7 +9,7 @@ const TopNavMenu = () => {
 
   return (
     pathname !== "/login" && (
-      <div className="ms-auto flex gap-16 items-center">
+      <div className="ms-auto flex gap-16 items-center font-bold">
         <Link
           href={"/home"}
           className={
@@ -29,6 +29,16 @@ const TopNavMenu = () => {
           }
         >
           Other stats
+        </Link>
+        <Link
+          href={"/elo"}
+          className={
+            pathname === "/elo"
+              ? "underline underline-offset-4 text-white text-xl"
+              : "text-white text-xl"
+          }
+        >
+          ELO
         </Link>
         <Link
           href={"/about"}
