@@ -9,9 +9,6 @@ const RandomThreeStatsTables = ({ data }: any) => {
   let table_2 = data?.random_three[1];
   let table_3 = data?.random_three[2];
 
-  let hasTableLength =
-    table_1.length > 0 && table_2.length > 0 && table_3.length > 0;
-
   const columndData = [
     {
       key: "team",
@@ -25,7 +22,7 @@ const RandomThreeStatsTables = ({ data }: any) => {
         for (let key in item?.stats) {
           if (item?.stats[key]?.country) {
             return (
-              <div className="flex items-center justify-between gap-x-6 max-w-32 m-auto">
+              <div className="flex items-center justify-center gap-x-6 max-w-32 m-auto">
                 {" "}
                 <Image
                   src={`${Config.baseURL}/${item?.stats[
@@ -35,7 +32,7 @@ const RandomThreeStatsTables = ({ data }: any) => {
                   width={20}
                   height={20}
                 />
-                {item?.stats[key]?.country}
+                {/* {item?.stats[key]?.country} */}
               </div>
             );
           }
@@ -51,28 +48,24 @@ const RandomThreeStatsTables = ({ data }: any) => {
   ];
   return (
     <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-2 px-2 md:gap-6 whitespace-nowrap">
-      {hasTableLength && (
-        <>
-          <div className="w-full">
-            <h2 className="text-center text-2xl bg-black text-white font-semibold w-full">
-              {table_1[0]?.type}
-            </h2>
-            <TableComponent column={columndData} row={table_1} />
-          </div>
-          <div className="">
-            <h2 className="text-center text-2xl bg-black text-white font-semibold">
-              {table_2[0]?.type}
-            </h2>
-            <TableComponent column={columndData} row={table_2} />
-          </div>
-          <div className="">
-            <h2 className="text-center text-2xl bg-black text-white font-semibold">
-              {table_3[0]?.type}
-            </h2>
-            <TableComponent column={columndData} row={table_3} />
-          </div>
-        </>
-      )}
+      <div className="w-full">
+        <h2 className="text-center text-2xl bg-black text-white font-semibold w-full">
+          {table_1[0]?.type}
+        </h2>
+        <TableComponent column={columndData} row={table_1} />
+      </div>
+      <div className="">
+        <h2 className="text-center text-2xl bg-black text-white font-semibold">
+          {table_2[0]?.type}
+        </h2>
+        <TableComponent column={columndData} row={table_2} />
+      </div>
+      <div className="">
+        <h2 className="text-center text-2xl bg-black text-white font-semibold">
+          {table_3[0]?.type}
+        </h2>
+        <TableComponent column={columndData} row={table_3} />
+      </div>
     </div>
   );
 };
