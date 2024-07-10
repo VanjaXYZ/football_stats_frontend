@@ -1,8 +1,8 @@
-"use client";
 import TableComponent from "@/app/(pages)/(shared)/TableComponent";
 import Image from "next/image";
-import React from "react";
+import React, { Suspense } from "react";
 import { Config } from "../../../../../../Config";
+import { SmallTableLoading } from "@/app/(pages)/(shared)/Loaders";
 
 const RandomThreeStatsTables = ({ data }: any) => {
   let table_1 = data?.random_three[0];
@@ -48,24 +48,30 @@ const RandomThreeStatsTables = ({ data }: any) => {
   ];
   return (
     <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-2 px-2 md:gap-6 whitespace-nowrap">
-      <div className="w-full">
-        <h2 className="text-center text-2xl bg-black text-white font-semibold uppercase">
-          {table_1[0]?.type}
-        </h2>
-        <TableComponent column={columndData} row={table_1} />
-      </div>
-      <div className="">
-        <h2 className="text-center text-2xl bg-black text-white font-semibold uppercase">
-          {table_2[0]?.type}
-        </h2>
-        <TableComponent column={columndData} row={table_2} />
-      </div>
-      <div className="">
-        <h2 className="text-center text-2xl bg-black text-white font-semibold uppercase">
-          {table_3[0]?.type}
-        </h2>
-        <TableComponent column={columndData} row={table_3} />
-      </div>
+      <Suspense fallback={<SmallTableLoading />}>
+        <div className="w-full">
+          <h2 className="text-center text-2xl bg-black text-white font-semibold uppercase">
+            {table_1[0]?.type}
+          </h2>
+          <TableComponent column={columndData} row={table_1} />
+        </div>
+      </Suspense>
+      <Suspense fallback={<SmallTableLoading />}>
+        <div className="">
+          <h2 className="text-center text-2xl bg-black text-white font-semibold uppercase">
+            {table_2[0]?.type}
+          </h2>
+          <TableComponent column={columndData} row={table_2} />
+        </div>
+      </Suspense>
+      <Suspense fallback={<SmallTableLoading />}>
+        <div className="">
+          <h2 className="text-center text-2xl bg-black text-white font-semibold uppercase">
+            {table_3[0]?.type}
+          </h2>
+          <TableComponent column={columndData} row={table_3} />
+        </div>
+      </Suspense>
     </div>
   );
 };
