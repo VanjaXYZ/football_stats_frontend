@@ -23,22 +23,22 @@ const RandomThreeStatsTables = ({ data }: any) => {
     },
   ];
   return (
-    <div className="space-y-4">
+    <div className="flex justify-evenly">
       {hasTableLength && (
         <>
-          <div>
+          <div className="w-1/4">
             <h2 className="text-center text-2xl bg-black text-white font-semibold">
               {table_1[0]?.type}
             </h2>
             <TableComponent column={columndData} row={table_1} />
           </div>
-          <div>
+          <div className="w-1/4">
             <h2 className="text-center text-2xl bg-black text-white font-semibold">
               {table_2[0]?.type}
             </h2>
             <TableComponent column={columndData} row={table_2} />
           </div>
-          <div>
+          <div className="w-1/4">
             <h2 className="text-center text-2xl bg-black text-white font-semibold">
               {table_3[0]?.type}
             </h2>
