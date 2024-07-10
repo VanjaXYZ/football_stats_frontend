@@ -1,0 +1,5570 @@
+[
+  {
+    "id": 0,
+    "country": "Albania",
+    "league": "2nd Division",
+    "date": "2008-09-20"
+  },
+  {
+    "id": 1,
+    "country": "Albania",
+    "league": "Kampionati i Femrave",
+    "date": "2021-01-23"
+  },
+  {
+    "id": 2,
+    "country": "Albania",
+    "league": "League 2 Group B",
+    "date": "2008-09-20"
+  },
+  {
+    "id": 3,
+    "country": "Albania",
+    "league": "1st Division",
+    "date": "2016-09-24"
+  },
+  {
+    "id": 4,
+    "country": "Albania",
+    "league": "Superliga",
+    "date": "2005-08-26"
+  },
+  {
+    "id": 5,
+    "country": "Algeria",
+    "league": "Ligue 1",
+    "date": "2005-08-24"
+  },
+  {
+    "id": 6,
+    "country": "Algeria",
+    "league": "U21 League 1",
+    "date": "2023-09-14"
+  },
+  {
+    "id": 7,
+    "country": "Algeria",
+    "league": "Ligue 2",
+    "date": "2005-08-25"
+  },
+  {
+    "id": 8,
+    "country": "Algeria",
+    "league": "Algeria Youth League",
+    "date": "2018-08-10"
+  },
+  {
+    "id": 9,
+    "country": "Andorra",
+    "league": "2 Division",
+    "date": "2006-09-22"
+  },
+  {
+    "id": 10,
+    "country": "Andorra",
+    "league": "Primera Division",
+    "date": "2005-09-24"
+  },
+  {
+    "id": 11,
+    "country": "Angola",
+    "league": "Girabola",
+    "date": "2018-10-27"
+  },
+  {
+    "id": 13,
+    "country": "Antigua_and_barbuda",
+    "league": "and Barbuda Premier Division",
+    "date": "2018-10-28"
+  },
+  {
+    "id": 14,
+    "country": "Argentina",
+    "league": "Torneo Federal B Pampeana Norte",
+    "date": "2007-01-02"
+  },
+  {
+    "id": 15,
+    "country": "Argentina",
+    "league": "Torneo Regional Federal Amateur Patagonica",
+    "date": "2022-02-10"
+  },
+  {
+    "id": 16,
+    "country": "Argentina",
+    "league": "Torneo Federal B Pampeana Sur",
+    "date": "2021-12-19"
+  },
+  {
+    "id": 17,
+    "country": "Argentina",
+    "league": "Copa de la Superliga",
+    "date": "2023-10-16"
+  },
+  {
+    "id": 18,
+    "country": "Argentina",
+    "league": "Torneo Regional Federal Amateur Litoral Norte",
+    "date": "2021-02-12"
+  },
+  {
+    "id": 19,
+    "country": "Argentina",
+    "league": "Torneo Regional Federal Amateur Cuyo",
+    "date": "2021-02-12"
+  },
+  {
+    "id": 20,
+    "country": "Argentina",
+    "league": "Primera D Metropolitana",
+    "date": "2006-11-17"
+  },
+  {
+    "id": 21,
+    "country": "Argentina",
+    "league": "Torneo Regional Federal Amateur Pampeana Sur",
+    "date": "2022-02-10"
+  },
+  {
+    "id": 22,
+    "country": "Argentina",
+    "league": "Torneo Regional Federal Amateur Norte",
+    "date": "2021-02-12"
+  },
+  {
+    "id": 23,
+    "country": "Argentina",
+    "league": "Primera C",
+    "date": "2006-11-23"
+  },
+  {
+    "id": 24,
+    "country": "Argentina",
+    "league": "Torneo Federal A",
+    "date": "2006-11-15"
+  },
+  {
+    "id": 25,
+    "country": "Argentina",
+    "league": "Primera B Nacional",
+    "date": "2005-12-07"
+  },
+  {
+    "id": 26,
+    "country": "Argentina",
+    "league": "Superliga",
+    "date": "2015-02-13"
+  },
+  {
+    "id": 27,
+    "country": "Argentina",
+    "league": "Torneo Regional Federal Amateur Litoral Sur",
+    "date": "2021-02-12"
+  },
+  {
+    "id": 28,
+    "country": "Argentina",
+    "league": "Primera B Metropolitana",
+    "date": "2007-01-26"
+  },
+  {
+    "id": 29,
+    "country": "Argentina",
+    "league": "Torneo Regional Federal Amateur Pampeana Norte",
+    "date": "2022-02-10"
+  },
+  {
+    "id": 30,
+    "country": "Argentina",
+    "league": "Reserve League",
+    "date": "2018-08-10"
+  },
+  {
+    "id": 31,
+    "country": "Armenia",
+    "league": "Premier League",
+    "date": "2012-03-31"
+  },
+  {
+    "id": 32,
+    "country": "Armenia",
+    "league": "First League",
+    "date": "2012-04-10"
+  },
+  {
+    "id": 33,
+    "country": "Aruba",
+    "league": "Division de Honor",
+    "date": "2007-09-27"
+  },
+  {
+    "id": 34,
+    "country": "Australia",
+    "league": "Western Australia State League 1",
+    "date": "2020-07-04"
+  },
+  {
+    "id": 35,
+    "country": "Australia",
+    "league": "Victoria NPL Youth League",
+    "date": "2019-02-15"
+  },
+  {
+    "id": 36,
+    "country": "Australia",
+    "league": "W League",
+    "date": "2018-10-25"
+  },
+  {
+    "id": 37,
+    "country": "Australia",
+    "league": "Npl Western Australia",
+    "date": "2018-01-20"
+  },
+  {
+    "id": 38,
+    "country": "Australia",
+    "league": "Ffa Cup",
+    "date": "2018-07-25"
+  },
+  {
+    "id": 39,
+    "country": "Australia",
+    "league": "Northern Territory Premier League",
+    "date": "2020-06-13"
+  },
+  {
+    "id": 40,
+    "country": "Australia",
+    "league": "South Australia Reserves Premier League",
+    "date": "2020-07-04"
+  },
+  {
+    "id": 41,
+    "country": "Australia",
+    "league": "Npl Tasmania",
+    "date": "2019-03-01"
+  },
+  {
+    "id": 42,
+    "country": "Australia",
+    "league": "Western Australia NPL Night Series",
+    "date": "2021-01-30"
+  },
+  {
+    "id": 43,
+    "country": "Australia",
+    "league": "A League",
+    "date": "2005-08-25"
+  },
+  {
+    "id": 44,
+    "country": "Australia",
+    "league": "Queensland Premier League",
+    "date": "2020-09-11"
+  },
+  {
+    "id": 45,
+    "country": "Australia",
+    "league": "Capital Territory NPL Women",
+    "date": "2020-08-22"
+  },
+  {
+    "id": 46,
+    "country": "Australia",
+    "league": "National Youth League",
+    "date": "2017-11-18"
+  },
+  {
+    "id": 47,
+    "country": "Australia",
+    "league": "Queensland NPL Women",
+    "date": "2020-08-22"
+  },
+  {
+    "id": 48,
+    "country": "Australia",
+    "league": "NPL Finals",
+    "date": "2018-08-11"
+  },
+  {
+    "id": 49,
+    "country": "Australia",
+    "league": "Brisbane Reserves Premier League",
+    "date": "2021-03-07"
+  },
+  {
+    "id": 50,
+    "country": "Australia",
+    "league": "A League Women",
+    "date": "2023-10-14"
+  },
+  {
+    "id": 51,
+    "country": "Australia",
+    "league": "Capital Territory",
+    "date": "2016-04-02"
+  },
+  {
+    "id": 52,
+    "country": "Australia",
+    "league": "Brisbane Premier League",
+    "date": "2017-02-18"
+  },
+  {
+    "id": 53,
+    "country": "Australia",
+    "league": "New South Wales",
+    "date": "2013-03-16"
+  },
+  {
+    "id": 54,
+    "country": "Australia",
+    "league": "Npl Victoria",
+    "date": "2019-02-14"
+  },
+  {
+    "id": 55,
+    "country": "Australia",
+    "league": "A League Men",
+    "date": "2023-10-20"
+  },
+  {
+    "id": 56,
+    "country": "Australia",
+    "league": "Npl Queensland",
+    "date": "2019-02-02"
+  },
+  {
+    "id": 57,
+    "country": "Australia",
+    "league": "Northern Nsw",
+    "date": "2014-04-05"
+  },
+  {
+    "id": 58,
+    "country": "Australia",
+    "league": "Queensland FFA Cup Preliminary",
+    "date": "2020-02-15"
+  },
+  {
+    "id": 59,
+    "country": "Australia",
+    "league": "Western Australia NPL Women",
+    "date": "2020-08-23"
+  },
+  {
+    "id": 60,
+    "country": "Australia",
+    "league": "South Australia State League 1",
+    "date": "2020-07-04"
+  },
+  {
+    "id": 61,
+    "country": "Australia",
+    "league": "Npl South Australian",
+    "date": "2019-02-22"
+  },
+  {
+    "id": 62,
+    "country": "Australia",
+    "league": "Victoria Premier League 2",
+    "date": "2019-02-16"
+  },
+  {
+    "id": 63,
+    "country": "Austria",
+    "league": "Landesliga Tirol",
+    "date": "2020-08-07"
+  },
+  {
+    "id": 64,
+    "country": "Austria",
+    "league": "Landesliga Wien",
+    "date": "2020-08-21"
+  },
+  {
+    "id": 65,
+    "country": "Austria",
+    "league": "Regionalliga Vorarlberg",
+    "date": "2020-08-01"
+  },
+  {
+    "id": 66,
+    "country": "Austria",
+    "league": "Regionalliga Ost",
+    "date": "2008-08-01"
+  },
+  {
+    "id": 67,
+    "country": "Austria",
+    "league": "Regionalliga West",
+    "date": "2008-07-25"
+  },
+  {
+    "id": 68,
+    "country": "Austria",
+    "league": "Landesliga Kaernten",
+    "date": "2020-07-31"
+  },
+  {
+    "id": 69,
+    "country": "Austria",
+    "league": "Landesliga Niederoesterreich",
+    "date": "2020-08-21"
+  },
+  {
+    "id": 70,
+    "country": "Austria",
+    "league": "Landesliga Oberoesterreich",
+    "date": "2020-08-14"
+  },
+  {
+    "id": 71,
+    "country": "Austria",
+    "league": "Jugendliga U18",
+    "date": "2020-08-29"
+  },
+  {
+    "id": 72,
+    "country": "Austria",
+    "league": "Admiral Bundesliga",
+    "date": "2005-07-11"
+  },
+  {
+    "id": 73,
+    "country": "Austria",
+    "league": "Regionalliga Mitte",
+    "date": "2008-08-01"
+  },
+  {
+    "id": 74,
+    "country": "Austria",
+    "league": "Erste Liga",
+    "date": "2005-07-07"
+  },
+  {
+    "id": 75,
+    "country": "Austria",
+    "league": "Landesliga Burgenland",
+    "date": "2020-08-21"
+  },
+  {
+    "id": 76,
+    "country": "Austria",
+    "league": "Landesliga Salzburg",
+    "date": "2020-08-14"
+  },
+  {
+    "id": 77,
+    "country": "Austria",
+    "league": "Landesliga Steiermark",
+    "date": "2020-08-28"
+  },
+  {
+    "id": 78,
+    "country": "Austria",
+    "league": "Regionalliga Salzburg",
+    "date": "2020-08-07"
+  },
+  {
+    "id": 79,
+    "country": "Austria",
+    "league": "KFV Cup",
+    "date": "2020-07-24"
+  },
+  {
+    "id": 80,
+    "country": "Austria",
+    "league": "Regionalliga Tirol",
+    "date": "2020-07-31"
+  },
+  {
+    "id": 81,
+    "country": "Austria",
+    "league": "Landesliga Vorarlberg",
+    "date": "2018-07-27"
+  },
+  {
+    "id": 82,
+    "country": "Azerbaijan",
+    "league": "Birinci Dasta",
+    "date": "2007-09-01"
+  },
+  {
+    "id": 83,
+    "country": "Azerbaijan",
+    "league": "Premier League",
+    "date": "2005-08-11"
+  },
+  {
+    "id": 84,
+    "country": "Bahrain",
+    "league": "Permier League Play offs",
+    "date": "2022-05-06"
+  },
+  {
+    "id": 85,
+    "country": "Bahrain",
+    "league": "Premier League",
+    "date": "2005-10-06"
+  },
+  {
+    "id": 86,
+    "country": "Bahrain",
+    "league": "Second Division",
+    "date": "2019-09-17"
+  },
+  {
+    "id": 87,
+    "country": "Bangladesh",
+    "league": "Premier League",
+    "date": "2008-09-12"
+  },
+  {
+    "id": 88,
+    "country": "Barbados",
+    "league": "Premier League",
+    "date": "2006-02-11"
+  },
+  {
+    "id": 89,
+    "country": "Barbados",
+    "league": "Premier League 2018",
+    "date": "2018-01-13"
+  },
+  {
+    "id": 90,
+    "country": "Belarus",
+    "league": "Second Division Play offs",
+    "date": "2010-04-24"
+  },
+  {
+    "id": 91,
+    "country": "Belarus",
+    "league": "Vysshaya Liga",
+    "date": "2005-04-15"
+  },
+  {
+    "id": 92,
+    "country": "Belarus",
+    "league": "Vysshaya Liga Reserve",
+    "date": "2020-03-18"
+  },
+  {
+    "id": 93,
+    "country": "Belarus",
+    "league": "Second Division Vitebsk Region",
+    "date": "2022-05-07"
+  },
+  {
+    "id": 94,
+    "country": "Belarus",
+    "league": "Second Division Brest Region",
+    "date": "2022-04-16"
+  },
+  {
+    "id": 95,
+    "country": "Belarus",
+    "league": "Second Division Minsk Region",
+    "date": "2022-04-15"
+  },
+  {
+    "id": 96,
+    "country": "Belarus",
+    "league": "Second Division Gomel Region",
+    "date": "2022-05-07"
+  },
+  {
+    "id": 97,
+    "country": "Belarus",
+    "league": "Second Division Grodno Region",
+    "date": "2022-04-23"
+  },
+  {
+    "id": 98,
+    "country": "Belarus",
+    "league": "Vysshaya Liga Women",
+    "date": "2020-04-30"
+  },
+  {
+    "id": 99,
+    "country": "Belarus",
+    "league": "Second Division Mogilev Region",
+    "date": "2022-05-07"
+  },
+  {
+    "id": 100,
+    "country": "Belarus",
+    "league": "Pershaya Liga",
+    "date": "2005-04-15"
+  },
+  {
+    "id": 101,
+    "country": "Belgium",
+    "league": "Third Amateur Division ACFF A",
+    "date": "2007-08-30"
+  },
+  {
+    "id": 102,
+    "country": "Belgium",
+    "league": "Third Amateur Division VFV B",
+    "date": "2007-08-31"
+  },
+  {
+    "id": 103,
+    "country": "Belgium",
+    "league": "First Division B",
+    "date": "2005-08-30"
+  },
+  {
+    "id": 104,
+    "country": "Belgium",
+    "league": "Second Division Women",
+    "date": "2020-09-19"
+  },
+  {
+    "id": 105,
+    "country": "Belgium",
+    "league": "Provincial West Vlaanderen",
+    "date": "2010-08-29"
+  },
+  {
+    "id": 106,
+    "country": "Belgium",
+    "league": "Provincial Limburg",
+    "date": "2010-09-04"
+  },
+  {
+    "id": 107,
+    "country": "Belgium",
+    "league": "Provincial Luxembourg",
+    "date": "2010-08-21"
+  },
+  {
+    "id": 108,
+    "country": "Belgium",
+    "league": "Provincial Namur",
+    "date": "2010-08-21"
+  },
+  {
+    "id": 109,
+    "country": "Belgium",
+    "league": "Provincial Brabant",
+    "date": "2010-08-28"
+  },
+  {
+    "id": 110,
+    "country": "Belgium",
+    "league": "Challenger Pro League",
+    "date": "2021-08-13"
+  },
+  {
+    "id": 111,
+    "country": "Belgium",
+    "league": "Reserve Pro League 2",
+    "date": "2018-08-06"
+  },
+  {
+    "id": 112,
+    "country": "Belgium",
+    "league": "Reserve Pro League",
+    "date": "2018-08-06"
+  },
+  {
+    "id": 113,
+    "country": "Belgium",
+    "league": "Provincial Hainaut",
+    "date": "2010-08-22"
+  },
+  {
+    "id": 114,
+    "country": "Belgium",
+    "league": "Second Amateur Division VFV A",
+    "date": "2005-09-02"
+  },
+  {
+    "id": 115,
+    "country": "Belgium",
+    "league": "Second Amateur Division VFV B",
+    "date": "2005-09-02"
+  },
+  {
+    "id": 116,
+    "country": "Belgium",
+    "league": "Pro League",
+    "date": "2005-08-04"
+  },
+  {
+    "id": 117,
+    "country": "Belgium",
+    "league": "Provincial Oost Vlaanderen",
+    "date": "2010-08-28"
+  },
+  {
+    "id": 118,
+    "country": "Belgium",
+    "league": "Third Amateur Division VFV A",
+    "date": "2007-08-31"
+  },
+  {
+    "id": 119,
+    "country": "Belgium",
+    "league": "Super League Women",
+    "date": "2018-09-07"
+  },
+  {
+    "id": 120,
+    "country": "Belgium",
+    "league": "Third Amateur Division ACFF B",
+    "date": "2007-08-31"
+  },
+  {
+    "id": 121,
+    "country": "Belgium",
+    "league": "1st National Women",
+    "date": "2018-08-25"
+  },
+  {
+    "id": 122,
+    "country": "Belgium",
+    "league": "First Amateur Division",
+    "date": "2016-09-02"
+  },
+  {
+    "id": 123,
+    "country": "Belgium",
+    "league": "Provincial Play offs",
+    "date": "2019-04-28"
+  },
+  {
+    "id": 124,
+    "country": "Belgium",
+    "league": "Belgium Playoffs",
+    "date": "2014-05-04"
+  },
+  {
+    "id": 125,
+    "country": "Belgium",
+    "league": "Provincial Liege",
+    "date": "2010-08-21"
+  },
+  {
+    "id": 126,
+    "country": "Belgium",
+    "league": "Provincial Antwerpen",
+    "date": "2010-08-28"
+  },
+  {
+    "id": 127,
+    "country": "Belgium",
+    "league": "UEFA Europa League Play offs",
+    "date": "2017-04-01"
+  },
+  {
+    "id": 128,
+    "country": "Belgium",
+    "league": "Second Amateur Division ACFF",
+    "date": "2017-05-21"
+  },
+  {
+    "id": 129,
+    "country": "Belize",
+    "league": "Premier League",
+    "date": "2007-09-29"
+  },
+  {
+    "id": 130,
+    "country": "Benin",
+    "league": "Championnat National",
+    "date": "2017-06-17"
+  },
+  {
+    "id": 131,
+    "country": "Bermuda",
+    "league": "Premier League",
+    "date": "2007-10-06"
+  },
+  {
+    "id": 132,
+    "country": "Bhutan",
+    "league": "Bhutan Premier League",
+    "date": "2020-10-21"
+  },
+  {
+    "id": 133,
+    "country": "Bhutan",
+    "league": "Super League",
+    "date": "2010-06-25"
+  },
+  {
+    "id": 134,
+    "country": "Bolivia",
+    "league": "Nacional B",
+    "date": "2020-11-07"
+  },
+  {
+    "id": 135,
+    "country": "Bolivia",
+    "league": "Liga De Futbol Prof",
+    "date": "2006-07-28"
+  },
+  {
+    "id": 136,
+    "country": "Bolivia",
+    "league": "Liga De Futbol Prof 2016",
+    "date": "2017-05-13"
+  },
+  {
+    "id": 137,
+    "country": "Bosnia_and_herzegovina",
+    "league": "Premier Liga",
+    "date": "2005-08-05"
+  },
+  {
+    "id": 138,
+    "country": "Bosnia_and_herzegovina",
+    "league": "First League RS",
+    "date": "2005-08-12"
+  },
+  {
+    "id": 139,
+    "country": "Bosnia_and_herzegovina",
+    "league": "First League FBiH",
+    "date": "2005-08-12"
+  },
+  {
+    "id": 140,
+    "country": "Botswana",
+    "league": "Premier League",
+    "date": "2018-08-18"
+  },
+  {
+    "id": 141,
+    "country": "Brazil",
+    "league": "Acreano",
+    "date": "2005-05-20"
+  },
+  {
+    "id": 142,
+    "country": "Brazil",
+    "league": "Carioca Serie A",
+    "date": "2006-01-13"
+  },
+  {
+    "id": 143,
+    "country": "Brazil",
+    "league": "Serie A",
+    "date": "2005-04-22"
+  },
+  {
+    "id": 144,
+    "country": "Brazil",
+    "league": "Copa do Nordeste 2021",
+    "date": "2020-12-16"
+  },
+  {
+    "id": 145,
+    "country": "Brazil",
+    "league": "Copa Santa Catarina",
+    "date": "2021-01-13"
+  },
+  {
+    "id": 146,
+    "country": "Brazil",
+    "league": "Brasileiro De Aspirantes",
+    "date": "2021-01-07"
+  },
+  {
+    "id": 147,
+    "country": "Brazil",
+    "league": "Brasileiro Women",
+    "date": "2019-03-16"
+  },
+  {
+    "id": 148,
+    "country": "Brazil",
+    "league": "Paranaense U19",
+    "date": "2019-05-03"
+  },
+  {
+    "id": 149,
+    "country": "Brazil",
+    "league": "Paulista A2",
+    "date": "2007-01-17"
+  },
+  {
+    "id": 150,
+    "country": "Brazil",
+    "league": "Catarinense 2",
+    "date": "2019-06-01"
+  },
+  {
+    "id": 151,
+    "country": "Brazil",
+    "league": "Sergipano",
+    "date": "2006-01-07"
+  },
+  {
+    "id": 152,
+    "country": "Brazil",
+    "league": "Baiano 1",
+    "date": "2006-01-07"
+  },
+  {
+    "id": 153,
+    "country": "Brazil",
+    "league": "Amapaense",
+    "date": "2005-07-09"
+  },
+  {
+    "id": 154,
+    "country": "Brazil",
+    "league": "Cearense 2",
+    "date": "2010-01-16"
+  },
+  {
+    "id": 155,
+    "country": "Brazil",
+    "league": "Mineiro U20",
+    "date": "2019-04-13"
+  },
+  {
+    "id": 156,
+    "country": "Brazil",
+    "league": "Mineiro 1",
+    "date": "2006-01-17"
+  },
+  {
+    "id": 157,
+    "country": "Brazil",
+    "league": "Mineiro 2",
+    "date": "2007-02-10"
+  },
+  {
+    "id": 158,
+    "country": "Brazil",
+    "league": "Gaucho 2",
+    "date": "2007-04-27"
+  },
+  {
+    "id": 159,
+    "country": "Brazil",
+    "league": "Serie C",
+    "date": "2005-07-30"
+  },
+  {
+    "id": 160,
+    "country": "Brazil",
+    "league": "Serie B",
+    "date": "2005-04-22"
+  },
+  {
+    "id": 161,
+    "country": "Brazil",
+    "league": "Cearense 1",
+    "date": "2006-01-06"
+  },
+  {
+    "id": 162,
+    "country": "Brazil",
+    "league": "Roraimense",
+    "date": "2005-02-18"
+  },
+  {
+    "id": 163,
+    "country": "Brazil",
+    "league": "Copa Gaucha",
+    "date": "2020-11-17"
+  },
+  {
+    "id": 164,
+    "country": "Brazil",
+    "league": "Paranaense 2",
+    "date": "2009-05-01"
+  },
+  {
+    "id": 165,
+    "country": "Brazil",
+    "league": "Rondoniense",
+    "date": "2006-03-03"
+  },
+  {
+    "id": 166,
+    "country": "Brazil",
+    "league": "Carioca U20",
+    "date": "2019-03-16"
+  },
+  {
+    "id": 167,
+    "country": "Brazil",
+    "league": "Paraibano",
+    "date": "2005-03-09"
+  },
+  {
+    "id": 168,
+    "country": "Brazil",
+    "league": "Paulista A1",
+    "date": "2006-01-10"
+  },
+  {
+    "id": 169,
+    "country": "Brazil",
+    "league": "Paranaense 1",
+    "date": "2006-01-10"
+  },
+  {
+    "id": 170,
+    "country": "Brazil",
+    "league": "Copa do Nordeste",
+    "date": "2010-06-09"
+  },
+  {
+    "id": 171,
+    "country": "Brazil",
+    "league": "Brasiliense",
+    "date": "2006-01-14"
+  },
+  {
+    "id": 172,
+    "country": "Brazil",
+    "league": "Tocantinense",
+    "date": "2005-03-18"
+  },
+  {
+    "id": 173,
+    "country": "Brazil",
+    "league": "Alagoano",
+    "date": "2006-01-14"
+  },
+  {
+    "id": 174,
+    "country": "Brazil",
+    "league": "Piauiense",
+    "date": "2005-04-29"
+  },
+  {
+    "id": 175,
+    "country": "Brazil",
+    "league": "Matogrossense",
+    "date": "2006-02-03"
+  },
+  {
+    "id": 176,
+    "country": "Brazil",
+    "league": "Paulista A3",
+    "date": "2009-01-31"
+  },
+  {
+    "id": 177,
+    "country": "Brazil",
+    "league": "Catarinense 1",
+    "date": "2006-01-10"
+  },
+  {
+    "id": 178,
+    "country": "Brazil",
+    "league": "Copa Paulista",
+    "date": "2017-06-30"
+  },
+  {
+    "id": 179,
+    "country": "Brazil",
+    "league": "Sul Matogrossense",
+    "date": "2006-01-28"
+  },
+  {
+    "id": 180,
+    "country": "Brazil",
+    "league": "Brasileiro U20",
+    "date": "2018-07-03"
+  },
+  {
+    "id": 181,
+    "country": "Brazil",
+    "league": "Baiano 2",
+    "date": "2012-07-01"
+  },
+  {
+    "id": 182,
+    "country": "Brazil",
+    "league": "Amazonense",
+    "date": "2006-01-10"
+  },
+  {
+    "id": 183,
+    "country": "Brazil",
+    "league": "Pernambucano 1",
+    "date": "2006-02-07"
+  },
+  {
+    "id": 184,
+    "country": "Brazil",
+    "league": "Copa Do Nordeste U20",
+    "date": "2020-12-08"
+  },
+  {
+    "id": 185,
+    "country": "Brazil",
+    "league": "Potiguar",
+    "date": "2006-01-27"
+  },
+  {
+    "id": 186,
+    "country": "Brazil",
+    "league": "Primeira Liga",
+    "date": "2017-01-24"
+  },
+  {
+    "id": 187,
+    "country": "Brazil",
+    "league": "Paulista Women",
+    "date": "2019-03-31"
+  },
+  {
+    "id": 188,
+    "country": "Brazil",
+    "league": "Carioca 2",
+    "date": "2007-08-17"
+  },
+  {
+    "id": 189,
+    "country": "Brazil",
+    "league": "Maranhense",
+    "date": "2010-11-18"
+  },
+  {
+    "id": 190,
+    "country": "Brazil",
+    "league": "Capixaba",
+    "date": "2006-02-08"
+  },
+  {
+    "id": 191,
+    "country": "Brazil",
+    "league": "Paulista Serie B",
+    "date": "2019-04-06"
+  },
+  {
+    "id": 192,
+    "country": "Brazil",
+    "league": "Goiano 1",
+    "date": "2006-01-07"
+  },
+  {
+    "id": 193,
+    "country": "Brazil",
+    "league": "Gaucho 1",
+    "date": "2006-01-10"
+  },
+  {
+    "id": 194,
+    "country": "Brazil",
+    "league": "Carioca 1 Taca Rio",
+    "date": "2007-03-09"
+  },
+  {
+    "id": 195,
+    "country": "Brazil",
+    "league": "Serie D",
+    "date": "2009-07-05"
+  },
+  {
+    "id": 196,
+    "country": "Brazil",
+    "league": "Paulista U20",
+    "date": "2019-04-12"
+  },
+  {
+    "id": 197,
+    "country": "Brazil",
+    "league": "Copa Fares Lopes",
+    "date": "2021-01-13"
+  },
+  {
+    "id": 198,
+    "country": "Brazil",
+    "league": "Sao Paolo Youth Cup",
+    "date": "2018-01-02"
+  },
+  {
+    "id": 199,
+    "country": "Brazil",
+    "league": "Paraense",
+    "date": "2005-11-25"
+  },
+  {
+    "id": 200,
+    "country": "Bulgaria",
+    "league": "3 League Northeast",
+    "date": "2008-08-16"
+  },
+  {
+    "id": 201,
+    "country": "Bulgaria",
+    "league": "3 League Southwest",
+    "date": "2010-08-14"
+  },
+  {
+    "id": 202,
+    "country": "Bulgaria",
+    "league": "Second League",
+    "date": "2021-07-24"
+  },
+  {
+    "id": 203,
+    "country": "Bulgaria",
+    "league": "3 League Northwest",
+    "date": "2009-08-16"
+  },
+  {
+    "id": 204,
+    "country": "Bulgaria",
+    "league": "First League",
+    "date": "2021-07-23"
+  },
+  {
+    "id": 205,
+    "country": "Bulgaria",
+    "league": "Second League West",
+    "date": "2005-08-12"
+  },
+  {
+    "id": 206,
+    "country": "Bulgaria",
+    "league": "Parva Liga",
+    "date": "2005-08-05"
+  },
+  {
+    "id": 207,
+    "country": "Bulgaria",
+    "league": "3 League Southeast",
+    "date": "2010-08-15"
+  },
+  {
+    "id": 208,
+    "country": "Bulgaria",
+    "league": "Vtora Liga",
+    "date": "2005-08-12"
+  },
+  {
+    "id": 209,
+    "country": "Burkina_faso",
+    "league": "Faso Premier League",
+    "date": "2017-06-04"
+  },
+  {
+    "id": 210,
+    "country": "Burundi",
+    "league": "Ligue A",
+    "date": "2020-02-22"
+  },
+  {
+    "id": 211,
+    "country": "Cambodia",
+    "league": "C League",
+    "date": "2010-03-27"
+  },
+  {
+    "id": 212,
+    "country": "Cameroon",
+    "league": "Elite Two",
+    "date": "2019-10-01"
+  },
+  {
+    "id": 213,
+    "country": "Cameroon",
+    "league": "Elite One",
+    "date": "2007-12-07"
+  },
+  {
+    "id": 214,
+    "country": "Canada",
+    "league": "Premier League",
+    "date": "2019-04-27"
+  },
+  {
+    "id": 215,
+    "country": "Canada",
+    "league": "PCSL",
+    "date": "2005-05-06"
+  },
+  {
+    "id": 216,
+    "country": "Canada",
+    "league": "League 1 Ontario",
+    "date": "2021-07-31"
+  },
+  {
+    "id": 217,
+    "country": "Canada",
+    "league": "PLSQ",
+    "date": "2020-07-25"
+  },
+  {
+    "id": 218,
+    "country": "Canada",
+    "league": "Canadian Soccer League",
+    "date": "2005-05-20"
+  },
+  {
+    "id": 219,
+    "country": "Chile",
+    "league": "Segunda Division",
+    "date": "2019-04-06"
+  },
+  {
+    "id": 220,
+    "country": "Chile",
+    "league": "Primera B",
+    "date": "2006-03-03"
+  },
+  {
+    "id": 221,
+    "country": "Chile",
+    "league": "Chilean Cup",
+    "date": "2008-07-06"
+  },
+  {
+    "id": 222,
+    "country": "Chile",
+    "league": "Primera Division",
+    "date": "2005-05-31"
+  },
+  {
+    "id": 223,
+    "country": "China_pr",
+    "league": "Super League",
+    "date": "2005-04-01"
+  },
+  {
+    "id": 224,
+    "country": "China_pr",
+    "league": "FA Cup",
+    "date": "2018-03-17"
+  },
+  {
+    "id": 225,
+    "country": "China_pr",
+    "league": "League One",
+    "date": "2005-03-03"
+  },
+  {
+    "id": 226,
+    "country": "Chinese_taipei",
+    "league": "Taiwan Mulan Football League",
+    "date": "2020-04-11"
+  },
+  {
+    "id": 227,
+    "country": "Chinese_taipei",
+    "league": "Taiwan Football Premier League",
+    "date": "2009-01-01"
+  },
+  {
+    "id": 228,
+    "country": "Colombia",
+    "league": "Liga BetPlay",
+    "date": "2005-06-21"
+  },
+  {
+    "id": 229,
+    "country": "Colombia",
+    "league": "Copa Betplay",
+    "date": "2008-03-12"
+  },
+  {
+    "id": 230,
+    "country": "Colombia",
+    "league": "Torneo Betplay",
+    "date": "2006-07-14"
+  },
+  {
+    "id": 231,
+    "country": "Congo",
+    "league": "Ligue 1",
+    "date": "2018-01-27"
+  },
+  {
+    "id": 232,
+    "country": "Congo_dr",
+    "league": "DR Super Ligue",
+    "date": "2010-01-23"
+  },
+  {
+    "id": 233,
+    "country": "Costa_rica",
+    "league": "Liga de Ascenso",
+    "date": "2009-08-08"
+  },
+  {
+    "id": 234,
+    "country": "Costa_rica",
+    "league": "Primera Division",
+    "date": "2005-12-10"
+  },
+  {
+    "id": 235,
+    "country": "Croatia",
+    "league": "1 HNL",
+    "date": "2005-07-19"
+  },
+  {
+    "id": 236,
+    "country": "Croatia",
+    "league": "3 HNL Sjever",
+    "date": "2011-08-20"
+  },
+  {
+    "id": 237,
+    "country": "Croatia",
+    "league": "U19 League",
+    "date": "2020-09-05"
+  },
+  {
+    "id": 238,
+    "country": "Croatia",
+    "league": "3 HNL Center",
+    "date": "2020-08-22"
+  },
+  {
+    "id": 239,
+    "country": "Croatia",
+    "league": "3 HNL Sredite",
+    "date": "2012-08-25"
+  },
+  {
+    "id": 240,
+    "country": "Croatia",
+    "league": "3 HNL South",
+    "date": "2008-08-22"
+  },
+  {
+    "id": 241,
+    "country": "Croatia",
+    "league": "3 HNL West",
+    "date": "2008-08-22"
+  },
+  {
+    "id": 242,
+    "country": "Croatia",
+    "league": "2 HNL",
+    "date": "2005-08-19"
+  },
+  {
+    "id": 243,
+    "country": "Croatia",
+    "league": "3 HNL North",
+    "date": "2020-08-22"
+  },
+  {
+    "id": 244,
+    "country": "Croatia",
+    "league": "3 HNL East",
+    "date": "2008-08-06"
+  },
+  {
+    "id": 245,
+    "country": "Cuba",
+    "league": "Primera Division",
+    "date": "2019-01-19"
+  },
+  {
+    "id": 246,
+    "country": "Cyprus",
+    "league": "3 Division",
+    "date": "2008-09-19"
+  },
+  {
+    "id": 247,
+    "country": "Cyprus",
+    "league": "1 Division",
+    "date": "2005-08-26"
+  },
+  {
+    "id": 248,
+    "country": "Cyprus",
+    "league": "2 Division",
+    "date": "2006-09-22"
+  },
+  {
+    "id": 249,
+    "country": "Czech_republic",
+    "league": "4 Liga Division D",
+    "date": "2011-08-06"
+  },
+  {
+    "id": 250,
+    "country": "Czech_republic",
+    "league": "4 Liga Division A",
+    "date": "2011-08-12"
+  },
+  {
+    "id": 251,
+    "country": "Czech_republic",
+    "league": "3 Liga MSFL",
+    "date": "2005-08-12"
+  },
+  {
+    "id": 252,
+    "country": "Czech_republic",
+    "league": "First League Women",
+    "date": "2018-08-18"
+  },
+  {
+    "id": 253,
+    "country": "Czech_republic",
+    "league": "4 Liga Division E",
+    "date": "2011-08-06"
+  },
+  {
+    "id": 254,
+    "country": "Czech_republic",
+    "league": "Fortuna Liga",
+    "date": "2005-08-04"
+  },
+  {
+    "id": 255,
+    "country": "Czech_republic",
+    "league": "4 Liga Division C",
+    "date": "2011-08-13"
+  },
+  {
+    "id": 256,
+    "country": "Czech_republic",
+    "league": "Tipsport Liga",
+    "date": "2021-01-07"
+  },
+  {
+    "id": 257,
+    "country": "Czech_republic",
+    "league": "4 Liga Division F",
+    "date": "2020-09-12"
+  },
+  {
+    "id": 260,
+    "country": "Czech_republic",
+    "league": "Youth League",
+    "date": "2017-09-26"
+  },
+  {
+    "id": 261,
+    "country": "Czech_republic",
+    "league": "4 Liga Division B",
+    "date": "2011-08-12"
+  },
+  {
+    "id": 262,
+    "country": "Czech_republic",
+    "league": "U19 League",
+    "date": "2017-11-17"
+  },
+  {
+    "id": 263,
+    "country": "Czech_republic",
+    "league": "2 Liga FNL",
+    "date": "2005-08-04"
+  },
+  {
+    "id": 264,
+    "country": "Czech_republic",
+    "league": "Czech Cup",
+    "date": "2018-07-28"
+  },
+  {
+    "id": 266,
+    "country": "Czech_republic",
+    "league": "3 Liga CFL",
+    "date": "2005-08-05"
+  },
+  {
+    "id": 267,
+    "country": "Denmark",
+    "league": "Denmark Series Group 3",
+    "date": "2008-08-15"
+  },
+  {
+    "id": 268,
+    "country": "Denmark",
+    "league": "2 Division Group East",
+    "date": "2005-08-05"
+  },
+  {
+    "id": 269,
+    "country": "Denmark",
+    "league": "2 Division Group 2",
+    "date": "2015-08-07"
+  },
+  {
+    "id": 270,
+    "country": "Denmark",
+    "league": "2 Division Group West",
+    "date": "2005-08-04"
+  },
+  {
+    "id": 271,
+    "country": "Denmark",
+    "league": "Reserve League",
+    "date": "2018-07-08"
+  },
+  {
+    "id": 272,
+    "country": "Denmark",
+    "league": "2 Division Group 3",
+    "date": "2015-08-07"
+  },
+  {
+    "id": 273,
+    "country": "Denmark",
+    "league": "2 Division Group 1",
+    "date": "2015-08-08"
+  },
+  {
+    "id": 274,
+    "country": "Denmark",
+    "league": "Denmark Series Group 2",
+    "date": "2008-08-15"
+  },
+  {
+    "id": 275,
+    "country": "Denmark",
+    "league": "Women s Play offs 1 2",
+    "date": "2019-04-07"
+  },
+  {
+    "id": 276,
+    "country": "Denmark",
+    "league": "Superliga",
+    "date": "2005-07-18"
+  },
+  {
+    "id": 277,
+    "country": "Denmark",
+    "league": "Denmark Series Group 4",
+    "date": "2016-08-05"
+  },
+  {
+    "id": 278,
+    "country": "Denmark",
+    "league": "Denmark Series Group 1",
+    "date": "2008-08-14"
+  },
+  {
+    "id": 279,
+    "country": "Denmark",
+    "league": "1 Division Women Play offs",
+    "date": "2022-03-26"
+  },
+  {
+    "id": 280,
+    "country": "Denmark",
+    "league": "U19 League",
+    "date": "2019-08-10"
+  },
+  {
+    "id": 281,
+    "country": "Denmark",
+    "league": "2 Division Play offs",
+    "date": "2019-04-22"
+  },
+  {
+    "id": 282,
+    "country": "Denmark",
+    "league": "First Division",
+    "date": "2005-07-29"
+  },
+  {
+    "id": 283,
+    "country": "Denmark",
+    "league": "Elitedivisionen Women",
+    "date": "2018-08-11"
+  },
+  {
+    "id": 284,
+    "country": "Dominican_republic",
+    "league": "Liga Mayor",
+    "date": "2012-11-04"
+  },
+  {
+    "id": 285,
+    "country": "Ecuador",
+    "league": "Primera B",
+    "date": "2006-07-13"
+  },
+  {
+    "id": 286,
+    "country": "Ecuador",
+    "league": "Liga Pro",
+    "date": "2007-07-13"
+  },
+  {
+    "id": 287,
+    "country": "Egypt",
+    "league": "Second League Group B",
+    "date": "2020-09-22"
+  },
+  {
+    "id": 288,
+    "country": "Egypt",
+    "league": "Premier League",
+    "date": "2005-08-11"
+  },
+  {
+    "id": 289,
+    "country": "Egypt",
+    "league": "Second League Group C",
+    "date": "2020-09-22"
+  },
+  {
+    "id": 290,
+    "country": "Egypt",
+    "league": "Second League Group A",
+    "date": "2020-09-20"
+  },
+  {
+    "id": 291,
+    "country": "El_salvador",
+    "league": "Primera Division",
+    "date": "2005-12-03"
+  },
+  {
+    "id": 292,
+    "country": "England",
+    "league": "National League",
+    "date": "2005-08-12"
+  },
+  {
+    "id": 293,
+    "country": "England",
+    "league": "Wsl 2 Women",
+    "date": "2017-09-24"
+  },
+  {
+    "id": 294,
+    "country": "England",
+    "league": "Non League Div One Northern South",
+    "date": "2007-08-17"
+  },
+  {
+    "id": 295,
+    "country": "England",
+    "league": "Non League Premier Isthmian",
+    "date": "2005-08-19"
+  },
+  {
+    "id": 296,
+    "country": "England",
+    "league": "Championship",
+    "date": "2005-08-05"
+  },
+  {
+    "id": 297,
+    "country": "England",
+    "league": "Premier League",
+    "date": "2005-08-13"
+  },
+  {
+    "id": 298,
+    "country": "England",
+    "league": "Premier League 2 Divison Two",
+    "date": "2017-05-16"
+  },
+  {
+    "id": 299,
+    "country": "England",
+    "league": "Non League Div One Southern S W",
+    "date": "2010-08-14"
+  },
+  {
+    "id": 300,
+    "country": "England",
+    "league": "Women s National League Premier Division North",
+    "date": "2020-09-20"
+  },
+  {
+    "id": 301,
+    "country": "England",
+    "league": "Non League Premier Southern Central",
+    "date": "2005-08-12"
+  },
+  {
+    "id": 302,
+    "country": "England",
+    "league": "Non League Premier Southern South",
+    "date": "2019-08-10"
+  },
+  {
+    "id": 303,
+    "country": "England",
+    "league": "FA Cup",
+    "date": "2019-08-09"
+  },
+  {
+    "id": 304,
+    "country": "England",
+    "league": "Central League Cup",
+    "date": "2020-09-22"
+  },
+  {
+    "id": 305,
+    "country": "England",
+    "league": "Women s National League Premier Division South",
+    "date": "2020-09-20"
+  },
+  {
+    "id": 306,
+    "country": "England",
+    "league": "League Cup Women",
+    "date": "2018-08-18"
+  },
+  {
+    "id": 307,
+    "country": "England",
+    "league": "Vanarama National League North",
+    "date": "2005-08-12"
+  },
+  {
+    "id": 308,
+    "country": "England",
+    "league": "Carabao Cup",
+    "date": "2005-08-21"
+  },
+  {
+    "id": 309,
+    "country": "England",
+    "league": "Professional Development League",
+    "date": "2017-10-06"
+  },
+  {
+    "id": 310,
+    "country": "England",
+    "league": "Women s Super League",
+    "date": "2017-09-22"
+  },
+  {
+    "id": 311,
+    "country": "England",
+    "league": "Women s National League Division One Midlands",
+    "date": "2020-09-20"
+  },
+  {
+    "id": 312,
+    "country": "England",
+    "league": "Non League Div One Isthmian South East",
+    "date": "2020-09-19"
+  },
+  {
+    "id": 313,
+    "country": "England",
+    "league": "Women s National League Division One SE",
+    "date": "2020-09-20"
+  },
+  {
+    "id": 314,
+    "country": "England",
+    "league": "Women s National League Division One SW",
+    "date": "2020-09-20"
+  },
+  {
+    "id": 315,
+    "country": "England",
+    "league": "EFL Trophy",
+    "date": "2016-08-30"
+  },
+  {
+    "id": 316,
+    "country": "England",
+    "league": "Premier League Cup",
+    "date": "2018-08-29"
+  },
+  {
+    "id": 317,
+    "country": "England",
+    "league": "Premier League U18",
+    "date": "2018-08-10"
+  },
+  {
+    "id": 318,
+    "country": "England",
+    "league": "Premier League U21",
+    "date": "2015-08-09"
+  },
+  {
+    "id": 319,
+    "country": "England",
+    "league": "Fa Trophy",
+    "date": "2017-10-07"
+  },
+  {
+    "id": 320,
+    "country": "England",
+    "league": "Women s National League Division One North",
+    "date": "2020-09-20"
+  },
+  {
+    "id": 321,
+    "country": "England",
+    "league": "Non League Div One Northern North",
+    "date": "2007-08-17"
+  },
+  {
+    "id": 322,
+    "country": "England",
+    "league": "Non League Div One Isthmian South Central",
+    "date": "2021-08-28"
+  },
+  {
+    "id": 323,
+    "country": "England",
+    "league": "League One",
+    "date": "2005-08-05"
+  },
+  {
+    "id": 324,
+    "country": "England",
+    "league": "Non League Div One Isthmian North",
+    "date": "2006-08-18"
+  },
+  {
+    "id": 325,
+    "country": "England",
+    "league": "Non League Premier Northern",
+    "date": "2005-08-19"
+  },
+  {
+    "id": 326,
+    "country": "England",
+    "league": "Vanarama National League South",
+    "date": "2009-04-18"
+  },
+  {
+    "id": 327,
+    "country": "England",
+    "league": "Youth Alliance",
+    "date": "2019-08-02"
+  },
+  {
+    "id": 328,
+    "country": "England",
+    "league": "League Two",
+    "date": "2005-08-05"
+  },
+  {
+    "id": 329,
+    "country": "England",
+    "league": "Premier League 2 Division One",
+    "date": "2020-09-11"
+  },
+  {
+    "id": 330,
+    "country": "England",
+    "league": "Non League Div One Isthmian South",
+    "date": "2006-08-18"
+  },
+  {
+    "id": 331,
+    "country": "England",
+    "league": "Non League Div One Southern Central",
+    "date": "2005-08-12"
+  },
+  {
+    "id": 332,
+    "country": "Estonia",
+    "league": "Esiliiga B",
+    "date": "2020-05-30"
+  },
+  {
+    "id": 333,
+    "country": "Estonia",
+    "league": "II Liiga",
+    "date": "2020-05-23"
+  },
+  {
+    "id": 334,
+    "country": "Estonia",
+    "league": "Esiliiga A",
+    "date": "2005-03-04"
+  },
+  {
+    "id": 335,
+    "country": "Estonia",
+    "league": "Meistriliiga",
+    "date": "2005-03-01"
+  },
+  {
+    "id": 336,
+    "country": "Estonia",
+    "league": "Esiliiga Women",
+    "date": "2021-05-09"
+  },
+  {
+    "id": 337,
+    "country": "Ethiopia",
+    "league": "Premier League",
+    "date": "2015-10-28"
+  },
+  {
+    "id": 338,
+    "country": "Faroe_islands",
+    "league": "Meistaradeildin",
+    "date": "2005-03-27"
+  },
+  {
+    "id": 339,
+    "country": "Faroe_islands",
+    "league": "1 Deild",
+    "date": "2005-04-29"
+  },
+  {
+    "id": 340,
+    "country": "Fiji",
+    "league": "National Football League",
+    "date": "2007-04-21"
+  },
+  {
+    "id": 341,
+    "country": "Finland",
+    "league": "Finland Cup",
+    "date": "2017-09-23"
+  },
+  {
+    "id": 342,
+    "country": "Finland",
+    "league": "Veikkausliiga",
+    "date": "2005-04-27"
+  },
+  {
+    "id": 343,
+    "country": "Finland",
+    "league": "Kakkonen LohkoD",
+    "date": "2012-09-30"
+  },
+  {
+    "id": 344,
+    "country": "Finland",
+    "league": "Ykkonen",
+    "date": "2005-05-03"
+  },
+  {
+    "id": 345,
+    "country": "Finland",
+    "league": "Kakkonen LohkoB",
+    "date": "2006-04-27"
+  },
+  {
+    "id": 346,
+    "country": "Finland",
+    "league": "Kakkonen LohkoC",
+    "date": "2006-04-28"
+  },
+  {
+    "id": 347,
+    "country": "Finland",
+    "league": "Kakkonen",
+    "date": "2005-05-06"
+  },
+  {
+    "id": 348,
+    "country": "Finland",
+    "league": "Finland Cup 2016",
+    "date": "2017-09-23"
+  },
+  {
+    "id": 349,
+    "country": "Finland",
+    "league": "Finland Cup 2017",
+    "date": "2018-01-19"
+  },
+  {
+    "id": 350,
+    "country": "Finland",
+    "league": "Kolmonen",
+    "date": "2019-04-04"
+  },
+  {
+    "id": 351,
+    "country": "Finland",
+    "league": "A Junior League",
+    "date": "2020-06-22"
+  },
+  {
+    "id": 352,
+    "country": "Finland",
+    "league": "Kansallinen Liiga Women",
+    "date": "2018-03-24"
+  },
+  {
+    "id": 353,
+    "country": "France",
+    "league": "CFA Group A",
+    "date": "2005-08-05"
+  },
+  {
+    "id": 354,
+    "country": "France",
+    "league": "National 3 Normandie",
+    "date": "2007-08-17"
+  },
+  {
+    "id": 355,
+    "country": "France",
+    "league": "National 3 Group F",
+    "date": "2021-08-28"
+  },
+  {
+    "id": 356,
+    "country": "France",
+    "league": "National 3 Group L",
+    "date": "2018-08-18"
+  },
+  {
+    "id": 357,
+    "country": "France",
+    "league": "National 3 Group B",
+    "date": "2021-08-28"
+  },
+  {
+    "id": 358,
+    "country": "France",
+    "league": "CFA Group B",
+    "date": "2007-08-11"
+  },
+  {
+    "id": 359,
+    "country": "France",
+    "league": "National 3 Corse Mediterranee",
+    "date": "2018-08-18"
+  },
+  {
+    "id": 360,
+    "country": "France",
+    "league": "National 3 Group C",
+    "date": "2021-08-28"
+  },
+  {
+    "id": 361,
+    "country": "France",
+    "league": "National 3 Auvergne Rhone Alpes",
+    "date": "2007-08-17"
+  },
+  {
+    "id": 362,
+    "country": "France",
+    "league": "CFA Group D",
+    "date": "2007-08-11"
+  },
+  {
+    "id": 363,
+    "country": "France",
+    "league": "National 3 Group I",
+    "date": "2021-08-29"
+  },
+  {
+    "id": 364,
+    "country": "France",
+    "league": "National 3 Group G",
+    "date": "2007-08-17"
+  },
+  {
+    "id": 365,
+    "country": "France",
+    "league": "National 3 Group D",
+    "date": "2021-08-28"
+  },
+  {
+    "id": 366,
+    "country": "France",
+    "league": "National 3 Nouvelle Aquitaine",
+    "date": "2018-08-18"
+  },
+  {
+    "id": 367,
+    "country": "France",
+    "league": "National 3 Pays de la Loire",
+    "date": "2021-08-28"
+  },
+  {
+    "id": 368,
+    "country": "France",
+    "league": "CFA Group C",
+    "date": "2006-05-23"
+  },
+  {
+    "id": 369,
+    "country": "France",
+    "league": "National 3 Hauts de France",
+    "date": "2007-08-17"
+  },
+  {
+    "id": 370,
+    "country": "France",
+    "league": "Ligue 2",
+    "date": "2005-07-28"
+  },
+  {
+    "id": 371,
+    "country": "France",
+    "league": "Feminine Division 2",
+    "date": "2021-09-05"
+  },
+  {
+    "id": 372,
+    "country": "France",
+    "league": "National 3 Bourgogne Franche Comte",
+    "date": "2007-08-17"
+  },
+  {
+    "id": 373,
+    "country": "France",
+    "league": "National 3 Occitanie",
+    "date": "2018-08-18"
+  },
+  {
+    "id": 374,
+    "country": "France",
+    "league": "National 3 Grand Est",
+    "date": "2007-08-17"
+  },
+  {
+    "id": 375,
+    "country": "France",
+    "league": "National 3 Group K",
+    "date": "2021-08-29"
+  },
+  {
+    "id": 376,
+    "country": "France",
+    "league": "National 3 Paris Ile de France",
+    "date": "2018-08-18"
+  },
+  {
+    "id": 377,
+    "country": "France",
+    "league": "Ligue 1",
+    "date": "2005-07-28"
+  },
+  {
+    "id": 378,
+    "country": "France",
+    "league": "National",
+    "date": "2005-08-05"
+  },
+  {
+    "id": 379,
+    "country": "France",
+    "league": "National 3 Bretagne",
+    "date": "2007-08-17"
+  },
+  {
+    "id": 380,
+    "country": "France",
+    "league": "National 3 Group E",
+    "date": "2021-08-28"
+  },
+  {
+    "id": 381,
+    "country": "France",
+    "league": "National 3 Centre Val de Loire",
+    "date": "2007-08-17"
+  },
+  {
+    "id": 382,
+    "country": "France",
+    "league": "National 3 Group H",
+    "date": "2021-08-28"
+  },
+  {
+    "id": 383,
+    "country": "France",
+    "league": "Division 1 Women",
+    "date": "2018-08-25"
+  },
+  {
+    "id": 384,
+    "country": "France",
+    "league": "National 3 Group A",
+    "date": "2021-08-28"
+  },
+  {
+    "id": 385,
+    "country": "Gabon",
+    "league": "Champoinnat D1",
+    "date": "2010-11-27"
+  },
+  {
+    "id": 386,
+    "country": "Gambia",
+    "league": "GFA League",
+    "date": "2018-11-25"
+  },
+  {
+    "id": 387,
+    "country": "Georgia",
+    "league": "Erovnuli Liga 2",
+    "date": "2009-08-21"
+  },
+  {
+    "id": 388,
+    "country": "Georgia",
+    "league": "Liga 3",
+    "date": "2018-03-05"
+  },
+  {
+    "id": 389,
+    "country": "Georgia",
+    "league": "Crystalbet Erovnuli Liga",
+    "date": "2005-07-29"
+  },
+  {
+    "id": 390,
+    "country": "Germany",
+    "league": "Oberliga Hamburg",
+    "date": "2008-08-08"
+  },
+  {
+    "id": 391,
+    "country": "Germany",
+    "league": "Oberliga Rheinland Pfalz Saar",
+    "date": "2012-08-03"
+  },
+  {
+    "id": 392,
+    "country": "Germany",
+    "league": "Oberliga Nordost Nord",
+    "date": "2009-05-30"
+  },
+  {
+    "id": 393,
+    "country": "Germany",
+    "league": "2 Bundesliga Women",
+    "date": "2020-10-04"
+  },
+  {
+    "id": 394,
+    "country": "Germany",
+    "league": "Regionalliga Women Nord",
+    "date": "2022-02-13"
+  },
+  {
+    "id": 395,
+    "country": "Germany",
+    "league": "Oberliga Baden Wurttemberg",
+    "date": "2005-08-11"
+  },
+  {
+    "id": 396,
+    "country": "Germany",
+    "league": "Oberliga Schleswig Holstein",
+    "date": "2008-08-08"
+  },
+  {
+    "id": 397,
+    "country": "Germany",
+    "league": "Oberliga Bayern Nord",
+    "date": "2012-07-20"
+  },
+  {
+    "id": 398,
+    "country": "Germany",
+    "league": "Oberliga Westfalen",
+    "date": "2012-08-17"
+  },
+  {
+    "id": 399,
+    "country": "Germany",
+    "league": "Oberliga Nordost Sued",
+    "date": "2010-08-08"
+  },
+  {
+    "id": 400,
+    "country": "Germany",
+    "league": "Junioren Bundesliga",
+    "date": "2017-08-26"
+  },
+  {
+    "id": 401,
+    "country": "Germany",
+    "league": "Regionalliga Suedwest",
+    "date": "2013-07-26"
+  },
+  {
+    "id": 402,
+    "country": "Germany",
+    "league": "Oberliga Bremen",
+    "date": "2008-08-22"
+  },
+  {
+    "id": 403,
+    "country": "Germany",
+    "league": "Oberliga Sudwest",
+    "date": "2005-08-01"
+  },
+  {
+    "id": 404,
+    "country": "Germany",
+    "league": "Oberliga Play offs",
+    "date": "2023-05-27"
+  },
+  {
+    "id": 405,
+    "country": "Germany",
+    "league": "Regionalliga Women West",
+    "date": "2021-12-19"
+  },
+  {
+    "id": 406,
+    "country": "Germany",
+    "league": "3 Liga",
+    "date": "2008-07-25"
+  },
+  {
+    "id": 407,
+    "country": "Germany",
+    "league": "Oberliga Hessen",
+    "date": "2005-08-04"
+  },
+  {
+    "id": 408,
+    "country": "Germany",
+    "league": "Bundesliga",
+    "date": "2005-08-05"
+  },
+  {
+    "id": 409,
+    "country": "Germany",
+    "league": "Oberliga NRW",
+    "date": "2009-08-07"
+  },
+  {
+    "id": 410,
+    "country": "Germany",
+    "league": "Oberliga Bayern",
+    "date": "2005-07-28"
+  },
+  {
+    "id": 411,
+    "country": "Germany",
+    "league": "Regionalliga Sud",
+    "date": "2005-08-04"
+  },
+  {
+    "id": 412,
+    "country": "Germany",
+    "league": "Regionalliga Bayern",
+    "date": "2012-07-19"
+  },
+  {
+    "id": 413,
+    "country": "Germany",
+    "league": "Regionalliga Nordost",
+    "date": "2012-08-10"
+  },
+  {
+    "id": 414,
+    "country": "Germany",
+    "league": "Regionalliga West",
+    "date": "2008-08-15"
+  },
+  {
+    "id": 415,
+    "country": "Germany",
+    "league": "Bundesliga Women",
+    "date": "2019-08-16"
+  },
+  {
+    "id": 416,
+    "country": "Germany",
+    "league": "Oberliga Mittelrhein",
+    "date": "2012-08-25"
+  },
+  {
+    "id": 417,
+    "country": "Germany",
+    "league": "Oberliga Niedersachsen",
+    "date": "2010-08-06"
+  },
+  {
+    "id": 418,
+    "country": "Germany",
+    "league": "Regionalliga Women Play offs",
+    "date": "2021-06-06"
+  },
+  {
+    "id": 419,
+    "country": "Germany",
+    "league": "2 Bundesliga",
+    "date": "2005-08-05"
+  },
+  {
+    "id": 420,
+    "country": "Germany",
+    "league": "Oberliga Bayern Sued",
+    "date": "2012-07-17"
+  },
+  {
+    "id": 421,
+    "country": "Germany",
+    "league": "Regionalliga Nord",
+    "date": "2005-07-28"
+  },
+  {
+    "id": 422,
+    "country": "Germany",
+    "league": "Oberliga Niederrhein",
+    "date": "2012-08-03"
+  },
+  {
+    "id": 423,
+    "country": "Ghana",
+    "league": "Premier League",
+    "date": "2006-08-18"
+  },
+  {
+    "id": 424,
+    "country": "Gibraltar",
+    "league": "Premier Division",
+    "date": "2018-08-13"
+  },
+  {
+    "id": 425,
+    "country": "Greece",
+    "league": "Gamma Ethniki Group 5",
+    "date": "2013-09-22"
+  },
+  {
+    "id": 426,
+    "country": "Greece",
+    "league": "Gamma Ethniki Group 10",
+    "date": "2020-10-18"
+  },
+  {
+    "id": 427,
+    "country": "Greece",
+    "league": "Super League 2 Group B",
+    "date": "2021-11-24"
+  },
+  {
+    "id": 428,
+    "country": "Greece",
+    "league": "Gamma Ethniki Group 6",
+    "date": "2018-09-29"
+  },
+  {
+    "id": 429,
+    "country": "Greece",
+    "league": "Gamma Ethniki Group 8",
+    "date": "2018-09-30"
+  },
+  {
+    "id": 430,
+    "country": "Greece",
+    "league": "Super League",
+    "date": "2005-08-26"
+  },
+  {
+    "id": 431,
+    "country": "Greece",
+    "league": "Super League 2 South",
+    "date": "2023-09-23"
+  },
+  {
+    "id": 432,
+    "country": "Greece",
+    "league": "Gamma Ethnik Play offs",
+    "date": "2019-05-05"
+  },
+  {
+    "id": 433,
+    "country": "Greece",
+    "league": "Gamma Ethniki Group 2",
+    "date": "2013-09-22"
+  },
+  {
+    "id": 434,
+    "country": "Greece",
+    "league": "Gamma Ethniki Group 3",
+    "date": "2013-09-22"
+  },
+  {
+    "id": 435,
+    "country": "Greece",
+    "league": "Greek Cup",
+    "date": "2014-08-28"
+  },
+  {
+    "id": 436,
+    "country": "Greece",
+    "league": "Football League",
+    "date": "2005-09-23"
+  },
+  {
+    "id": 437,
+    "country": "Greece",
+    "league": "Super League 2 Group A",
+    "date": "2019-09-28"
+  },
+  {
+    "id": 438,
+    "country": "Greece",
+    "league": "Gamma Ethniki Group 7",
+    "date": "2013-09-22"
+  },
+  {
+    "id": 439,
+    "country": "Greece",
+    "league": "Gamma Ethniki Group 4",
+    "date": "2013-09-22"
+  },
+  {
+    "id": 440,
+    "country": "Greece",
+    "league": "Gamma Ethniki Group 1",
+    "date": "2013-09-22"
+  },
+  {
+    "id": 441,
+    "country": "Greece",
+    "league": "Super League 2 North",
+    "date": "2023-08-18"
+  },
+  {
+    "id": 442,
+    "country": "Greece",
+    "league": "Gamma Ethniki Group 9",
+    "date": "2020-10-11"
+  },
+  {
+    "id": 443,
+    "country": "Greece",
+    "league": "Super League K19",
+    "date": "2019-08-24"
+  },
+  {
+    "id": 444,
+    "country": "Guadeloupe",
+    "league": "Division d Honneur",
+    "date": "2008-09-05"
+  },
+  {
+    "id": 445,
+    "country": "Guatemala",
+    "league": "Primera Division",
+    "date": "2009-08-01"
+  },
+  {
+    "id": 446,
+    "country": "Guatemala",
+    "league": "Liga Nacional",
+    "date": "2005-11-29"
+  },
+  {
+    "id": 447,
+    "country": "Guinea",
+    "league": "Ligue 1",
+    "date": "2014-12-12"
+  },
+  {
+    "id": 448,
+    "country": "Haiti",
+    "league": "Ligue Haitienne",
+    "date": "2007-08-21"
+  },
+  {
+    "id": 449,
+    "country": "Honduras",
+    "league": "Liga Nacional",
+    "date": "2006-12-02"
+  },
+  {
+    "id": 450,
+    "country": "Hong_kong",
+    "league": "First Division",
+    "date": "2008-09-14"
+  },
+  {
+    "id": 451,
+    "country": "Hong_kong",
+    "league": "Premier League",
+    "date": "2005-09-02"
+  },
+  {
+    "id": 452,
+    "country": "Hungary",
+    "league": "NB 3 Tisza",
+    "date": "2008-08-08"
+  },
+  {
+    "id": 453,
+    "country": "Hungary",
+    "league": "NB 3 Nyugati",
+    "date": "2016-08-06"
+  },
+  {
+    "id": 454,
+    "country": "Hungary",
+    "league": "NB 3 Bakony",
+    "date": "2008-08-08"
+  },
+  {
+    "id": 455,
+    "country": "Hungary",
+    "league": "NB 3 Duna",
+    "date": "2008-08-05"
+  },
+  {
+    "id": 456,
+    "country": "Hungary",
+    "league": "NB 3 Keleti",
+    "date": "2020-08-12"
+  },
+  {
+    "id": 457,
+    "country": "Hungary",
+    "league": "NB 3 Matra",
+    "date": "2008-08-08"
+  },
+  {
+    "id": 458,
+    "country": "Hungary",
+    "league": "NB 3 Kozep",
+    "date": "2020-08-12"
+  },
+  {
+    "id": 459,
+    "country": "Hungary",
+    "league": "NB 3 Alfold",
+    "date": "2008-08-08"
+  },
+  {
+    "id": 460,
+    "country": "Hungary",
+    "league": "OTP Bank Liga",
+    "date": "2005-07-29"
+  },
+  {
+    "id": 461,
+    "country": "Hungary",
+    "league": "Merkantil Bank Liga",
+    "date": "2008-08-09"
+  },
+  {
+    "id": 462,
+    "country": "Hungary",
+    "league": "NB 2 East",
+    "date": "2005-08-05"
+  },
+  {
+    "id": 463,
+    "country": "Hungary",
+    "league": "Nb I Women",
+    "date": "2020-05-28"
+  },
+  {
+    "id": 464,
+    "country": "Hungary",
+    "league": "NB 3 Drava",
+    "date": "2008-08-08"
+  },
+  {
+    "id": 465,
+    "country": "Iceland",
+    "league": "U19 A Division",
+    "date": "2021-01-30"
+  },
+  {
+    "id": 466,
+    "country": "Iceland",
+    "league": "League Cup",
+    "date": "2021-02-12"
+  },
+  {
+    "id": 467,
+    "country": "Iceland",
+    "league": "Fotbolti net Cup C",
+    "date": "2021-01-23"
+  },
+  {
+    "id": 468,
+    "country": "Iceland",
+    "league": "U19 League Women",
+    "date": "2021-05-02"
+  },
+  {
+    "id": 469,
+    "country": "Iceland",
+    "league": "Pepsideild",
+    "date": "2021-04-30"
+  },
+  {
+    "id": 470,
+    "country": "Iceland",
+    "league": "Premier League Women",
+    "date": "2021-05-04"
+  },
+  {
+    "id": 471,
+    "country": "Iceland",
+    "league": "League Cup B",
+    "date": "2022-02-18"
+  },
+  {
+    "id": 472,
+    "country": "Iceland",
+    "league": "1 Deild Women",
+    "date": "2021-05-06"
+  },
+  {
+    "id": 473,
+    "country": "Iceland",
+    "league": "U19 League",
+    "date": "2021-05-01"
+  },
+  {
+    "id": 474,
+    "country": "Iceland",
+    "league": "Northern Iceland Cup",
+    "date": "2021-01-24"
+  },
+  {
+    "id": 475,
+    "country": "Iceland",
+    "league": "Fotbolti Net Cup Cup B",
+    "date": "2021-01-15"
+  },
+  {
+    "id": 476,
+    "country": "Iceland",
+    "league": "4 Deild",
+    "date": "2021-05-13"
+  },
+  {
+    "id": 477,
+    "country": "Iceland",
+    "league": "League Cup Women A",
+    "date": "2021-02-13"
+  },
+  {
+    "id": 478,
+    "country": "Iceland",
+    "league": "Inkasso Deildin",
+    "date": "2021-05-06"
+  },
+  {
+    "id": 479,
+    "country": "Iceland",
+    "league": "3 Deild",
+    "date": "2021-05-08"
+  },
+  {
+    "id": 480,
+    "country": "Iceland",
+    "league": "League Cup Women B",
+    "date": "2021-02-25"
+  },
+  {
+    "id": 481,
+    "country": "Iceland",
+    "league": "U19 B Division",
+    "date": "2021-01-30"
+  },
+  {
+    "id": 482,
+    "country": "Iceland",
+    "league": "Fotbolti Net Cup Cup A",
+    "date": "2021-01-15"
+  },
+  {
+    "id": 483,
+    "country": "Iceland",
+    "league": "Reykjavik Cup",
+    "date": "2024-01-06"
+  },
+  {
+    "id": 484,
+    "country": "Iceland",
+    "league": "Reykjavik Youth Cup",
+    "date": "2018-11-10"
+  },
+  {
+    "id": 485,
+    "country": "Iceland",
+    "league": "League Cup C",
+    "date": "2021-02-27"
+  },
+  {
+    "id": 486,
+    "country": "Iceland",
+    "league": "League Cup Women C",
+    "date": "2021-02-25"
+  },
+  {
+    "id": 487,
+    "country": "Iceland",
+    "league": "2 Deild",
+    "date": "2021-05-07"
+  },
+  {
+    "id": 488,
+    "country": "India",
+    "league": "I League",
+    "date": "2006-01-09"
+  },
+  {
+    "id": 489,
+    "country": "India",
+    "league": "Calcutta Premier Division A",
+    "date": "2017-08-12"
+  },
+  {
+    "id": 490,
+    "country": "India",
+    "league": "Santosh Trophy",
+    "date": "2010-07-14"
+  },
+  {
+    "id": 491,
+    "country": "India",
+    "league": "I League 2nd Division",
+    "date": "2020-10-08"
+  },
+  {
+    "id": 492,
+    "country": "India",
+    "league": "Indian Super League",
+    "date": "2014-10-12"
+  },
+  {
+    "id": 493,
+    "country": "Indonesia",
+    "league": "Liga 1",
+    "date": "2008-07-12"
+  },
+  {
+    "id": 494,
+    "country": "Indonesia",
+    "league": "Liga 2",
+    "date": "2013-10-21"
+  },
+  {
+    "id": 495,
+    "country": "Iran",
+    "league": "Azadegan League",
+    "date": "2007-10-27"
+  },
+  {
+    "id": 496,
+    "country": "Iran",
+    "league": "Azadegan League Group A",
+    "date": "2007-10-27"
+  },
+  {
+    "id": 497,
+    "country": "Iran",
+    "league": "Persian Gulf Pro League",
+    "date": "2005-08-31"
+  },
+  {
+    "id": 498,
+    "country": "Iran",
+    "league": "Azadegan League Group B",
+    "date": "2007-10-27"
+  },
+  {
+    "id": 499,
+    "country": "Iraq",
+    "league": "Iraqi League South",
+    "date": "2010-11-27"
+  },
+  {
+    "id": 500,
+    "country": "Iraq",
+    "league": "Iraqi League",
+    "date": "2007-11-25"
+  },
+  {
+    "id": 501,
+    "country": "Israel",
+    "league": "Ligat ha Al",
+    "date": "2005-08-25"
+  },
+  {
+    "id": 502,
+    "country": "Israel",
+    "league": "Ligat Al Women",
+    "date": "2019-11-21"
+  },
+  {
+    "id": 503,
+    "country": "Israel",
+    "league": "Toto Cup Ligat Leumit",
+    "date": "2021-08-05"
+  },
+  {
+    "id": 504,
+    "country": "Israel",
+    "league": "Liga Alef North",
+    "date": "2019-09-12"
+  },
+  {
+    "id": 505,
+    "country": "Israel",
+    "league": "Lig Bet Play offs",
+    "date": "2018-09-21"
+  },
+  {
+    "id": 506,
+    "country": "Israel",
+    "league": "Liga Bet South A",
+    "date": "2021-12-03"
+  },
+  {
+    "id": 507,
+    "country": "Israel",
+    "league": "Liga Bet North A",
+    "date": "2021-12-17"
+  },
+  {
+    "id": 508,
+    "country": "Israel",
+    "league": "Liga Bet North B",
+    "date": "2021-12-17"
+  },
+  {
+    "id": 509,
+    "country": "Israel",
+    "league": "Liga Leumit",
+    "date": "2005-08-25"
+  },
+  {
+    "id": 510,
+    "country": "Israel",
+    "league": "Liga Bet South B",
+    "date": "2021-12-17"
+  },
+  {
+    "id": 511,
+    "country": "Israel",
+    "league": "Toto Cup Ligat Al",
+    "date": "2012-08-04"
+  },
+  {
+    "id": 512,
+    "country": "Israel",
+    "league": "Liga Alef Sued",
+    "date": "2021-12-17"
+  },
+  {
+    "id": 513,
+    "country": "Italy",
+    "league": "Serie A Women",
+    "date": "2018-09-21"
+  },
+  {
+    "id": 514,
+    "country": "Italy",
+    "league": "Serie D Girone E",
+    "date": "2011-09-03"
+  },
+  {
+    "id": 515,
+    "country": "Italy",
+    "league": "Serie C Girone B",
+    "date": "2011-09-04"
+  },
+  {
+    "id": 516,
+    "country": "Italy",
+    "league": "Primavera 2",
+    "date": "2017-10-21"
+  },
+  {
+    "id": 517,
+    "country": "Italy",
+    "league": "Serie D Girone B",
+    "date": "2011-09-04"
+  },
+  {
+    "id": 518,
+    "country": "Italy",
+    "league": "Coppa Italia Serie C",
+    "date": "2017-11-21"
+  },
+  {
+    "id": 519,
+    "country": "Italy",
+    "league": "Lega Pro 2 Girone A",
+    "date": "2005-08-27"
+  },
+  {
+    "id": 520,
+    "country": "Italy",
+    "league": "PrimaVera 1",
+    "date": "2017-09-26"
+  },
+  {
+    "id": 521,
+    "country": "Italy",
+    "league": "Serie D Girone D",
+    "date": "2011-09-04"
+  },
+  {
+    "id": 522,
+    "country": "Italy",
+    "league": "Serie A",
+    "date": "2005-08-26"
+  },
+  {
+    "id": 523,
+    "country": "Italy",
+    "league": "Serie D Girone C",
+    "date": "2011-09-04"
+  },
+  {
+    "id": 524,
+    "country": "Italy",
+    "league": "Lega Pro 2 Girone B",
+    "date": "2005-08-27"
+  },
+  {
+    "id": 525,
+    "country": "Italy",
+    "league": "Serie D Girone H",
+    "date": "2011-09-04"
+  },
+  {
+    "id": 526,
+    "country": "Italy",
+    "league": "Serie D Girone G",
+    "date": "2011-09-04"
+  },
+  {
+    "id": 527,
+    "country": "Italy",
+    "league": "Serie B",
+    "date": "2005-08-25"
+  },
+  {
+    "id": 528,
+    "country": "Italy",
+    "league": "Serie C Girone C",
+    "date": "2014-08-29"
+  },
+  {
+    "id": 529,
+    "country": "Italy",
+    "league": "Serie C Play offs",
+    "date": "2019-05-11"
+  },
+  {
+    "id": 530,
+    "country": "Italy",
+    "league": "Lega Pro 2 Girone C",
+    "date": "2005-08-26"
+  },
+  {
+    "id": 531,
+    "country": "Italy",
+    "league": "Serie D Girone I",
+    "date": "2011-09-04"
+  },
+  {
+    "id": 532,
+    "country": "Italy",
+    "league": "Serie D Playoffs",
+    "date": "2019-05-11"
+  },
+  {
+    "id": 533,
+    "country": "Italy",
+    "league": "Serie D Girone F",
+    "date": "2011-09-03"
+  },
+  {
+    "id": 534,
+    "country": "Italy",
+    "league": "Serie D Girone A",
+    "date": "2011-09-03"
+  },
+  {
+    "id": 535,
+    "country": "Italy",
+    "league": "Coppa Italia Women",
+    "date": "2018-09-16"
+  },
+  {
+    "id": 536,
+    "country": "Italy",
+    "league": "Serie C Girone A",
+    "date": "2011-09-04"
+  },
+  {
+    "id": 537,
+    "country": "Jamaica",
+    "league": "Premier League",
+    "date": "2006-09-09"
+  },
+  {
+    "id": 538,
+    "country": "Japan",
+    "league": "J3 League",
+    "date": "2016-03-13"
+  },
+  {
+    "id": 539,
+    "country": "Japan",
+    "league": "Nadeshiko League 2",
+    "date": "2019-03-21"
+  },
+  {
+    "id": 540,
+    "country": "Japan",
+    "league": "J League Cup",
+    "date": "2021-03-02"
+  },
+  {
+    "id": 541,
+    "country": "Japan",
+    "league": "J League",
+    "date": "2005-03-04"
+  },
+  {
+    "id": 542,
+    "country": "Japan",
+    "league": "Japan Football League",
+    "date": "2019-03-17"
+  },
+  {
+    "id": 543,
+    "country": "Japan",
+    "league": "Nadeshiko League 1",
+    "date": "2019-03-21"
+  },
+  {
+    "id": 544,
+    "country": "Japan",
+    "league": "Ybc Levain Cup",
+    "date": "2005-03-18"
+  },
+  {
+    "id": 545,
+    "country": "Japan",
+    "league": "J2 League",
+    "date": "2005-03-04"
+  },
+  {
+    "id": 546,
+    "country": "Jordan",
+    "league": "1st Division",
+    "date": "2019-02-11"
+  },
+  {
+    "id": 547,
+    "country": "Jordan",
+    "league": "Shield Cup",
+    "date": "2017-08-17"
+  },
+  {
+    "id": 548,
+    "country": "Jordan",
+    "league": "Premier League",
+    "date": "2005-10-12"
+  },
+  {
+    "id": 549,
+    "country": "Kenya",
+    "league": "Super League",
+    "date": "2018-12-01"
+  },
+  {
+    "id": 550,
+    "country": "Kenya",
+    "league": "Premier League",
+    "date": "2009-02-06"
+  },
+  {
+    "id": 551,
+    "country": "Korea_republic",
+    "league": "National League",
+    "date": "2008-04-05"
+  },
+  {
+    "id": 552,
+    "country": "Korea_republic",
+    "league": "K4 League",
+    "date": "2021-03-13"
+  },
+  {
+    "id": 553,
+    "country": "Korea_republic",
+    "league": "League Cup",
+    "date": "2005-03-05"
+  },
+  {
+    "id": 554,
+    "country": "Korea_republic",
+    "league": "WK League",
+    "date": "2019-04-15"
+  },
+  {
+    "id": 555,
+    "country": "Korea_republic",
+    "league": "K League 1",
+    "date": "2005-08-23"
+  },
+  {
+    "id": 556,
+    "country": "Korea_republic",
+    "league": "K3 League Advanced",
+    "date": "2008-03-21"
+  },
+  {
+    "id": 557,
+    "country": "Korea_republic",
+    "league": "K League 2",
+    "date": "2016-03-26"
+  },
+  {
+    "id": 558,
+    "country": "Kosovo",
+    "league": "Superliga",
+    "date": "2018-08-18"
+  },
+  {
+    "id": 559,
+    "country": "Kuwait",
+    "league": "Division 1",
+    "date": "2008-10-16"
+  },
+  {
+    "id": 560,
+    "country": "Kuwait",
+    "league": "Premier League",
+    "date": "2005-11-09"
+  },
+  {
+    "id": 561,
+    "country": "Laos",
+    "league": "Premier League",
+    "date": "2020-07-11"
+  },
+  {
+    "id": 562,
+    "country": "Latvia",
+    "league": "First Liga",
+    "date": "2005-04-29"
+  },
+  {
+    "id": 563,
+    "country": "Latvia",
+    "league": "Virsliga",
+    "date": "2005-04-09"
+  },
+  {
+    "id": 564,
+    "country": "Latvia",
+    "league": "Women League",
+    "date": "2020-08-20"
+  },
+  {
+    "id": 565,
+    "country": "Lebanon",
+    "league": "Premier League",
+    "date": "2005-11-11"
+  },
+  {
+    "id": 566,
+    "country": "Lebanon",
+    "league": "Elite Cup",
+    "date": "2021-07-12"
+  },
+  {
+    "id": 567,
+    "country": "Lesotho",
+    "league": "Premier League",
+    "date": "2018-04-21"
+  },
+  {
+    "id": 568,
+    "country": "Lithuania",
+    "league": "A Lyga",
+    "date": "2005-04-11"
+  },
+  {
+    "id": 569,
+    "country": "Lithuania",
+    "league": "A Lyga Women",
+    "date": "2020-08-30"
+  },
+  {
+    "id": 570,
+    "country": "Lithuania",
+    "league": "1 Lyga",
+    "date": "2005-04-08"
+  },
+  {
+    "id": 571,
+    "country": "Luxembourg",
+    "league": "National Division",
+    "date": "2008-08-03"
+  },
+  {
+    "id": 572,
+    "country": "Macedonia_fyr",
+    "league": "Second League",
+    "date": "2005-08-05"
+  },
+  {
+    "id": 573,
+    "country": "Macedonia_fyr",
+    "league": "First League",
+    "date": "2005-08-05"
+  },
+  {
+    "id": 574,
+    "country": "Malaysia",
+    "league": "Malaysia Cup",
+    "date": "2018-08-04"
+  },
+  {
+    "id": 575,
+    "country": "Malaysia",
+    "league": "Premier League",
+    "date": "2005-12-03"
+  },
+  {
+    "id": 576,
+    "country": "Malaysia",
+    "league": "Super League",
+    "date": "2005-12-02"
+  },
+  {
+    "id": 577,
+    "country": "Maldives",
+    "league": "Male League",
+    "date": "2018-06-28"
+  },
+  {
+    "id": 578,
+    "country": "Mali",
+    "league": "Premiere Division",
+    "date": "2014-12-05"
+  },
+  {
+    "id": 579,
+    "country": "Malta",
+    "league": "Challenge League",
+    "date": "2021-09-10"
+  },
+  {
+    "id": 580,
+    "country": "Malta",
+    "league": "First Division",
+    "date": "2006-09-02"
+  },
+  {
+    "id": 581,
+    "country": "Malta",
+    "league": "Premier League",
+    "date": "2005-08-04"
+  },
+  {
+    "id": 582,
+    "country": "Mauritania",
+    "league": "Super D1",
+    "date": "2018-09-28"
+  },
+  {
+    "id": 583,
+    "country": "Mauritius",
+    "league": "Mauritian League",
+    "date": "2018-04-23"
+  },
+  {
+    "id": 584,
+    "country": "Mexico",
+    "league": "Liga Premier Serie B",
+    "date": "2019-08-17"
+  },
+  {
+    "id": 585,
+    "country": "Mexico",
+    "league": "Liga MX",
+    "date": "2006-01-19"
+  },
+  {
+    "id": 586,
+    "country": "Mexico",
+    "league": "Liga Mx Women",
+    "date": "2018-07-13"
+  },
+  {
+    "id": 587,
+    "country": "Mexico",
+    "league": "U20 League",
+    "date": "2020-08-06"
+  },
+  {
+    "id": 588,
+    "country": "Mexico",
+    "league": "Copa MX",
+    "date": "2016-07-20"
+  },
+  {
+    "id": 589,
+    "country": "Mexico",
+    "league": "Liga Premier Serie A",
+    "date": "2019-08-17"
+  },
+  {
+    "id": 590,
+    "country": "Mexico",
+    "league": "Liga de Expansion MX",
+    "date": "2005-11-22"
+  },
+  {
+    "id": 591,
+    "country": "Moldova",
+    "league": "National Division",
+    "date": "2005-08-12"
+  },
+  {
+    "id": 592,
+    "country": "Moldova",
+    "league": "Division A",
+    "date": "2007-08-03"
+  },
+  {
+    "id": 593,
+    "country": "Moldova",
+    "league": "Super Liga",
+    "date": "2023-08-05"
+  },
+  {
+    "id": 594,
+    "country": "Mongolia",
+    "league": "Premier League",
+    "date": "2019-04-13"
+  },
+  {
+    "id": 595,
+    "country": "Montenegro",
+    "league": "Second League",
+    "date": "2007-08-11"
+  },
+  {
+    "id": 596,
+    "country": "Montenegro",
+    "league": "First League",
+    "date": "2006-08-11"
+  },
+  {
+    "id": 597,
+    "country": "Morocco",
+    "league": "Botola 2",
+    "date": "2006-09-15"
+  },
+  {
+    "id": 598,
+    "country": "Morocco",
+    "league": "Botola Pro",
+    "date": "2005-09-02"
+  },
+  {
+    "id": 599,
+    "country": "Namibia",
+    "league": "Premier League",
+    "date": "2007-09-27"
+  },
+  {
+    "id": 600,
+    "country": "Nepal",
+    "league": "A Division",
+    "date": "2010-02-20"
+  },
+  {
+    "id": 601,
+    "country": "New_zealand",
+    "league": "National League Women",
+    "date": "2020-10-30"
+  },
+  {
+    "id": 602,
+    "country": "New_zealand",
+    "league": "Premiership",
+    "date": "2005-10-21"
+  },
+  {
+    "id": 603,
+    "country": "New_zealand",
+    "league": "Regional Leagues",
+    "date": "2020-08-29"
+  },
+  {
+    "id": 604,
+    "country": "Nicaragua",
+    "league": "Primera Division",
+    "date": "2005-07-23"
+  },
+  {
+    "id": 605,
+    "country": "Nicaragua",
+    "league": "Liga Primera U20",
+    "date": "2020-02-09"
+  },
+  {
+    "id": 606,
+    "country": "Nigeria",
+    "league": "Premier League",
+    "date": "2007-09-23"
+  },
+  {
+    "id": 607,
+    "country": "Nigeria",
+    "league": "Npfl",
+    "date": "2018-01-13"
+  },
+  {
+    "id": 608,
+    "country": "Northern_ireland",
+    "league": "Championship",
+    "date": "2005-09-23"
+  },
+  {
+    "id": 609,
+    "country": "Northern_ireland",
+    "league": "Premiership Women",
+    "date": "2021-04-28"
+  },
+  {
+    "id": 610,
+    "country": "Northern_ireland",
+    "league": "Premiership Development League",
+    "date": "2018-08-04"
+  },
+  {
+    "id": 611,
+    "country": "Northern_ireland",
+    "league": "Championship Women",
+    "date": "2021-06-02"
+  },
+  {
+    "id": 612,
+    "country": "Northern_ireland",
+    "league": "Premiership",
+    "date": "2005-09-16"
+  },
+  {
+    "id": 613,
+    "country": "Norway",
+    "league": "3 Division Group 1",
+    "date": "2018-04-13"
+  },
+  {
+    "id": 614,
+    "country": "Norway",
+    "league": "Junior U19",
+    "date": "2019-05-03"
+  },
+  {
+    "id": 615,
+    "country": "Norway",
+    "league": "Obos Ligaen",
+    "date": "2006-04-08"
+  },
+  {
+    "id": 616,
+    "country": "Norway",
+    "league": "2 Division Group 1",
+    "date": "2007-04-13"
+  },
+  {
+    "id": 617,
+    "country": "Norway",
+    "league": "Eliteserien",
+    "date": "2005-04-09"
+  },
+  {
+    "id": 618,
+    "country": "Norway",
+    "league": "Toppserien",
+    "date": "2019-03-23"
+  },
+  {
+    "id": 619,
+    "country": "Norway",
+    "league": "2 Division Group 2",
+    "date": "2007-04-13"
+  },
+  {
+    "id": 620,
+    "country": "Norway",
+    "league": "1 Division Women",
+    "date": "2020-09-11"
+  },
+  {
+    "id": 621,
+    "country": "Norway",
+    "league": "2 Division Group 4",
+    "date": "2007-04-13"
+  },
+  {
+    "id": 622,
+    "country": "Norway",
+    "league": "2 Division Group 3",
+    "date": "2007-04-13"
+  },
+  {
+    "id": 623,
+    "country": "Oman",
+    "league": "Professional League",
+    "date": "2005-11-08"
+  },
+  {
+    "id": 624,
+    "country": "Pakistan",
+    "league": "Premier League",
+    "date": "2008-01-04"
+  },
+  {
+    "id": 625,
+    "country": "Palestine",
+    "league": "West Bank League",
+    "date": "2017-11-20"
+  },
+  {
+    "id": 626,
+    "country": "Palestine",
+    "league": "West Bank Premier League",
+    "date": "2023-08-17"
+  },
+  {
+    "id": 627,
+    "country": "Palestine",
+    "league": "West Bank League 1st Division",
+    "date": "2021-09-14"
+  },
+  {
+    "id": 628,
+    "country": "Panama",
+    "league": "Lpf",
+    "date": "2011-07-16"
+  },
+  {
+    "id": 629,
+    "country": "Panama",
+    "league": "Liga Prom",
+    "date": "2021-02-19"
+  },
+  {
+    "id": 630,
+    "country": "Paraguay",
+    "league": "Division 1 Clausura",
+    "date": "2006-07-13"
+  },
+  {
+    "id": 631,
+    "country": "Paraguay",
+    "league": "Division 1",
+    "date": "2006-01-26"
+  },
+  {
+    "id": 632,
+    "country": "Paraguay",
+    "league": "Division Intermedia",
+    "date": "2007-04-20"
+  },
+  {
+    "id": 633,
+    "country": "Peru",
+    "league": "Copa Peru",
+    "date": "2021-10-03"
+  },
+  {
+    "id": 634,
+    "country": "Peru",
+    "league": "Copa Bicentenario",
+    "date": "2019-06-21"
+  },
+  {
+    "id": 635,
+    "country": "Peru",
+    "league": "Segunda Division",
+    "date": "2006-05-12"
+  },
+  {
+    "id": 636,
+    "country": "Peru",
+    "league": "Primera Division",
+    "date": "2005-08-05"
+  },
+  {
+    "id": 637,
+    "country": "Poland",
+    "league": "3 Liga Group 2",
+    "date": "2022-03-11"
+  },
+  {
+    "id": 638,
+    "country": "Poland",
+    "league": "Ekstraklasa",
+    "date": "2005-07-23"
+  },
+  {
+    "id": 639,
+    "country": "Poland",
+    "league": "2 Liga East",
+    "date": "2007-08-10"
+  },
+  {
+    "id": 640,
+    "country": "Poland",
+    "league": "2 Liga West",
+    "date": "2008-07-26"
+  },
+  {
+    "id": 641,
+    "country": "Poland",
+    "league": "Ekstraliga Women",
+    "date": "2018-08-04"
+  },
+  {
+    "id": 642,
+    "country": "Poland",
+    "league": "1 Liga",
+    "date": "2005-07-28"
+  },
+  {
+    "id": 643,
+    "country": "Poland",
+    "league": "Central Youth League",
+    "date": "2016-08-06"
+  },
+  {
+    "id": 644,
+    "country": "Poland",
+    "league": "3 Liga Group 4",
+    "date": "2022-03-12"
+  },
+  {
+    "id": 645,
+    "country": "Poland",
+    "league": "3 Liga Group 1",
+    "date": "2020-08-07"
+  },
+  {
+    "id": 646,
+    "country": "Poland",
+    "league": "3 Liga Group 3",
+    "date": "2022-03-12"
+  },
+  {
+    "id": 647,
+    "country": "Portugal",
+    "league": "2 Division Group C",
+    "date": "2013-08-24"
+  },
+  {
+    "id": 648,
+    "country": "Portugal",
+    "league": "Segunda Liga",
+    "date": "2005-08-20"
+  },
+  {
+    "id": 649,
+    "country": "Portugal",
+    "league": "2 Division Sul",
+    "date": "2009-09-06"
+  },
+  {
+    "id": 650,
+    "country": "Portugal",
+    "league": "Taca De Portugal",
+    "date": "2007-12-07"
+  },
+  {
+    "id": 651,
+    "country": "Portugal",
+    "league": "League Cup",
+    "date": "2012-07-28"
+  },
+  {
+    "id": 652,
+    "country": "Portugal",
+    "league": "2 Division Group B",
+    "date": "2013-08-24"
+  },
+  {
+    "id": 653,
+    "country": "Portugal",
+    "league": "2 Division Centro",
+    "date": "2005-09-03"
+  },
+  {
+    "id": 654,
+    "country": "Portugal",
+    "league": "2 Division Norte",
+    "date": "2009-09-06"
+  },
+  {
+    "id": 655,
+    "country": "Portugal",
+    "league": "2 Division Group G",
+    "date": "2013-08-25"
+  },
+  {
+    "id": 656,
+    "country": "Portugal",
+    "league": "Primeira Liga",
+    "date": "2005-08-18"
+  },
+  {
+    "id": 657,
+    "country": "Portugal",
+    "league": "2 Division Group A",
+    "date": "2013-08-25"
+  },
+  {
+    "id": 658,
+    "country": "Portugal",
+    "league": "Liga Revelacao U23",
+    "date": "2018-08-18"
+  },
+  {
+    "id": 659,
+    "country": "Portugal",
+    "league": "2 Division Group F",
+    "date": "2013-08-25"
+  },
+  {
+    "id": 660,
+    "country": "Portugal",
+    "league": "2 Division Group E",
+    "date": "2013-08-25"
+  },
+  {
+    "id": 661,
+    "country": "Portugal",
+    "league": "Liga Portugal",
+    "date": "2021-08-06"
+  },
+  {
+    "id": 662,
+    "country": "Portugal",
+    "league": "2 Division Group D",
+    "date": "2013-08-25"
+  },
+  {
+    "id": 663,
+    "country": "Portugal",
+    "league": "2 Division Group H",
+    "date": "2013-08-25"
+  },
+  {
+    "id": 664,
+    "country": "Qatar",
+    "league": "QSL Cup",
+    "date": "2018-09-08"
+  },
+  {
+    "id": 665,
+    "country": "Qatar",
+    "league": "Q League",
+    "date": "2008-10-27"
+  },
+  {
+    "id": 666,
+    "country": "Qatar",
+    "league": "U23 League",
+    "date": "2021-01-22"
+  },
+  {
+    "id": 667,
+    "country": "Qatar",
+    "league": "Premier League",
+    "date": "2005-09-15"
+  },
+  {
+    "id": 668,
+    "country": "Republic_of_ireland",
+    "league": "Premier Division",
+    "date": "2005-03-15"
+  },
+  {
+    "id": 669,
+    "country": "Republic_of_ireland",
+    "league": "First Division",
+    "date": "2005-03-17"
+  },
+  {
+    "id": 670,
+    "country": "Republic_of_ireland",
+    "league": "FAI Cup",
+    "date": "2007-06-14"
+  },
+  {
+    "id": 671,
+    "country": "Republic_of_ireland",
+    "league": "Women s National League",
+    "date": "2020-08-15"
+  },
+  {
+    "id": 672,
+    "country": "Romania",
+    "league": "3 Liga Series 5",
+    "date": "2008-08-14"
+  },
+  {
+    "id": 673,
+    "country": "Romania",
+    "league": "3 Liga Series 4",
+    "date": "2008-08-14"
+  },
+  {
+    "id": 674,
+    "country": "Romania",
+    "league": "Liga 2 Seria 2",
+    "date": "2005-08-19"
+  },
+  {
+    "id": 675,
+    "country": "Romania",
+    "league": "Romania Cup",
+    "date": "2019-07-31"
+  },
+  {
+    "id": 676,
+    "country": "Romania",
+    "league": "Liga 1 Women",
+    "date": "2019-08-25"
+  },
+  {
+    "id": 677,
+    "country": "Romania",
+    "league": "Liga 2 Serie 1",
+    "date": "2005-08-19"
+  },
+  {
+    "id": 678,
+    "country": "Romania",
+    "league": "3 Liga Series 1",
+    "date": "2007-08-23"
+  },
+  {
+    "id": 679,
+    "country": "Romania",
+    "league": "3 Liga Series 8",
+    "date": "2020-09-12"
+  },
+  {
+    "id": 680,
+    "country": "Romania",
+    "league": "Liga 2",
+    "date": "2005-08-19"
+  },
+  {
+    "id": 681,
+    "country": "Romania",
+    "league": "3 Liga Series 6",
+    "date": "2008-08-14"
+  },
+  {
+    "id": 682,
+    "country": "Romania",
+    "league": "3 Liga Series 7",
+    "date": "2020-09-12"
+  },
+  {
+    "id": 683,
+    "country": "Romania",
+    "league": "3 Liga Series 10",
+    "date": "2020-09-12"
+  },
+  {
+    "id": 684,
+    "country": "Romania",
+    "league": "3 Liga Series 3",
+    "date": "2008-08-14"
+  },
+  {
+    "id": 685,
+    "country": "Romania",
+    "league": "3 Liga Series 9",
+    "date": "2020-09-12"
+  },
+  {
+    "id": 686,
+    "country": "Romania",
+    "league": "Liga 1",
+    "date": "2005-08-04"
+  },
+  {
+    "id": 687,
+    "country": "Romania",
+    "league": "3 Liga Series 2",
+    "date": "2008-08-14"
+  },
+  {
+    "id": 688,
+    "country": "Russia",
+    "league": "FNL 2 Group 2",
+    "date": "2022-04-01"
+  },
+  {
+    "id": 689,
+    "country": "Russia",
+    "league": "Premier League",
+    "date": "2011-03-12"
+  },
+  {
+    "id": 690,
+    "country": "Russia",
+    "league": "Kazan Pre Season Tournament",
+    "date": "2022-04-03"
+  },
+  {
+    "id": 691,
+    "country": "Russia",
+    "league": "Premier League Women",
+    "date": "2021-03-13"
+  },
+  {
+    "id": 692,
+    "country": "Russia",
+    "league": "FNL 2 Group 4",
+    "date": "2022-04-03"
+  },
+  {
+    "id": 693,
+    "country": "Russia",
+    "league": "FNL 2 Group 1",
+    "date": "2018-07-18"
+  },
+  {
+    "id": 694,
+    "country": "Russia",
+    "league": "FNL 2 Group 3",
+    "date": "2022-04-01"
+  },
+  {
+    "id": 695,
+    "country": "Russia",
+    "league": "Youth League",
+    "date": "2015-07-16"
+  },
+  {
+    "id": 696,
+    "country": "Russia",
+    "league": "FNL",
+    "date": "2017-05-10"
+  },
+  {
+    "id": 697,
+    "country": "Rwanda",
+    "league": "National Soccer League",
+    "date": "2015-09-18"
+  },
+  {
+    "id": 698,
+    "country": "San_marino",
+    "league": "Campionato",
+    "date": "2005-09-22"
+  },
+  {
+    "id": 699,
+    "country": "Saudi_arabia",
+    "league": "Youth League",
+    "date": "2019-11-16"
+  },
+  {
+    "id": 700,
+    "country": "Saudi_arabia",
+    "league": "Pro League",
+    "date": "2005-09-20"
+  },
+  {
+    "id": 701,
+    "country": "Saudi_arabia",
+    "league": "Division 1 Saudi Arabia Pro League",
+    "date": "2023-08-11"
+  },
+  {
+    "id": 702,
+    "country": "Saudi_arabia",
+    "league": "Division 1 Saudi Arabia Pro League Saudi Arabia Youth League",
+    "date": "2023-08-11"
+  },
+  {
+    "id": 703,
+    "country": "Saudi_arabia",
+    "league": "Division 1",
+    "date": "2007-10-17"
+  },
+  {
+    "id": 704,
+    "country": "Scotland",
+    "league": "Premiership Play Offs",
+    "date": "2017-05-09"
+  },
+  {
+    "id": 705,
+    "country": "Scotland",
+    "league": "Premiership",
+    "date": "2005-07-29"
+  },
+  {
+    "id": 706,
+    "country": "Scotland",
+    "league": "Championship Scotland Football League Highland League",
+    "date": "2023-07-29"
+  },
+  {
+    "id": 707,
+    "country": "Scotland",
+    "league": "Football League Lowland League",
+    "date": "2018-07-28"
+  },
+  {
+    "id": 708,
+    "country": "Scotland",
+    "league": "Football League Highland League",
+    "date": "2021-12-18"
+  },
+  {
+    "id": 709,
+    "country": "Scotland",
+    "league": "Championship Scotland Football League Highland League Scotland Football League Lowland League Scotland League One Scotland League Two Scotland Premiership",
+    "date": "2023-08-05"
+  },
+  {
+    "id": 710,
+    "country": "Scotland",
+    "league": "Championship Play Offs",
+    "date": "2017-05-10"
+  },
+  {
+    "id": 711,
+    "country": "Scotland",
+    "league": "Reserve League",
+    "date": "2018-08-20"
+  },
+  {
+    "id": 712,
+    "country": "Scotland",
+    "league": "League Two",
+    "date": "2005-08-05"
+  },
+  {
+    "id": 713,
+    "country": "Scotland",
+    "league": "Championship Scotland Football League Highland League Scotland Football League Lowland League Scotland League One",
+    "date": "2023-07-21"
+  },
+  {
+    "id": 714,
+    "country": "Scotland",
+    "league": "Championship Scotland Football League Highland League Scotland Football League Lowland League",
+    "date": "2023-07-21"
+  },
+  {
+    "id": 715,
+    "country": "Scotland",
+    "league": "Championship",
+    "date": "2005-08-05"
+  },
+  {
+    "id": 716,
+    "country": "Scotland",
+    "league": "League Cup",
+    "date": "2018-07-13"
+  },
+  {
+    "id": 717,
+    "country": "Scotland",
+    "league": "League One",
+    "date": "2005-08-05"
+  },
+  {
+    "id": 718,
+    "country": "Scotland",
+    "league": "League One Play Offs",
+    "date": "2017-05-10"
+  },
+  {
+    "id": 719,
+    "country": "Scotland",
+    "league": "Championship Scotland Football League Highland League Scotland Football League Lowland League Scotland League One Scotland League Two Scotland Premiership Scotland Reserve League",
+    "date": "2023-08-05"
+  },
+  {
+    "id": 720,
+    "country": "Scotland",
+    "league": "Championship Scotland Football League Highland League Scotland Football League Lowland League Scotland League One Scotland League Two",
+    "date": "2023-08-05"
+  },
+  {
+    "id": 721,
+    "country": "Senegal",
+    "league": "Ligue 1",
+    "date": "2010-12-18"
+  },
+  {
+    "id": 722,
+    "country": "Serbia",
+    "league": "Srpska Liga Vojvodina",
+    "date": "2006-08-11"
+  },
+  {
+    "id": 723,
+    "country": "Serbia",
+    "league": "Srpska Liga East",
+    "date": "2011-08-20"
+  },
+  {
+    "id": 724,
+    "country": "Serbia",
+    "league": "Prva Liga Serbia Srpska Liga Belgrade",
+    "date": "2023-08-05"
+  },
+  {
+    "id": 725,
+    "country": "Serbia",
+    "league": "Super Liga Zene",
+    "date": "2020-08-08"
+  },
+  {
+    "id": 726,
+    "country": "Serbia",
+    "league": "Prva Liga",
+    "date": "2006-08-11"
+  },
+  {
+    "id": 727,
+    "country": "Serbia",
+    "league": "Prva Liga Serbia Srpska Liga Belgrade Serbia Srpska Liga East",
+    "date": "2023-08-11"
+  },
+  {
+    "id": 728,
+    "country": "Serbia",
+    "league": "Prva Liga Serbia Srpska Liga Belgrade Serbia Srpska Liga East Serbia Srpska Liga Vojvodina",
+    "date": "2023-08-11"
+  },
+  {
+    "id": 729,
+    "country": "Serbia",
+    "league": "Srpska Liga West",
+    "date": "2010-08-14"
+  },
+  {
+    "id": 730,
+    "country": "Serbia",
+    "league": "Super Liga",
+    "date": "2006-08-03"
+  },
+  {
+    "id": 731,
+    "country": "Serbia",
+    "league": "Srpska Liga Belgrade",
+    "date": "2006-08-11"
+  },
+  {
+    "id": 732,
+    "country": "Serbia",
+    "league": "Prva Liga Serbia Srpska Liga Belgrade Serbia Srpska Liga East Serbia Srpska Liga Vojvodina Serbia Srpska Liga West Serbia Super Liga",
+    "date": "2023-07-29"
+  },
+  {
+    "id": 733,
+    "country": "Serbia",
+    "league": "Prva Liga Serbia Srpska Liga Belgrade Serbia Srpska Liga East Serbia Srpska Liga Vojvodina Serbia Srpska Liga West Serbia Super Liga Serbia Super Liga Zene",
+    "date": "2023-07-29"
+  },
+  {
+    "id": 734,
+    "country": "Serbia",
+    "league": "Prva Liga Serbia Srpska Liga Belgrade Serbia Srpska Liga East Serbia Srpska Liga Vojvodina Serbia Srpska Liga West",
+    "date": "2023-08-12"
+  },
+  {
+    "id": 735,
+    "country": "Sierra_leone",
+    "league": "Premier League",
+    "date": "2019-01-26"
+  },
+  {
+    "id": 736,
+    "country": "Singapore",
+    "league": "S League",
+    "date": "2005-03-11"
+  },
+  {
+    "id": 737,
+    "country": "Slovakia",
+    "league": "3 Liga Bratislava",
+    "date": "2012-05-05"
+  },
+  {
+    "id": 738,
+    "country": "Slovakia",
+    "league": "2 Liga West",
+    "date": "2014-07-26"
+  },
+  {
+    "id": 739,
+    "country": "Slovakia",
+    "league": "3 Liga East",
+    "date": "2008-08-01"
+  },
+  {
+    "id": 740,
+    "country": "Slovakia",
+    "league": "Fortuna Liga",
+    "date": "2005-07-15"
+  },
+  {
+    "id": 741,
+    "country": "Slovakia",
+    "league": "Slovakia Cup",
+    "date": "2007-09-17"
+  },
+  {
+    "id": 742,
+    "country": "Slovakia",
+    "league": "2 Liga East",
+    "date": "2014-07-26"
+  },
+  {
+    "id": 743,
+    "country": "Slovakia",
+    "league": "Nike liga",
+    "date": "2020-08-08"
+  },
+  {
+    "id": 744,
+    "country": "Slovakia",
+    "league": "3 Liga West",
+    "date": "2008-08-01"
+  },
+  {
+    "id": 745,
+    "country": "Slovakia",
+    "league": "2 Liga",
+    "date": "2005-07-21"
+  },
+  {
+    "id": 746,
+    "country": "Slovakia",
+    "league": "3 Liga Center",
+    "date": "2014-08-02"
+  },
+  {
+    "id": 747,
+    "country": "Slovakia",
+    "league": "Youth League",
+    "date": "2018-08-17"
+  },
+  {
+    "id": 748,
+    "country": "Slovakia",
+    "league": "Nike Liga",
+    "date": "2023-07-28"
+  },
+  {
+    "id": 749,
+    "country": "Solomon_islands",
+    "league": "S League",
+    "date": "2020-08-08"
+  },
+  {
+    "id": 750,
+    "country": "Somalia",
+    "league": "Nation Link Telecom Championship",
+    "date": "2019-02-06"
+  },
+  {
+    "id": 751,
+    "country": "South_africa",
+    "league": "Gladafrica Championship",
+    "date": "2018-08-18"
+  },
+  {
+    "id": 752,
+    "country": "South_africa",
+    "league": "Premier League",
+    "date": "2005-08-02"
+  },
+  {
+    "id": 753,
+    "country": "Spain",
+    "league": "Division De Honor Juvenil Group 4",
+    "date": "2021-12-18"
+  },
+  {
+    "id": 754,
+    "country": "Spain",
+    "league": "Segunda B Group 5",
+    "date": "2020-10-17"
+  },
+  {
+    "id": 755,
+    "country": "Spain",
+    "league": "Primera Nacional Femenina Group 2",
+    "date": "2021-12-19"
+  },
+  {
+    "id": 756,
+    "country": "Spain",
+    "league": "La Liga 2",
+    "date": "2005-08-26"
+  },
+  {
+    "id": 757,
+    "country": "Spain",
+    "league": "Tercera Group 13",
+    "date": "2007-08-24"
+  },
+  {
+    "id": 758,
+    "country": "Spain",
+    "league": "Liga Nacional Juvenil Canarias",
+    "date": "2020-10-30"
+  },
+  {
+    "id": 759,
+    "country": "Spain",
+    "league": "Tercera Group 14",
+    "date": "2007-08-25"
+  },
+  {
+    "id": 760,
+    "country": "Spain",
+    "league": "Tercera Group 11",
+    "date": "2007-08-24"
+  },
+  {
+    "id": 761,
+    "country": "Spain",
+    "league": "Tercera Group 15",
+    "date": "2007-08-31"
+  },
+  {
+    "id": 762,
+    "country": "Spain",
+    "league": "La Liga",
+    "date": "2005-08-26"
+  },
+  {
+    "id": 763,
+    "country": "Spain",
+    "league": "Tercera Group 2",
+    "date": "2007-08-24"
+  },
+  {
+    "id": 764,
+    "country": "Spain",
+    "league": "Segunda B Group 1",
+    "date": "2005-08-26"
+  },
+  {
+    "id": 765,
+    "country": "Spain",
+    "league": "Tercera Group 18",
+    "date": "2007-08-24"
+  },
+  {
+    "id": 766,
+    "country": "Spain",
+    "league": "Liga Nacional Juvenil Group 3",
+    "date": "2020-10-31"
+  },
+  {
+    "id": 767,
+    "country": "Spain",
+    "league": "Division De Honor Juvenil Group 2",
+    "date": "2021-12-18"
+  },
+  {
+    "id": 768,
+    "country": "Spain",
+    "league": "Tercera Group 9",
+    "date": "2007-08-24"
+  },
+  {
+    "id": 769,
+    "country": "Spain",
+    "league": "Tercera Group 6",
+    "date": "2007-08-24"
+  },
+  {
+    "id": 770,
+    "country": "Spain",
+    "league": "Segunda B Group 4",
+    "date": "2007-08-25"
+  },
+  {
+    "id": 771,
+    "country": "Spain",
+    "league": "Liga Nacional Juvenil Group 7",
+    "date": "2020-10-31"
+  },
+  {
+    "id": 772,
+    "country": "Spain",
+    "league": "Division De Honor Juvenil Group 5",
+    "date": "2021-12-18"
+  },
+  {
+    "id": 773,
+    "country": "Spain",
+    "league": "Liga Nacional Juvenil Group 13",
+    "date": "2020-10-24"
+  },
+  {
+    "id": 774,
+    "country": "Spain",
+    "league": "Primera Nacional Femenina Group 6",
+    "date": "2021-12-18"
+  },
+  {
+    "id": 775,
+    "country": "Spain",
+    "league": "Liga Nacional Juvenil Group 16",
+    "date": "2020-10-31"
+  },
+  {
+    "id": 776,
+    "country": "Spain",
+    "league": "Division De Honor Juvenil Group 7",
+    "date": "2021-12-18"
+  },
+  {
+    "id": 777,
+    "country": "Spain",
+    "league": "Segunda B Playoffs",
+    "date": "2017-06-04"
+  },
+  {
+    "id": 778,
+    "country": "Spain",
+    "league": "Liga Nacional Juvenil Group 8",
+    "date": "2020-10-17"
+  },
+  {
+    "id": 779,
+    "country": "Spain",
+    "league": "Primera Nacional Femenina Group 4",
+    "date": "2021-12-19"
+  },
+  {
+    "id": 780,
+    "country": "Spain",
+    "league": "Tercera Group 17",
+    "date": "2007-08-23"
+  },
+  {
+    "id": 781,
+    "country": "Spain",
+    "league": "Tercera Group 7",
+    "date": "2007-08-25"
+  },
+  {
+    "id": 782,
+    "country": "Spain",
+    "league": "Division De Honor Juvenil Play offs",
+    "date": "2018-08-31"
+  },
+  {
+    "id": 783,
+    "country": "Spain",
+    "league": "Liga Nacional Juvenil Group 2",
+    "date": "2020-10-17"
+  },
+  {
+    "id": 784,
+    "country": "Spain",
+    "league": "Division De Honor Juvenil Group 3",
+    "date": "2021-12-18"
+  },
+  {
+    "id": 785,
+    "country": "Spain",
+    "league": "Liga Nacional Juvenil Group 4",
+    "date": "2021-01-09"
+  },
+  {
+    "id": 786,
+    "country": "Spain",
+    "league": "Liga Nacional Juvenil Group 9",
+    "date": "2020-10-24"
+  },
+  {
+    "id": 787,
+    "country": "Spain",
+    "league": "Tercera Group 12",
+    "date": "2007-08-24"
+  },
+  {
+    "id": 788,
+    "country": "Spain",
+    "league": "Segunda B Group 3",
+    "date": "2007-08-25"
+  },
+  {
+    "id": 789,
+    "country": "Spain",
+    "league": "Tercera Group 5",
+    "date": "2007-09-01"
+  },
+  {
+    "id": 790,
+    "country": "Spain",
+    "league": "Liga Nacional Juvenil Group 1",
+    "date": "2020-10-24"
+  },
+  {
+    "id": 791,
+    "country": "Spain",
+    "league": "Liga Nacional Juvenil Group 14",
+    "date": "2020-10-24"
+  },
+  {
+    "id": 792,
+    "country": "Spain",
+    "league": "Tercera Group 10",
+    "date": "2007-08-24"
+  },
+  {
+    "id": 793,
+    "country": "Spain",
+    "league": "Tercera Group 16",
+    "date": "2007-08-31"
+  },
+  {
+    "id": 794,
+    "country": "Spain",
+    "league": "Tercera Group 8",
+    "date": "2007-08-24"
+  },
+  {
+    "id": 795,
+    "country": "Spain",
+    "league": "Liga Nacional Juvenil Group 5",
+    "date": "2020-12-05"
+  },
+  {
+    "id": 796,
+    "country": "Spain",
+    "league": "Liga Nacional Juvenil Group 15",
+    "date": "2020-10-31"
+  },
+  {
+    "id": 797,
+    "country": "Spain",
+    "league": "Tercera Group 1",
+    "date": "2007-08-23"
+  },
+  {
+    "id": 798,
+    "country": "Spain",
+    "league": "Tercera Group 4",
+    "date": "2007-08-25"
+  },
+  {
+    "id": 799,
+    "country": "Spain",
+    "league": "Liga Nacional Juvenil Group 11",
+    "date": "2020-10-31"
+  },
+  {
+    "id": 800,
+    "country": "Spain",
+    "league": "Segunda B Group 2",
+    "date": "2007-08-25"
+  },
+  {
+    "id": 801,
+    "country": "Spain",
+    "league": "Primera Nacional Femenina Group 1",
+    "date": "2018-09-07"
+  },
+  {
+    "id": 802,
+    "country": "Spain",
+    "league": "Liga Nacional Juvenil Group 6",
+    "date": "2020-11-14"
+  },
+  {
+    "id": 803,
+    "country": "Spain",
+    "league": "Primera Nacional Femenina Group 3",
+    "date": "2021-12-18"
+  },
+  {
+    "id": 804,
+    "country": "Spain",
+    "league": "Liga Nacional Juvenil Group 10",
+    "date": "2020-10-31"
+  },
+  {
+    "id": 805,
+    "country": "Spain",
+    "league": "Division De Honor Juvenil Group 1",
+    "date": "2021-12-18"
+  },
+  {
+    "id": 806,
+    "country": "Spain",
+    "league": "Primera Division Women",
+    "date": "2018-09-08"
+  },
+  {
+    "id": 807,
+    "country": "Spain",
+    "league": "Liga Nacional Juvenil Group 12",
+    "date": "2020-10-31"
+  },
+  {
+    "id": 808,
+    "country": "Spain",
+    "league": "Primera Nacional Femenina Group 5",
+    "date": "2022-01-08"
+  },
+  {
+    "id": 809,
+    "country": "Spain",
+    "league": "Primera Nacional Femenina Group 7",
+    "date": "2021-12-18"
+  },
+  {
+    "id": 810,
+    "country": "Spain",
+    "league": "Tercera Playoffs",
+    "date": "2020-07-18"
+  },
+  {
+    "id": 811,
+    "country": "Spain",
+    "league": "Division De Honor Juvenil Group 6",
+    "date": "2021-12-18"
+  },
+  {
+    "id": 812,
+    "country": "Spain",
+    "league": "Liga Nacional Juvenil Group 17",
+    "date": "2020-11-29"
+  },
+  {
+    "id": 813,
+    "country": "Spain",
+    "league": "Tercera Group 3",
+    "date": "2007-08-24"
+  },
+  {
+    "id": 814,
+    "country": "Sudan",
+    "league": "Sudan Premier League",
+    "date": "2007-02-18"
+  },
+  {
+    "id": 815,
+    "country": "Suriname",
+    "league": "Topklasse",
+    "date": "2006-10-07"
+  },
+  {
+    "id": 816,
+    "country": "Sweden",
+    "league": "Svenska Cupen 2020",
+    "date": "2020-07-30"
+  },
+  {
+    "id": 817,
+    "country": "Sweden",
+    "league": "Superettan",
+    "date": "2005-04-15"
+  },
+  {
+    "id": 818,
+    "country": "Sweden",
+    "league": "Division 2 Norrland",
+    "date": "2011-04-21"
+  },
+  {
+    "id": 819,
+    "country": "Sweden",
+    "league": "Svenska Cupen 2013",
+    "date": "2013-06-04"
+  },
+  {
+    "id": 820,
+    "country": "Sweden",
+    "league": "Svenska Cupen 2015",
+    "date": "2015-06-09"
+  },
+  {
+    "id": 821,
+    "country": "Sweden",
+    "league": "Elitettan Women",
+    "date": "2018-04-14"
+  },
+  {
+    "id": 822,
+    "country": "Sweden",
+    "league": "Svenska Cupen",
+    "date": "2020-07-30"
+  },
+  {
+    "id": 823,
+    "country": "Sweden",
+    "league": "Ettan South",
+    "date": "2006-04-16"
+  },
+  {
+    "id": 824,
+    "country": "Sweden",
+    "league": "Division 2 Norra Svealand",
+    "date": "2011-04-16"
+  },
+  {
+    "id": 825,
+    "country": "Sweden",
+    "league": "Division 2 Vastra Gotaland",
+    "date": "2011-04-16"
+  },
+  {
+    "id": 826,
+    "country": "Sweden",
+    "league": "Division 2 Play offs",
+    "date": "2020-10-24"
+  },
+  {
+    "id": 827,
+    "country": "Sweden",
+    "league": "Division 2 Norra Gotaland",
+    "date": "2011-04-16"
+  },
+  {
+    "id": 828,
+    "country": "Sweden",
+    "league": "Allsvenskan",
+    "date": "2005-04-08"
+  },
+  {
+    "id": 829,
+    "country": "Sweden",
+    "league": "Svenska Cupen 2019",
+    "date": "2019-05-15"
+  },
+  {
+    "id": 830,
+    "country": "Sweden",
+    "league": "Ettan North",
+    "date": "2006-04-21"
+  },
+  {
+    "id": 831,
+    "country": "Sweden",
+    "league": "Svenska Cupen 2021",
+    "date": "2021-06-09"
+  },
+  {
+    "id": 832,
+    "country": "Sweden",
+    "league": "Svenska Cupen 2017",
+    "date": "2017-06-06"
+  },
+  {
+    "id": 833,
+    "country": "Sweden",
+    "league": "Svenska Cupen 2014",
+    "date": "2014-06-03"
+  },
+  {
+    "id": 834,
+    "country": "Sweden",
+    "league": "Svenska Cupen 2016",
+    "date": "2016-05-17"
+  },
+  {
+    "id": 835,
+    "country": "Sweden",
+    "league": "Allsvenskan Women",
+    "date": "2013-04-13"
+  },
+  {
+    "id": 836,
+    "country": "Sweden",
+    "league": "Division 2 Sodra Svealand",
+    "date": "2011-04-15"
+  },
+  {
+    "id": 837,
+    "country": "Sweden",
+    "league": "Svenska Cupen 2012",
+    "date": "2012-06-03"
+  },
+  {
+    "id": 838,
+    "country": "Sweden",
+    "league": "Division 2 Sodra Gotaland",
+    "date": "2007-04-13"
+  },
+  {
+    "id": 839,
+    "country": "Sweden",
+    "league": "Svenska Cupen 2018",
+    "date": "2018-05-15"
+  },
+  {
+    "id": 840,
+    "country": "Switzerland",
+    "league": "1 Liga Classic",
+    "date": "2018-03-03"
+  },
+  {
+    "id": 841,
+    "country": "Switzerland",
+    "league": "Nationalliga A Women",
+    "date": "2018-08-16"
+  },
+  {
+    "id": 842,
+    "country": "Switzerland",
+    "league": "1 Liga Promotion",
+    "date": "2017-08-02"
+  },
+  {
+    "id": 843,
+    "country": "Switzerland",
+    "league": "Super League",
+    "date": "2005-07-12"
+  },
+  {
+    "id": 844,
+    "country": "Switzerland",
+    "league": "Nationalliga B Women",
+    "date": "2020-08-15"
+  },
+  {
+    "id": 845,
+    "country": "Switzerland",
+    "league": "Challenge League",
+    "date": "2005-07-14"
+  },
+  {
+    "id": 846,
+    "country": "Syria",
+    "league": "Premier League",
+    "date": "2005-10-06"
+  },
+  {
+    "id": 847,
+    "country": "Tajikistan",
+    "league": "Vysshaya Liga",
+    "date": "2020-04-05"
+  },
+  {
+    "id": 848,
+    "country": "Tanzania",
+    "league": "Ligi kuu Bara",
+    "date": "2015-09-12"
+  },
+  {
+    "id": 849,
+    "country": "Thailand",
+    "league": "Thai League 3 East",
+    "date": "2021-12-18"
+  },
+  {
+    "id": 850,
+    "country": "Thailand",
+    "league": "Thai League 3 South",
+    "date": "2021-12-18"
+  },
+  {
+    "id": 851,
+    "country": "Thailand",
+    "league": "Thai League 3 West",
+    "date": "2021-12-18"
+  },
+  {
+    "id": 852,
+    "country": "Thailand",
+    "league": "Thai League Two",
+    "date": "2010-03-14"
+  },
+  {
+    "id": 853,
+    "country": "Thailand",
+    "league": "Thai League 3 BKK Perimeter",
+    "date": "2019-02-09"
+  },
+  {
+    "id": 854,
+    "country": "Thailand",
+    "league": "Thai League 3 North",
+    "date": "2021-12-18"
+  },
+  {
+    "id": 855,
+    "country": "Thailand",
+    "league": "Thai Premier League",
+    "date": "2007-03-16"
+  },
+  {
+    "id": 856,
+    "country": "Thailand",
+    "league": "Thai League 3 Championship Round",
+    "date": "2022-03-08"
+  },
+  {
+    "id": 857,
+    "country": "Thailand",
+    "league": "Thai League 3 North East",
+    "date": "2021-12-18"
+  },
+  {
+    "id": 858,
+    "country": "Togo",
+    "league": "Championnat National",
+    "date": "2018-09-22"
+  },
+  {
+    "id": 859,
+    "country": "Trinidad_and_tobago",
+    "league": "and Tobago T T Pro League",
+    "date": "2011-09-09"
+  },
+  {
+    "id": 860,
+    "country": "Turkey",
+    "league": "1 Lig U21",
+    "date": "2018-08-10"
+  },
+  {
+    "id": 861,
+    "country": "Turkey",
+    "league": "Boelgesel Amatoer Lig Region 7",
+    "date": "2021-12-19"
+  },
+  {
+    "id": 862,
+    "country": "Turkey",
+    "league": "2 Lig Kirmizi",
+    "date": "2010-08-29"
+  },
+  {
+    "id": 863,
+    "country": "Turkey",
+    "league": "1 Lig",
+    "date": "2005-08-28"
+  },
+  {
+    "id": 864,
+    "country": "Turkey",
+    "league": "2 Lig Beyaz",
+    "date": "2007-08-19"
+  },
+  {
+    "id": 865,
+    "country": "Turkey",
+    "league": "Boelgesel Amatoer Lig Region 8",
+    "date": "2021-12-18"
+  },
+  {
+    "id": 866,
+    "country": "Turkey",
+    "league": "3 Lig Group 4",
+    "date": "2020-09-20"
+  },
+  {
+    "id": 867,
+    "country": "Turkey",
+    "league": "3 Lig Group 2",
+    "date": "2008-09-06"
+  },
+  {
+    "id": 868,
+    "country": "Turkey",
+    "league": "U19 Elit B",
+    "date": "2019-08-17"
+  },
+  {
+    "id": 869,
+    "country": "Turkey",
+    "league": "U19 Sueper Lig",
+    "date": "2019-08-17"
+  },
+  {
+    "id": 870,
+    "country": "Turkey",
+    "league": "Boelgesel Amatoer Lig Region 2",
+    "date": "2021-12-18"
+  },
+  {
+    "id": 871,
+    "country": "Turkey",
+    "league": "Boelgesel Amatoer Lig Region 9",
+    "date": "2021-12-18"
+  },
+  {
+    "id": 872,
+    "country": "Turkey",
+    "league": "3 Lig Group 3",
+    "date": "2008-09-07"
+  },
+  {
+    "id": 873,
+    "country": "Turkey",
+    "league": "Boelgesel Amatoer Lig Region 6",
+    "date": "2021-12-18"
+  },
+  {
+    "id": 874,
+    "country": "Turkey",
+    "league": "Turkish Cup",
+    "date": "2005-09-19"
+  },
+  {
+    "id": 875,
+    "country": "Turkey",
+    "league": "Boelgesel Amatoer Lig Region 3",
+    "date": "2021-12-19"
+  },
+  {
+    "id": 876,
+    "country": "Turkey",
+    "league": "Boelgesel Amatoer Lig Region 1",
+    "date": "2021-06-08"
+  },
+  {
+    "id": 877,
+    "country": "Turkey",
+    "league": "Sueper Lig U21",
+    "date": "2018-08-10"
+  },
+  {
+    "id": 878,
+    "country": "Turkey",
+    "league": "Boelgesel Amatoer Lig Play offs",
+    "date": "2022-04-18"
+  },
+  {
+    "id": 879,
+    "country": "Turkey",
+    "league": "Boelgesel Amatoer Lig Region 4",
+    "date": "2021-12-18"
+  },
+  {
+    "id": 880,
+    "country": "Turkey",
+    "league": "2 Lig Playoff",
+    "date": "2014-05-23"
+  },
+  {
+    "id": 881,
+    "country": "Turkey",
+    "league": "Boelgesel Amatoer Lig Region 5",
+    "date": "2021-12-18"
+  },
+  {
+    "id": 882,
+    "country": "Turkey",
+    "league": "Super Lig",
+    "date": "2005-08-04"
+  },
+  {
+    "id": 883,
+    "country": "Turkey",
+    "league": "3 Lig Group 1",
+    "date": "2008-09-03"
+  },
+  {
+    "id": 884,
+    "country": "Turkmenistan",
+    "league": "Yokary Liga",
+    "date": "2020-04-19"
+  },
+  {
+    "id": 885,
+    "country": "Uganda",
+    "league": "Premier League",
+    "date": "2016-08-19"
+  },
+  {
+    "id": 886,
+    "country": "Ukraine",
+    "league": "Second League Group B",
+    "date": "2007-07-24"
+  },
+  {
+    "id": 887,
+    "country": "Ukraine",
+    "league": "Second League Group A",
+    "date": "2007-07-28"
+  },
+  {
+    "id": 888,
+    "country": "Ukraine",
+    "league": "Youth League",
+    "date": "2018-07-21"
+  },
+  {
+    "id": 889,
+    "country": "Ukraine",
+    "league": "Persha Liga",
+    "date": "2005-07-29"
+  },
+  {
+    "id": 890,
+    "country": "Ukraine",
+    "league": "Premier League",
+    "date": "2005-07-11"
+  },
+  {
+    "id": 891,
+    "country": "United_arab_emirates",
+    "league": "Arabian Gulf Reserve League",
+    "date": "2019-09-20"
+  },
+  {
+    "id": 892,
+    "country": "United_arab_emirates",
+    "league": "Arabian Gulf Cup",
+    "date": "2012-09-18"
+  },
+  {
+    "id": 893,
+    "country": "United_arab_emirates",
+    "league": "Uae League",
+    "date": "2005-08-30"
+  },
+  {
+    "id": 894,
+    "country": "United_arab_emirates",
+    "league": "U19 League",
+    "date": "2019-09-13"
+  },
+  {
+    "id": 895,
+    "country": "United_arab_emirates",
+    "league": "Division 1",
+    "date": "2007-09-26"
+  },
+  {
+    "id": 896,
+    "country": "United_arab_emirates",
+    "league": "Presidents Cup",
+    "date": "2020-10-09"
+  },
+  {
+    "id": 897,
+    "country": "United_arab_emirates",
+    "league": "U18 League",
+    "date": "2022-11-11"
+  },
+  {
+    "id": 898,
+    "country": "Uruguay",
+    "league": "Primera Division",
+    "date": "2005-08-19"
+  },
+  {
+    "id": 899,
+    "country": "Uruguay",
+    "league": "Primera Division Clausura",
+    "date": "2006-02-17"
+  },
+  {
+    "id": 900,
+    "country": "Uruguay",
+    "league": "Segunda Division",
+    "date": "2006-09-15"
+  },
+  {
+    "id": 901,
+    "country": "USA",
+    "league": "NASL",
+    "date": "2011-04-09"
+  },
+  {
+    "id": 902,
+    "country": "USA",
+    "league": "NISA 2021",
+    "date": "2021-08-07"
+  },
+  {
+    "id": 903,
+    "country": "USA",
+    "league": "NISA 2020",
+    "date": "2020-08-15"
+  },
+  {
+    "id": 904,
+    "country": "USA",
+    "league": "USL League One",
+    "date": "2019-03-29"
+  },
+  {
+    "id": 905,
+    "country": "USA",
+    "league": "Major League Soccer",
+    "date": "2005-04-01"
+  },
+  {
+    "id": 906,
+    "country": "USA",
+    "league": "USL League Two",
+    "date": "2007-04-27"
+  },
+  {
+    "id": 907,
+    "country": "USA",
+    "league": "USL 2",
+    "date": "2007-04-19"
+  },
+  {
+    "id": 908,
+    "country": "USA",
+    "league": "NPSL",
+    "date": "2020-02-23"
+  },
+  {
+    "id": 909,
+    "country": "USA",
+    "league": "MLS Next U19",
+    "date": "2021-02-26"
+  },
+  {
+    "id": 910,
+    "country": "USA",
+    "league": "NISA 2019",
+    "date": "2019-11-10"
+  },
+  {
+    "id": 911,
+    "country": "USA",
+    "league": "USL Championship",
+    "date": "2005-04-15"
+  },
+  {
+    "id": 912,
+    "country": "USA",
+    "league": "Nwsl Challenge Cup Women",
+    "date": "2020-06-27"
+  },
+  {
+    "id": 913,
+    "country": "USA",
+    "league": "NISA",
+    "date": "2021-02-26"
+  },
+  {
+    "id": 914,
+    "country": "Uzbekistan",
+    "league": "Pro League A",
+    "date": "2020-08-29"
+  },
+  {
+    "id": 915,
+    "country": "Uzbekistan",
+    "league": "Professional Football League",
+    "date": "2006-03-10"
+  },
+  {
+    "id": 916,
+    "country": "Venezuela",
+    "league": "Primera Division",
+    "date": "2006-01-07"
+  },
+  {
+    "id": 917,
+    "country": "Venezuela",
+    "league": "Segunda Division",
+    "date": "2006-08-11"
+  },
+  {
+    "id": 918,
+    "country": "Vietnam",
+    "league": "Women s National League",
+    "date": "2019-06-10"
+  },
+  {
+    "id": 919,
+    "country": "Vietnam",
+    "league": "V League 2",
+    "date": "2006-01-14"
+  },
+  {
+    "id": 920,
+    "country": "Vietnam",
+    "league": "U19 Women s Championship",
+    "date": "2020-06-16"
+  },
+  {
+    "id": 921,
+    "country": "Vietnam",
+    "league": "V League",
+    "date": "2006-01-14"
+  },
+  {
+    "id": 922,
+    "country": "Vietnam",
+    "league": "Second Division",
+    "date": "2019-05-11"
+  },
+  {
+    "id": 923,
+    "country": "Vietnam",
+    "league": "U21 Championship",
+    "date": "2019-06-19"
+  },
+  {
+    "id": 924,
+    "country": "Vietnam",
+    "league": "U19 Championship",
+    "date": "2020-03-02"
+  },
+  {
+    "id": 925,
+    "country": "Wales",
+    "league": "Cymru Alliance",
+    "date": "2007-08-16"
+  },
+  {
+    "id": 926,
+    "country": "Wales",
+    "league": "Welsh League Division 1",
+    "date": "2005-08-11"
+  },
+  {
+    "id": 927,
+    "country": "Wales",
+    "league": "Premier League",
+    "date": "2005-08-26"
+  },
+  {
+    "id": 928,
+    "country": "Wales",
+    "league": "FAW Championship",
+    "date": "2021-07-23"
+  },
+  {
+    "id": 929,
+    "country": "Yemen",
+    "league": "Yemeni League",
+    "date": "2007-12-27"
+  },
+  {
+    "id": 930,
+    "country": "Zambia",
+    "league": "Super League",
+    "date": "2006-03-17"
+  },
+  {
+    "id": 931,
+    "country": "Zimbabwe",
+    "league": "Premier Soccer League",
+    "date": "2016-04-01"
+  }
+]
