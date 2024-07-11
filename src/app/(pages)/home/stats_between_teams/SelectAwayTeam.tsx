@@ -18,8 +18,14 @@ const SelectAwayTeam = () => {
 
   useEffect(() => {
     const fetchTeams = async () => {
-      const teamsData = await getTeams(stats?.country);
-      setTeams(teamsData?.teams);
+      if (stats?.country) {
+        try {
+          const teamsData = await getTeams(stats?.country);
+          setTeams(teamsData?.teams);
+        } catch (error) {
+          console.error("Error fetching away team...", error);
+        }
+      }
     };
 
     fetchTeams();
