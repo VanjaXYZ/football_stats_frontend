@@ -1,6 +1,7 @@
 import React from "react";
 import TopELOTeams from "./components/TopELOTeams";
 import { getBestELOTeams } from "@/app/routes/ELO_Stats/routes";
+import CountryELOTeams from "./components/CountryELOTeams";
 
 const EloLayout = async ({
   children,
@@ -14,7 +15,10 @@ const EloLayout = async ({
     <div className="flex flex-col">
       {children}
       <div className="flex">
-        <TopELOTeams topEloTeams={topEloTeams} />
+        <div className="w-[80%] space-y-10">
+          <TopELOTeams topEloTeams={topEloTeams} />
+          <CountryELOTeams />
+        </div>
         {asideMenu}
       </div>
     </div>
