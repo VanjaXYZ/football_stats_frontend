@@ -3,6 +3,7 @@ import TopELOTeams from "./components/TopELOTeams";
 import { getBestELOTeams } from "@/app/routes/ELO_Stats/routes";
 import CountryELOTeams from "./components/CountryELOTeams";
 import LinkToAboutEloPage from "./components/LinkToAboutEloPage";
+import EloParent from "./components/EloParent";
 
 const EloLayout = async ({
   children,
@@ -14,15 +15,9 @@ const EloLayout = async ({
   const topEloTeams = await getBestELOTeams();
   return (
     <div className="flex flex-col">
-      {children}
-      <div className="flex">
-        <div className="w-[80%] space-y-2">
-          <TopELOTeams topEloTeams={topEloTeams} />
-          <CountryELOTeams />
-          <LinkToAboutEloPage />
-        </div>
-        {asideMenu}
-      </div>
+      <EloParent asideMenu={asideMenu} topEloTeams={topEloTeams}>
+        {children}
+      </EloParent>
     </div>
   );
 };
