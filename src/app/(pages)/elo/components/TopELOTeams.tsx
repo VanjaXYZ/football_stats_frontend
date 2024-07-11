@@ -1,7 +1,5 @@
-"use client";
-import React from "react";
-import TableComponent from "../../(shared)/TableComponent";
 import Image from "next/image";
+import TableComponent from "../../(shared)/TableComponent";
 import { Config } from "../../../../../Config";
 
 const TopELOTeams = ({ topEloTeams }: { topEloTeams: any }) => {
@@ -39,8 +37,13 @@ const TopELOTeams = ({ topEloTeams }: { topEloTeams: any }) => {
     },
   ];
   return (
-    <div className="w-full">
-      <TableComponent column={columnsData} row={topEloTeams} />
+    <div className="w-full space-y-8">
+      <div className="max-h-[430px] overflow-y-auto">
+        <h3 className="antialiased text-3xl font-semibold text-center py-2">
+          Top 50 Teams
+        </h3>
+        <TableComponent column={columnsData} row={topEloTeams} />
+      </div>
     </div>
   );
 };
