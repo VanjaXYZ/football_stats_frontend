@@ -151,14 +151,14 @@ const StatsBetweenTeams = () => {
       {isLoading ? (
         <TableLoading />
       ) : (
-        <>
+        <div className="container">
           <TeamVsTeamHeader
             homeTeam={stats.homeTeam}
             awayTeam={stats.awayTeam}
           />
           <TableComponent column={topTableData} row={teamsScore} />
           <TeamVsTeamStats stats={teamsScore[0]?.last_games} />
-        </>
+        </div>
       )}
     </div>
   );

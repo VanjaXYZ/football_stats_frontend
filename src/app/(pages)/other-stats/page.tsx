@@ -12,7 +12,9 @@ const OtherStats = async () => {
   return (
     <>
       <HeroSection />
-      <NumberOfGoals countries={countries} />
+      <div className="container">
+        <NumberOfGoals countries={countries} />
+      </div>
     </>
   );
 };

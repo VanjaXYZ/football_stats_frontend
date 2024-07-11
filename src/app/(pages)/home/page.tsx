@@ -7,17 +7,19 @@ import GenerateRandomThreeStats from "./components/generate_random_three_stats/G
 import GenerateRandomThreeStatsElo from "./components/generate_random_three_stats_elo/GenerateRandomThreeStatsElo";
 const Homepage = () => {
   return (
-    <main className=" w-full min-h-[100vh]">
+    <main className="w-full min-h-[100vh]">
       <HeroSection />
-      <section>
-        <ChooseTeams />
-      </section>
-      <Suspense fallback={<TableLoading />}>
-        <GamePredictions />
-      </Suspense>
-      <div className="space-y-4">
-        <GenerateRandomThreeStats />
-        <GenerateRandomThreeStatsElo />
+      <div className="container">
+        <section>
+          <ChooseTeams />
+        </section>
+        <Suspense fallback={<TableLoading />}>
+          <GamePredictions />
+        </Suspense>
+        <div className="space-y-4">
+          <GenerateRandomThreeStats />
+          <GenerateRandomThreeStatsElo />
+        </div>
       </div>
     </main>
   );

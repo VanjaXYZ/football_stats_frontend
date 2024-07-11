@@ -23,8 +23,8 @@ const EloParent = ({
       ) : (
         <>
           <HeroSection />
-          <div className="flex">
-            <div className="w-[80%] space-y-2">
+          <div className="flex container">
+            <div className="w-[77.5%] space-y-2">
               <TopELOTeams topEloTeams={topEloTeams} />
               <CountryELOTeams />
               <LinkToAboutEloPage />

@@ -18,7 +18,7 @@ const AsideMenu = async ({
   const countries = await getCountries();
 
   return (
-    <div className="w-[20%] p-2">
+    <div className="w-[22.5%] p-2">
       <SearchBar />
       <Pagination countries={countries} />
       <Suspense fallback={<SearchSpinnerLoading />} key={query + currentPage}>
