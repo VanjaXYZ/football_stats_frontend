@@ -3,6 +3,7 @@ import SearchBar from "./components/SearchBar";
 import ListOfCountries from "./components/ListOfCountries";
 import Pagination from "./components/Pagination";
 import { getCountries } from "@/app/routes/Stats_Between_Teams/routes";
+import { SearchSpinnerLoading } from "../../(shared)/Loaders";
 
 const AsideMenu = async ({
   searchParams,
@@ -20,7 +21,7 @@ const AsideMenu = async ({
     <div className="w-96 p-2">
       <SearchBar />
       <Pagination countries={countries} />
-      <Suspense fallback={<p>Loading...</p>} key={query + currentPage}>
+      <Suspense fallback={<SearchSpinnerLoading />} key={query + currentPage}>
         <ListOfCountries
           countries={countries}
           query={query}
