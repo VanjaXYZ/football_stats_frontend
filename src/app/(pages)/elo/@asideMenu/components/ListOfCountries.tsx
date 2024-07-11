@@ -6,18 +6,19 @@ import { Config } from "../../../../../../Config";
 const ListOfCountries = async ({
   query,
   currentPage,
+  countries,
 }: {
   query: string;
   currentPage: number;
+  countries: any;
 }) => {
-  const countries = await getCountries();
   const filteredCountries = countries?.filter((country: any) =>
     country?.country.toLowerCase().includes(query.toLowerCase())
   );
   console.log("Filtered countries: ", filteredCountries.length);
   return (
     <div>
-      <ul className="space-y-2 py-2">
+      <ul className="space-y-2 py-2 max-h-96 overflow-y-auto">
         {filteredCountries?.map((country: any, index: number) => (
           <li
             key={`${country}-${index}`}
