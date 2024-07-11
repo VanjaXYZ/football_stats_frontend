@@ -12,7 +12,6 @@ const SearchBar = () => {
 
   const handleSearch = useDebouncedCallback((term: string) => {
     const params = new URLSearchParams(searchParams);
-    console.log("Searching... ", term);
     if (term) {
       params.set("query", term);
     } else {
