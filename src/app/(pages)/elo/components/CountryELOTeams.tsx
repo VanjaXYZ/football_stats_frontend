@@ -8,7 +8,7 @@ import { Config } from "../../../../../Config";
 
 const CountryELOTeams = () => {
   const { stats } = useEloRatingStore() as any;
-  const [countryElo, setCountryElo] = useState(null);
+  const [countryElo, setCountryElo] = useState<any[]>([]);
 
   useEffect(() => {
     const fetchElo = async () => {
@@ -16,7 +16,6 @@ const CountryELOTeams = () => {
         try {
           const response = await getEloCountry({ country: stats.country });
           setCountryElo(response);
-          console.log(response);
         } catch (error) {
           console.error("Error fetching ELO data:", error);
         }
@@ -26,6 +25,11 @@ const CountryELOTeams = () => {
   }, [stats?.country]);
 
   const columnData = [
+    {
+      key: "",
+      header: "#",
+      Component: (item: any) => countryElo?.indexOf(item) + 1,
+    },
     {
       key: "team",
       header: "Team",
