@@ -6,6 +6,7 @@ import TableComponent from "../../(shared)/TableComponent";
 import TeamVsTeamHeader from "./TeamVsTeamHeader";
 import TeamVsTeamStats from "./TeamVsTeamStats";
 import { TableLoading } from "../../(shared)/Loaders";
+import HeroSection from "../../(shared)/HeroSection";
 
 const StatsBetweenTeams = () => {
   const { stats } = useStatsBetweenStore() as any;
@@ -146,6 +147,7 @@ const StatsBetweenTeams = () => {
 
   return (
     <div className="mt-20">
+      <HeroSection />
       {isLoading ? (
         <TableLoading />
       ) : (
