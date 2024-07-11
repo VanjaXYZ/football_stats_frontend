@@ -12,7 +12,6 @@ import {
 const TableComponent = ({ column, row }: any) => {
   return (
     <Table>
-      {/* <TableCaption>A list of your recent invoices.</TableCaption> */}
       <TableHeader>
         <TableRow>
           {column?.map((item: any, index: number) => (
@@ -31,7 +30,7 @@ const TableComponent = ({ column, row }: any) => {
             {column?.map((data: any, cellIndex: number) => (
               <TableCell
                 key={`cellID-${cellIndex}`}
-                className="text-center font-semibold"
+                className="text-center font-semibold p-1"
               >
                 {data?.Component ? data?.Component(item) : item[data?.key]}
               </TableCell>
