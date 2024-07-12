@@ -34,8 +34,6 @@ const SelectAwayTeam = () => {
     fetchTeams();
   }, [stats.country, stats?.homeTeam]);
 
-  console.log(stats);
-
   return (
     <div>
       {stats.homeTeam && (
