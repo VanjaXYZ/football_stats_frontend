@@ -1,5 +1,8 @@
 "use client";
-import { getTeams } from "@/app/routes/Stats_Between_Teams/routes";
+import {
+  getAwayTeams,
+  getTeams,
+} from "@/app/routes/Stats_Between_Teams/routes";
 import {
   Select,
   SelectContent,
@@ -20,7 +23,7 @@ const SelectAwayTeam = () => {
     const fetchTeams = async () => {
       if (stats?.country) {
         try {
-          const teamsData = await getTeams(stats?.country);
+          const teamsData = await getAwayTeams(stats?.country, stats?.homeTeam);
           setTeams(teamsData?.teams);
         } catch (error) {
           console.error("Error fetching away team...", error);
@@ -29,7 +32,9 @@ const SelectAwayTeam = () => {
     };
 
     fetchTeams();
-  }, [stats.country]);
+  }, [stats.country, stats?.homeTeam]);
+
+  console.log(stats);
 
   return (
     <div>
@@ -43,7 +48,7 @@ const SelectAwayTeam = () => {
           </SelectTrigger>
           <SelectContent>
             <SelectGroup>
-              <SelectLabel>Home Team</SelectLabel>
+              <SelectLabel>Away Team</SelectLabel>
               {teams?.map((item: any) => (
                 <SelectItem value={item} key={item}>
                   {item}

@@ -25,6 +25,19 @@ export const getTeams = async (country: any) => {
     console.error(error);
   }
 };
+// Get list of teams available for team_1
+export const getAwayTeams = async (country: any, team_1: any) => {
+  try {
+    const response = await axios.get(
+      `${Config.baseURL}/teams/teams_for_team_1/${country}/${team_1}`
+    );
+    if (response?.status === 200) {
+      return response?.data;
+    }
+  } catch (error) {
+    console.error(error);
+  }
+};
 
 // Get list of games between chosen teams
 export const getStatsBetweenTeams = async (
