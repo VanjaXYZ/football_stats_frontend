@@ -21,7 +21,7 @@ const SelectAwayTeam = () => {
 
   useEffect(() => {
     const fetchTeams = async () => {
-      if (stats?.country) {
+      if (stats?.country && stats?.homeTeam) {
         try {
           const teamsData = await getAwayTeams(stats?.country, stats?.homeTeam);
           setTeams(teamsData?.teams);
