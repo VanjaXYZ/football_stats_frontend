@@ -26,7 +26,7 @@ const Page = () => {
         on the outcome of their match their scores get updated. The winner gain
         points the loser loses points. The points that are at stake for one
         match are dependent on the point difference between the two competing
-        players. After some matches, players' scores will converge to their true
+        players. After some matches, players scores will converge to their true
         value.
       </p>
 
