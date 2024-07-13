@@ -42,7 +42,7 @@ const RandomThreeStatsTables = ({ data }: any) => {
     },
     {
       key: "numberOfGames",
-      header: "No. games",
+      header: "Matches",
       Component: (item: any) => <div>{item.stats.numberOfGames}</div>,
     },
   ];
