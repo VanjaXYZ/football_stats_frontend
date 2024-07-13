@@ -1,12 +1,17 @@
-"use client";
-import React from "react";
+import { Suspense } from "react";
+import { SearchSpinnerLoading } from "../(shared)/Loaders";
+import SearchBar from "../elo/@asideMenu/components/SearchBar";
+import FilteredLeagues from "./components/FilteredLeagues";
+import leaguesData from "@/lib/leagues-data.json";
 
-import leaguesData from "../../../lib/leagues-data.json";
-import TableComponent from "../(shared)/TableComponent";
-
-const Page = () => {
-  console.log(leaguesData);
-
+const Page = async ({
+  searchParams,
+}: {
+  searchParams?: {
+    query?: string;
+    page?: string;
+  };
+}) => {
   const columnData = [
     {
       key: "country",
@@ -24,9 +29,19 @@ const Page = () => {
       header: "League",
     },
   ];
+
+  const query = searchParams?.query || "";
+  const currentPage = Number(searchParams?.page) || 1;
   return (
-    <div className="mt-20 container py-6">
-      <TableComponent row={leaguesData} column={columnData} />
+    <div className="mt-20 container py-6 space-y-2">
+      <SearchBar />
+      <Suspense fallback={<SearchSpinnerLoading />} key={query + currentPage}>
+        <FilteredLeagues
+          query={query}
+          leagues={leaguesData}
+          columnData={columnData}
+        />
+      </Suspense>
     </div>
   );
 };
