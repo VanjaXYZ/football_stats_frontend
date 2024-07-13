@@ -99,7 +99,7 @@ export const GamePredictions = async () => {
   const predictedGames = await getPredictedGames();
   return (
     <>
-      <h2 className="text-center font-bold text-4xl uppercase mt-12">
+      <h2 className="text-center font-bold text-4xl uppercase py-8">
         Game predictions
       </h2>
       {predictedGames ? (
