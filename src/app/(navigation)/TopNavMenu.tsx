@@ -41,6 +41,16 @@ const TopNavMenu = () => {
           ELO
         </Link>
         <Link
+          href={"/leagues"}
+          className={
+            pathname === "/leagues"
+              ? "underline underline-offset-4 text-white text-xl"
+              : "text-white text-xl"
+          }
+        >
+          Leagues
+        </Link>
+        <Link
           href={"/about"}
           className={
             pathname === "/about"
