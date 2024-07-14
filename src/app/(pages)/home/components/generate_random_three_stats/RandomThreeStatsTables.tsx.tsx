@@ -43,7 +43,12 @@ const RandomThreeStatsTables = ({ data }: any) => {
     {
       key: "numberOfGames",
       header: "Matches",
-      Component: (item: any) => <div>{item.stats.numberOfGames}</div>,
+      Component: (item: any) => (
+        <div className="flex flex-col items-center justify-center">
+          <span>{item.stats.numberOfGames[0]}</span>
+          <span>{item.stats.numberOfGames[1]}%</span>
+        </div>
+      ),
     },
   ];
   return (
