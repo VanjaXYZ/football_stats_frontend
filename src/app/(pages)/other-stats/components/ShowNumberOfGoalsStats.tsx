@@ -71,8 +71,14 @@ const ShowNumberOfGoalsStats = ({ data }: any) => {
       header: "Matches",
       Component: (item: any) => (
         <div className="flex flex-col justify-center items-center">
-          <span>{item?.numberOfGames[0]}</span>
-          <span>{item?.numberOfGames[1]}%</span>
+          {Array.isArray(item?.numberOfGames) ? (
+            <>
+              <span>{item?.numberOfGames[0]}</span>
+              <span>{item?.numberOfGames[1]}%</span>
+            </>
+          ) : (
+            <span>{item?.numberOfGames}</span>
+          )}
         </div>
       ),
     },
