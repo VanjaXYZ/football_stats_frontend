@@ -69,7 +69,12 @@ const ShowNumberOfGoalsStats = ({ data }: any) => {
     {
       key: "numberOfGames",
       header: "Matches",
-      Component: (item: any) => <div>{item?.numberOfGames}</div>,
+      Component: (item: any) => (
+        <div className="flex flex-col justify-center items-center">
+          <span>{item?.numberOfGames[0]}</span>
+          <span>{item?.numberOfGames[1]}%</span>
+        </div>
+      ),
     },
   ].filter(Boolean);
   return (
