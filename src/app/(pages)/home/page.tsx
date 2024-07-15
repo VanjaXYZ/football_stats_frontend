@@ -10,9 +10,10 @@ const Homepage = () => {
     <main className="w-full min-h-[100vh]">
       <HeroSection />
       <div className="container">
-        {/* <section>
+        <section>
           <ChooseTeams />
         </section>
+        {/*
         <Suspense fallback={<TableLoading />}>
           <GamePredictions />
         </Suspense>
