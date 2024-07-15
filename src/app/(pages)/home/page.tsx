@@ -16,11 +16,12 @@ const Homepage = () => {
         <Suspense fallback={<TableLoading />}>
           <GamePredictions />
         </Suspense>
-        {/*
         <div className="space-y-4">
           <GenerateRandomThreeStats />
-          <GenerateRandomThreeStatsElo />
-        </div> */}
+          {/* <GenerateRandomThreeStatsElo /> */}
+        </div>
+        {/*
+         */}
         <p>test</p>
       </div>
     </main>
