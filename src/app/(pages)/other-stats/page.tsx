@@ -13,7 +13,8 @@ const OtherStats = async () => {
     <>
       <HeroSection />
       <div className="container">
-        <NumberOfGoals countries={countries} />
+        {/* <NumberOfGoals countries={countries} /> */}
+        <p>Under construction...</p>
       </div>
     </>
   );
