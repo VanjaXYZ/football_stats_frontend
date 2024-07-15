@@ -10,7 +10,7 @@ const Homepage = () => {
     <main className="w-full min-h-[100vh]">
       <HeroSection />
       <div className="container">
-        <section>
+        {/* <section>
           <ChooseTeams />
         </section>
         <Suspense fallback={<TableLoading />}>
@@ -19,7 +19,8 @@ const Homepage = () => {
         <div className="space-y-4">
           <GenerateRandomThreeStats />
           <GenerateRandomThreeStatsElo />
-        </div>
+        </div> */}
+        <p>test</p>
       </div>
     </main>
   );
