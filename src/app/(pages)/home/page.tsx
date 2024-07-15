@@ -17,8 +17,8 @@ const Homepage = () => {
           <GamePredictions />
         </Suspense>
         <div className="space-y-4">
-          {/* <GenerateRandomThreeStats />
-          <GenerateRandomThreeStatsElo /> */}
+          <GenerateRandomThreeStats />
+          {/* <GenerateRandomThreeStatsElo /> */}
         </div>
         {/*
          */}
