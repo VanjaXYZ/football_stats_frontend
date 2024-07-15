@@ -13,10 +13,10 @@ const Homepage = () => {
         <section>
           <ChooseTeams />
         </section>
-        {/*
         <Suspense fallback={<TableLoading />}>
           <GamePredictions />
         </Suspense>
+        {/*
         <div className="space-y-4">
           <GenerateRandomThreeStats />
           <GenerateRandomThreeStatsElo />
