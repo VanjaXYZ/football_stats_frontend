@@ -62,7 +62,7 @@ const RandomThreeStatsTables = async ({ data }: any) => {
       {/* <Suspense fallback={<SmallTableLoading />}> */}
       <div className="w-full">
         <h2 className="text-center text-2xl bg-black text-white font-semibold uppercase">
-          {/* {table_1[0]?.type} */}
+          {table_1[0]?.type ? table_1[0]?.type : null}
         </h2>
         {/* <TableComponent column={columndData} row={table_1} /> */}
       </div>
