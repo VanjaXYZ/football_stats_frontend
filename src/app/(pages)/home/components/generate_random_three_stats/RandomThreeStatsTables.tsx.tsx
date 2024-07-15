@@ -1,19 +1,20 @@
+"use client";
 import TableComponent from "@/app/(pages)/(shared)/TableComponent";
 import Image from "next/image";
 import React, { Suspense } from "react";
 import { Config } from "../../../../../../Config";
 import { SmallTableLoading } from "@/app/(pages)/(shared)/Loaders";
 
-const RandomThreeStatsTables = async ({ data }: any) => {
-  // let table_1 = await data?.random_three[0];
-  // let table_2 = await data?.random_three[1];
-  // let table_3 = await data?.random_three[2];
+const RandomThreeStatsTables = ({ data }: any) => {
+  let table_1 = data?.random_three[0];
+  let table_2 = data?.random_three[1];
+  let table_3 = data?.random_three[2];
 
-  const [table_1, table_2, table_3] = await Promise.all([
-    data?.random_three[0],
-    data?.random_three[1],
-    data?.random_three[2],
-  ]);
+  // const [table_1, table_2, table_3] = await Promise.all([
+  //   data?.random_three[0],
+  //   data?.random_three[1],
+  //   data?.random_three[2],
+  // ]);
 
   const columndData = [
     {
@@ -62,7 +63,7 @@ const RandomThreeStatsTables = async ({ data }: any) => {
       {/* <Suspense fallback={<SmallTableLoading />}> */}
       <div className="w-full">
         <h2 className="text-center text-2xl bg-black text-white font-semibold uppercase">
-          {table_1[0]?.type ? table_1[0]?.type : null}
+          {table_1[0]?.type}
         </h2>
         {/* <TableComponent column={columndData} row={table_1} /> */}
       </div>
