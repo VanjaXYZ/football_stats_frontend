@@ -13,7 +13,7 @@ const TopNavMenu = () => {
         <Link
           href={"/home"}
           className={
-            pathname === "/home"
+            pathname === "/"
               ? "underline underline-offset-4 text-white text-xl"
               : "text-white text-xl"
           }
