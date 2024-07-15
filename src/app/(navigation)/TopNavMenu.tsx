@@ -11,7 +11,7 @@ const TopNavMenu = () => {
     pathname !== "/login" && (
       <div className="ms-auto flex gap-16 items-center font-bold">
         <Link
-          href={"/home"}
+          href={"/"}
           className={
             pathname === "/"
               ? "underline underline-offset-4 text-white text-xl"
