@@ -4,10 +4,10 @@ import React, { Suspense } from "react";
 import { Config } from "../../../../../../Config";
 import { SmallTableLoading } from "@/app/(pages)/(shared)/Loaders";
 
-const RandomThreeStatsTables = ({ data }: any) => {
-  let table_1 = data?.random_three[0];
-  let table_2 = data?.random_three[1];
-  let table_3 = data?.random_three[2];
+const RandomThreeStatsTables = async ({ data }: any) => {
+  let table_1 = await data?.random_three[0];
+  let table_2 = await data?.random_three[1];
+  let table_3 = await data?.random_three[2];
 
   const columndData = [
     {
