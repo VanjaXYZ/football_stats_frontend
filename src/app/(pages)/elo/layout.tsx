@@ -4,10 +4,10 @@ import EloParent from "./components/EloParent";
 
 const EloLayout = async ({
   children,
-}: // asideMenu,
-{
+  asideMenu,
+}: {
   children: React.ReactNode;
-  // asideMenu: React.ReactNode;
+  asideMenu: React.ReactNode;
 }) => {
   const topEloTeams = await getBestELOTeams();
   return (
