@@ -25,9 +25,9 @@ const EloParent = ({
         <HeroSection />
         <div className="flex container">
           <div className="w-[77.5%] space-y-2">
-            <TopELOTeams topEloTeams={topEloTeams} />
+            {/* <TopELOTeams topEloTeams={topEloTeams} />
             <CountryELOTeams />
-            <LinkToAboutEloPage />
+            <LinkToAboutEloPage /> */}
           </div>
           {asideMenu}
         </div>
