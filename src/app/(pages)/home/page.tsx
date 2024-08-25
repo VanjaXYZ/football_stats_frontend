@@ -14,15 +14,12 @@ const Homepage = () => {
           <ChooseTeams />
         </section>
         <Suspense fallback={<TableLoading />}>
-          {/* <GamePredictions /> */}
+          <GamePredictions />
         </Suspense>
-        <div className="space-y-4">
+        {/* <div className="space-y-4">
           <GenerateRandomThreeStats />
           <GenerateRandomThreeStatsElo />
-        </div>
-        {/*
-         */}
-        <p>test</p>
+        </div> */}
       </div>
     </main>
   );
