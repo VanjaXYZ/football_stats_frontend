@@ -51,21 +51,21 @@ const RandomThreeStatsEloTables = ({ data }: any) => {
     <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-2 px-2 md:gap-6 whitespace-nowrap">
       <div className="w-full">
         <h2 className="text-center text-2xl bg-black text-white font-semibold w-full">
-          {table_1[0]?.type}
+          {/* {table_1[0]?.type} */}
         </h2>
-        <TableComponent column={columndData} row={table_1} />
+        {/* <TableComponent column={columndData} row={table_1} /> */}
       </div>
       <div className="">
         <h2 className="text-center text-2xl bg-black text-white font-semibold">
-          {table_2[0]?.type}
+          {/* {table_2[0]?.type} */}
         </h2>
-        <TableComponent column={columndData} row={table_2} />
+        {/* <TableComponent column={columndData} row={table_2} /> */}
       </div>
       <div className="">
         <h2 className="text-center text-2xl bg-black text-white font-semibold">
-          {table_3[0]?.type}
+          {/* {table_3[0]?.type} */}
         </h2>
-        <TableComponent column={columndData} row={table_3} />
+        {/* <TableComponent column={columndData} row={table_3} /> */}
       </div>
     </div>
   );
