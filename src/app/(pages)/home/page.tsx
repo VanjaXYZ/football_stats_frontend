@@ -18,7 +18,7 @@ const Homepage = () => {
         </Suspense>
         <div className="space-y-4">
           <GenerateRandomThreeStats />
-          {/* <GenerateRandomThreeStatsElo /> */}
+          <GenerateRandomThreeStatsElo />
         </div>
       </div>
     </main>
