@@ -8,11 +8,11 @@ import { usePathname } from "next/navigation";
 
 const EloParent = ({
   topEloTeams,
-  asideMenu,
+  // asideMenu,
   children,
 }: {
   topEloTeams: any;
-  asideMenu: React.ReactNode;
+  // asideMenu: React.ReactNode;
   children: React.ReactNode;
 }) => {
   const pathname = usePathname();
@@ -25,11 +25,11 @@ const EloParent = ({
         <HeroSection />
         <div className="flex container">
           <div className="w-[77.5%] space-y-2">
-            {/* <TopELOTeams topEloTeams={topEloTeams} />
+            <TopELOTeams topEloTeams={topEloTeams} />
             <CountryELOTeams />
-            <LinkToAboutEloPage /> */}
+            <LinkToAboutEloPage />
           </div>
-          {asideMenu}
+          {/* {asideMenu} */}
         </div>
       </>
       {/* )} */}
