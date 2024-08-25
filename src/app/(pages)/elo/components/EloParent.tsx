@@ -18,21 +18,21 @@ const EloParent = ({
   const pathname = usePathname();
   return (
     <>
-      {pathname === "/elo/about_elo" ? (
+      {/* {pathname === "/elo/about_elo" ? (
         children
-      ) : (
-        <>
-          <HeroSection />
-          <div className="flex container">
-            <div className="w-[77.5%] space-y-2">
-              <TopELOTeams topEloTeams={topEloTeams} />
-              <CountryELOTeams />
-              <LinkToAboutEloPage />
-            </div>
-            {asideMenu}
+      ) : ( */}
+      <>
+        <HeroSection />
+        <div className="flex container">
+          <div className="w-[77.5%] space-y-2">
+            <TopELOTeams topEloTeams={topEloTeams} />
+            <CountryELOTeams />
+            <LinkToAboutEloPage />
           </div>
-        </>
-      )}
+          {asideMenu}
+        </div>
+      </>
+      {/* )} */}
     </>
   );
 };
