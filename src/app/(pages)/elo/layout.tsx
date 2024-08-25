@@ -1,8 +1,5 @@
-import React from "react";
-import TopELOTeams from "./components/TopELOTeams";
 import { getBestELOTeams } from "@/app/routes/ELO_Stats/routes";
-import CountryELOTeams from "./components/CountryELOTeams";
-import LinkToAboutEloPage from "./components/LinkToAboutEloPage";
+import React from "react";
 import EloParent from "./components/EloParent";
 
 const EloLayout = async ({
