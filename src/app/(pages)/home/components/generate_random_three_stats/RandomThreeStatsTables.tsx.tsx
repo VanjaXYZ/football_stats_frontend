@@ -1,21 +1,8 @@
-"use client";
 import TableComponent from "@/app/(pages)/(shared)/TableComponent";
 import Image from "next/image";
-import React, { Suspense } from "react";
 import { Config } from "../../../../../../Config";
-import { SmallTableLoading } from "@/app/(pages)/(shared)/Loaders";
 
-const RandomThreeStatsTables = ({ data }: any) => {
-  let table_1 = data?.random_three[0];
-  let table_2 = data?.random_three[1];
-  let table_3 = data?.random_three[2];
-
-  // const [table_1, table_2, table_3] = await Promise.all([
-  //   data?.random_three[0],
-  //   data?.random_three[1],
-  //   data?.random_three[2],
-  // ]);
-
+const RandomThreeStatsTables = async ({ data }: any) => {
   const columndData = [
     {
       key: "team",
@@ -60,30 +47,14 @@ const RandomThreeStatsTables = ({ data }: any) => {
   ];
   return (
     <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-2 px-2 md:gap-6 whitespace-nowrap">
-      {/* <Suspense fallback={<SmallTableLoading />}> */}
-      <div className="w-full">
-        <h2 className="text-center text-2xl bg-black text-white font-semibold uppercase">
-          {table_1[0]?.type}
-        </h2>
-        {/* <TableComponent column={columndData} row={table_1} /> */}
-      </div>
-      {/* </Suspense> */}
-      {/* <Suspense fallback={<SmallTableLoading />}> */}
-      <div className="">
-        <h2 className="text-center text-2xl bg-black text-white font-semibold uppercase">
-          {/* {table_2[0]?.type} */}
-        </h2>
-        {/* <TableComponent column={columndData} row={table_2} /> */}
-      </div>
-      {/* </Suspense> */}
-      {/* <Suspense fallback={<SmallTableLoading />}> */}
-      <div className="">
-        <h2 className="text-center text-2xl bg-black text-white font-semibold uppercase">
-          {/* {table_3[0]?.type} */}
-        </h2>
-        {/* <TableComponent column={columndData} row={table_3} /> */}
-      </div>
-      {/* </Suspense> */}
+      {data?.random_three?.map((randomStats: any, index: number) => (
+        <div className="w-full" key={index}>
+          <h2 className="text-center text-2xl bg-black text-white font-semibold uppercase">
+            {randomStats?.type}
+          </h2>
+          <TableComponent column={columndData} row={randomStats} />
+        </div>
+      ))}
     </div>
   );
 };

@@ -1,14 +1,9 @@
-"use client";
 import TableComponent from "@/app/(pages)/(shared)/TableComponent";
 import Image from "next/image";
 import React from "react";
 import { Config } from "../../../../../../Config";
 
-const RandomThreeStatsEloTables = ({ data }: any) => {
-  let table_1 = data?.random_three_elo[0];
-  let table_2 = data?.random_three_elo[1];
-  let table_3 = data?.random_three_elo[2];
-
+const RandomThreeStatsEloTables = async ({ data }: any) => {
   const columndData = [
     {
       key: "team",
@@ -49,24 +44,14 @@ const RandomThreeStatsEloTables = ({ data }: any) => {
   ];
   return (
     <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-2 px-2 md:gap-6 whitespace-nowrap">
-      <div className="w-full">
-        <h2 className="text-center text-2xl bg-black text-white font-semibold w-full">
-          {/* {table_1[0]?.type} */}
-        </h2>
-        {/* <TableComponent column={columndData} row={table_1} /> */}
-      </div>
-      <div className="">
-        <h2 className="text-center text-2xl bg-black text-white font-semibold">
-          {/* {table_2[0]?.type} */}
-        </h2>
-        {/* <TableComponent column={columndData} row={table_2} /> */}
-      </div>
-      <div className="">
-        <h2 className="text-center text-2xl bg-black text-white font-semibold">
-          {/* {table_3[0]?.type} */}
-        </h2>
-        {/* <TableComponent column={columndData} row={table_3} /> */}
-      </div>
+      {data?.random_three_elo?.map((eloStats: any, index: number) => (
+        <div className="w-full" key={index}>
+          <h2 className="text-center text-2xl bg-black text-white font-semibold w-full">
+            {eloStats?.type}
+          </h2>
+          <TableComponent column={columndData} row={eloStats} />
+        </div>
+      ))}
     </div>
   );
 };
