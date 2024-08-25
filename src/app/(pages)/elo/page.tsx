@@ -1,7 +1,7 @@
 import React from "react";
 
-const Page = async ({ children }: { children: React.ReactNode }) => {
-  return <div className="w-full">{children}</div>;
+const Page = async () => {
+  return <div className="w-full">ELO Page</div>;
 };
 
 export default Page;

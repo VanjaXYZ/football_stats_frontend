@@ -12,9 +12,9 @@ const EloLayout = async ({
   const topEloTeams = await getBestELOTeams();
   return (
     <div className="flex flex-col">
-      {/* <EloParent asideMenu={asideMenu} topEloTeams={topEloTeams}>
+      <EloParent asideMenu={asideMenu} topEloTeams={topEloTeams}>
         {children}
-      </EloParent> */}
+      </EloParent>
     </div>
   );
 };
