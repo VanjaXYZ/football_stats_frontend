@@ -9,7 +9,7 @@ const GenerateRandomThreeStatsElo = async () => {
       <h2 className="text-center font-bold text-4xl uppercase py-8">
         ELO ratings
       </h2>
-      <RandomThreeStatsEloTables data={randomThreeStatsElo} />
+      {/* <RandomThreeStatsEloTables data={randomThreeStatsElo} /> */}
     </div>
   );
 };
