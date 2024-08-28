@@ -26,7 +26,10 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={montserrat.className}
+        className={
+          montserrat.className +
+          " bg-slate-400 bg-[radial-gradient(ellipse_80%_80%_at_50%_-20%,rgba(120,119,198,0.3),rgba(255,255,255,0))]"
+        }
         style={{ minHeight: "100vh", display: "flex", flexDirection: "column" }}
       >
         <div className="bg-black/70 h-16 px-6 flex items-center py-10 fixed top-0 w-full z-10">
