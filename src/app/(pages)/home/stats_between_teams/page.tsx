@@ -146,7 +146,7 @@ const StatsBetweenTeams = () => {
   ];
 
   return (
-    <div className="mt-20">
+    <>
       <HeroSection />
       {isLoading ? (
         <TableLoading />
@@ -160,7 +160,7 @@ const StatsBetweenTeams = () => {
           <TeamVsTeamStats stats={teamsScore[0]?.last_games} />
         </div>
       )}
-    </div>
+    </>
   );
 };
 
