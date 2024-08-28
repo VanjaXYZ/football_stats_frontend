@@ -16,7 +16,7 @@ const RandomThreeStatsTables = async ({ data }: any) => {
         for (let key in item?.stats) {
           if (item?.stats[key]?.country) {
             return (
-              <div className="flex items-center justify-center gap-x-6 max-w-32 m-auto">
+              <div className="flex items-center justify-center gap-x-6 max-w-32 m-auto flex-col">
                 {" "}
                 <Image
                   src={`${Config.baseURL}/${item?.stats[
@@ -26,7 +26,7 @@ const RandomThreeStatsTables = async ({ data }: any) => {
                   width={20}
                   height={20}
                 />
-                {/* {item?.stats[key]?.country} */}
+                <p>{item?.stats[key]?.country}</p>
               </div>
             );
           }
