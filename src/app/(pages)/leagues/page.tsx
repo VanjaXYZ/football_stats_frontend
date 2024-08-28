@@ -20,7 +20,7 @@ const Page = async ({
     },
     {
       key: "first_date",
-      header: "Data start at",
+      header: "Data since",
       Component: (item: any) => (
         <div>{new Date(item?.first_date).toLocaleDateString("en-GB")}</div>
       ),
