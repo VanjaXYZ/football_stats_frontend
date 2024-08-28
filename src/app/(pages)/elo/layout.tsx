@@ -11,9 +11,10 @@ const EloLayout = async ({
 }) => {
   const topEloTeams = await getBestELOTeams();
   return (
-    <div className="flex w-full">
-      <EloParent topEloTeams={topEloTeams}>{children}</EloParent>
-      {asideMenu}
+    <div className="flex flex-col">
+      <EloParent asideMenu={asideMenu} topEloTeams={topEloTeams}>
+        {children}
+      </EloParent>
     </div>
   );
 };
