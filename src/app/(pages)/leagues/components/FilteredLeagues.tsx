@@ -12,10 +12,9 @@ const FilteredLeagues = ({
 }) => {
   const filteredLeagues = leagues?.filter(
     (league: any) =>
-      league?.league.toLowerCase().includes(query.toLowerCase()) ||
+      league?.leagues.toLowerCase().includes(query.toLowerCase()) ||
       league?.country.toLowerCase().includes(query.toLowerCase())
   );
-  console.log(filteredLeagues);
 
   return (
     <div>
