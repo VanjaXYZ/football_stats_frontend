@@ -18,6 +18,7 @@ const FilteredLeagues = ({
 
   return (
     <div>
+      <p>Total: {filteredLeagues?.length} leagues</p>
       <TableComponent row={filteredLeagues} column={columnData} />
       {!filteredLeagues.length && <p className="text-center p-20">No data</p>}
     </div>
