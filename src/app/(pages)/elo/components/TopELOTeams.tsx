@@ -12,7 +12,7 @@ const TopELOTeams = ({ topEloTeams }: { topEloTeams: any }) => {
       key: "country",
       header: "Country",
       Component: (item: any) => (
-        <div className="flex items-center justify-center gap-x-6 max-w-32 m-auto">
+        <div className="flex items-center justify-center gap-x-6 max-w-32 m-auto flex-col">
           <Image
             src={`${
               Config.baseURL
@@ -24,12 +24,9 @@ const TopELOTeams = ({ topEloTeams }: { topEloTeams: any }) => {
             width={20}
             height={20}
           />
+          {item?.country_elo?.country}
         </div>
       ),
-    },
-    {
-      key: "matched_played",
-      header: "Games #",
     },
     {
       key: "elo",
@@ -41,8 +38,12 @@ const TopELOTeams = ({ topEloTeams }: { topEloTeams: any }) => {
       <h3 className="antialiased text-3xl font-semibold text-center py-2">
         Top 50 Teams
       </h3>
-      <div className="max-h-[430px] overflow-y-auto">
-        <TableComponent column={columnsData} row={topEloTeams} />
+      <div className="max-h-[430px] overflow-y-auto relative">
+        <TableComponent
+          column={columnsData}
+          row={topEloTeams}
+          hasStickyHeader
+        />
       </div>
     </div>
   );

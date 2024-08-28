@@ -50,6 +50,7 @@ const CountryELOTeams = () => {
             width={20}
             height={20}
           />
+          {item?.country_elo.country}
         </div>
       ),
     },
