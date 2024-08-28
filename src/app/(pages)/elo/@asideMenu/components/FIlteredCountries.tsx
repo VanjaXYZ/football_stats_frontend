@@ -13,7 +13,7 @@ const FilteredCountries = ({ filteredCountries }: any) => {
       {filteredCountries?.map((country: any, index: number) => (
         <li
           key={`${country}-${index}`}
-          className="hover:bg-slate-100 px-2 cursor-pointer flex gap-2 items-center antialiased"
+          className="hover:bg-slate-500 rounded transition-colors px-2 cursor-pointer flex gap-2 items-center antialiased"
           onClick={(e) => handleEloCountry(e)}
         >
           <Image
