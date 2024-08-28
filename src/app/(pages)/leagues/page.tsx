@@ -18,14 +18,14 @@ const Page = async ({
       header: "Country",
     },
     {
-      key: "date",
+      key: "first_date",
       header: "Data start at",
       Component: (item: any) => (
-        <div>{new Date(item?.date).toLocaleDateString("en-GB")}</div>
+        <div>{new Date(item?.first_date).toLocaleDateString("en-GB")}</div>
       ),
     },
     {
-      key: "league",
+      key: "leagues",
       header: "League",
     },
   ];
