@@ -19,7 +19,7 @@ const TeamVsTeamHeader = ({
       </span>{" "}
       <span className="flex flex-col">
         <span>{awayTeam && `vs ${awayTeam}`}</span>
-        <span className="text-base">ELO: {eloAwayTeam}</span>
+        {awayTeam && <span className="text-base">ELO: {eloAwayTeam}</span>}
       </span>{" "}
     </h2>
   );

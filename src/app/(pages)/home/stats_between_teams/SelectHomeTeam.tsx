@@ -13,7 +13,7 @@ import { useStatsBetweenStore } from "@/store/StatsBetweenStore";
 import { useEffect, useState } from "react";
 
 const SelectHomeTeam = () => {
-  const { setHomeTeam, stats } = useStatsBetweenStore() as any;
+  const { setHomeTeam, setAwayTeam, stats } = useStatsBetweenStore() as any;
   const [teams, setTeams] = useState([]);
 
   useEffect(() => {
@@ -31,11 +31,16 @@ const SelectHomeTeam = () => {
     fetchTeams();
   }, [stats.country]);
 
+  const handleHomeTeam = (e: Event) => {
+    setHomeTeam(e);
+    setAwayTeam("");
+  };
+
   return (
     <div>
       {stats.country && (
         <Select
-          onValueChange={(e: any) => setHomeTeam(e)}
+          onValueChange={(e: any) => handleHomeTeam(e)}
           value={stats.homeTeam}
         >
           <SelectTrigger className="w-[180px]">
