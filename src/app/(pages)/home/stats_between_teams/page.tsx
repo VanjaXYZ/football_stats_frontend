@@ -35,7 +35,7 @@ const StatsBetweenTeams = () => {
   const topTableData = [
     {
       key: "game_number",
-      header: "Game number",
+      header: "Matches",
       Component: (item: any) => <span>{item?.game_number}</span>,
     },
     {
@@ -155,6 +155,8 @@ const StatsBetweenTeams = () => {
           <TeamVsTeamHeader
             homeTeam={stats.homeTeam}
             awayTeam={stats.awayTeam}
+            eloHomeTeam={teamsScore[0]?.elo_team_1}
+            eloAwayTeam={teamsScore[0]?.elo_team_2}
           />
           <TableComponent column={topTableData} row={teamsScore} />
           <TeamVsTeamStats stats={teamsScore[0]?.last_games} />
