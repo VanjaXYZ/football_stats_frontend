@@ -85,7 +85,7 @@ const ShowNumberOfGoalsStats = ({ data }: any) => {
   ].filter(Boolean);
   return (
     <div className="w-full">
-      <TableComponent column={tableHeaders} row={data} />;
+      <TableComponent column={tableHeaders} row={data} hasSpecialStats />;
     </div>
   );
 };
