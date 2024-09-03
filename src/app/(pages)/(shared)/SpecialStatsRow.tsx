@@ -32,25 +32,12 @@ const SpecialStatsRow = ({ index, column, item }: any) => {
     }
   };
 
-  const specialHeaders = [
-    {
-      key: "result",
-      header: "Result",
-      Component: (item: any) => (
-        <div className="w-full flex flex-col">
-          <span className="w-fit">Result: {item?.result}</span>
-          <span className="w-fit">Halftime: {item?.halfTime}</span>
-          <span className="w-fit">Date: {item?.date}</span>
-        </div>
-      ),
-    },
-  ];
-
   return (
     <>
       <TableRow
         key={`row-${index}`}
         onClick={() => setIsOpen((prevValue: boolean) => !prevValue)}
+        className="cursor-pointer"
       >
         {column?.map((data: any, cellIndex: number) => (
           <TableCell
@@ -66,27 +53,24 @@ const SpecialStatsRow = ({ index, column, item }: any) => {
       </TableRow>
 
       {isOpen && (
-        <TableRow className="w-full flex border-b-0">
-          {specialHeaders?.map((stats: any, index: number) =>
-            specialStats?.map((special: any, indexSpecial: number) => (
-              <TableCell key={indexSpecial} className="w-full">
-                {/* {stats?.Component
-                  ? stats?.Component(special)
-                  : special[stats?.key]} */}
-                <div className="w-full flex flex-col">
-                  <span className="w-fit font-semibold text-xs">
-                    Result: {special?.result}
-                  </span>
-                  <span className="w-fit font-semibold text-xs">
-                    Halftime: {special?.halfTime}
-                  </span>
-                  <span className="w-fit font-semibold text-xs">
-                    Date: {special?.date}
-                  </span>
-                </div>
-              </TableCell>
-            ))
-          )}
+        <TableRow className="w-full flex border-b-0 flex-col">
+          {/* {specialHeaders?.map((stats: any, index: number) => */}
+          {specialStats?.map((special: any, indexSpecial: number) => (
+            <TableCell key={indexSpecial} className="w-full">
+              <div className="w-full flex gap-2">
+                <span className="w-fit font-semibold text-xs">
+                  Result: {special?.result}
+                </span>
+                <span className="w-fit font-semibold text-xs">
+                  Halftime: {special?.halfTime}
+                </span>
+                <span className="w-fit font-semibold text-xs">
+                  Date: {new Date(special?.date).toLocaleDateString("en-Gb")}
+                </span>
+              </div>
+            </TableCell>
+          ))}
+          {/* // )} */}
         </TableRow>
       )}
     </>
