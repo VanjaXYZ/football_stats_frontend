@@ -7,7 +7,7 @@ const Table = React.forwardRef<
   React.HTMLAttributes<HTMLTableElement> & { hasStickyHeader?: boolean }
 >(({ className, hasStickyHeader, ...props }, ref) => (
   <div
-    className={`relative w-full rounded-lg ${
+    className={`relative w-full rounded-lg shadow-2xl shadow-slate-500 ${
       hasStickyHeader ? "" : "overflow-auto"
     }`}
   >
