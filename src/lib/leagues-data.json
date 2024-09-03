@@ -1,4777 +1,4777 @@
 [
   {
     "country": "Albania",
-    "leagues": "Albania-2nd-Division.csv",
+    "leagues": "Albania-2nd-Division",
     "first_date": "2008-09-20"
   },
   {
     "country": "Albania",
-    "leagues": "Albania-Kampionati-i-Femrave.csv",
+    "leagues": "Albania-Kampionati-i-Femrave",
     "first_date": "2021-01-23"
   },
   {
     "country": "Albania",
-    "leagues": "Albania-League-2-Group-B.csv",
+    "leagues": "Albania-League-2-Group-B",
     "first_date": "2008-09-20"
   },
   {
     "country": "Albania",
-    "leagues": "Albania-1st-Division.csv",
+    "leagues": "Albania-1st-Division",
     "first_date": "2016-09-24"
   },
   {
     "country": "Albania",
-    "leagues": "Albania-Superliga.csv",
+    "leagues": "Albania-Superliga",
     "first_date": "2005-08-26"
   },
   {
     "country": "Algeria",
-    "leagues": "Algeria-Ligue-1.csv",
+    "leagues": "Algeria-Ligue-1",
     "first_date": "2005-08-24"
   },
   {
     "country": "Algeria",
-    "leagues": "Algeria-U21-League-1.csv",
+    "leagues": "Algeria-U21-League-1",
     "first_date": "2023-09-14"
   },
   {
     "country": "Algeria",
-    "leagues": "Algeria-Ligue-2.csv",
+    "leagues": "Algeria-Ligue-2",
     "first_date": "2005-08-25"
   },
   {
     "country": "Algeria",
-    "leagues": "Algeria-Algeria-Youth-League.csv",
+    "leagues": "Algeria-Algeria-Youth-League",
     "first_date": "2018-08-10"
   },
   {
     "country": "Andorra",
-    "leagues": "Andorra-2-Division.csv",
+    "leagues": "Andorra-2-Division",
     "first_date": "2006-09-22"
   },
   {
     "country": "Andorra",
-    "leagues": "Andorra-Primera-Division.csv",
+    "leagues": "Andorra-Primera-Division",
     "first_date": "2005-09-24"
   },
   {
     "country": "Angola",
-    "leagues": "Angola-Girabola.csv",
+    "leagues": "Angola-Girabola",
     "first_date": "2018-10-27"
   },
   {
     "country": "Angola",
-    "leagues": "A.csv",
+    "leagues": "A",
     "first_date": "2018-10-27"
   },
   {
     "country": "Antigua_and_barbuda",
-    "leagues": "Antigua-and-Barbuda-Premier-Division.csv",
+    "leagues": "Antigua-and-Barbuda-Premier-Division",
     "first_date": "2018-10-28"
   },
   {
     "country": "Argentina",
-    "leagues": "Argentina-Torneo-Federal-B-Pampeana-Norte.csv",
+    "leagues": "Argentina-Torneo-Federal-B-Pampeana-Norte",
     "first_date": "2007-01-02"
   },
   {
     "country": "Argentina",
-    "leagues": "Argentina-Torneo-Regional-Federal-Amateur-Patagonica.csv",
+    "leagues": "Argentina-Torneo-Regional-Federal-Amateur-Patagonica",
     "first_date": "2022-02-10"
   },
   {
     "country": "Argentina",
-    "leagues": "Argentina-Torneo-Federal-B-Pampeana-Sur.csv",
+    "leagues": "Argentina-Torneo-Federal-B-Pampeana-Sur",
     "first_date": "2021-12-19"
   },
   {
     "country": "Argentina",
-    "leagues": "Argentina-Copa-de-la-Superliga.csv",
+    "leagues": "Argentina-Copa-de-la-Superliga",
     "first_date": "2023-10-16"
   },
   {
     "country": "Argentina",
-    "leagues": "Argentina-Torneo-Regional-Federal-Amateur-Litoral-Norte.csv",
+    "leagues": "Argentina-Torneo-Regional-Federal-Amateur-Litoral-Norte",
     "first_date": "2021-02-12"
   },
   {
     "country": "Argentina",
-    "leagues": "Argentina-Torneo-Regional-Federal-Amateur-Cuyo.csv",
+    "leagues": "Argentina-Torneo-Regional-Federal-Amateur-Cuyo",
     "first_date": "2021-02-12"
   },
   {
     "country": "Argentina",
-    "leagues": "Argentina-Primera-D-Metropolitana.csv",
+    "leagues": "Argentina-Primera-D-Metropolitana",
     "first_date": "2006-11-17"
   },
   {
     "country": "Argentina",
-    "leagues": "Argentina-Torneo-Regional-Federal-Amateur-Pampeana-Sur.csv",
+    "leagues": "Argentina-Torneo-Regional-Federal-Amateur-Pampeana-Sur",
     "first_date": "2022-02-10"
   },
   {
     "country": "Argentina",
-    "leagues": "Argentina-Torneo-Regional-Federal-Amateur-Norte.csv",
+    "leagues": "Argentina-Torneo-Regional-Federal-Amateur-Norte",
     "first_date": "2021-02-12"
   },
   {
     "country": "Argentina",
-    "leagues": "Argentina-Primera-C.csv",
+    "leagues": "Argentina-Primera-C",
     "first_date": "2006-11-23"
   },
   {
     "country": "Argentina",
-    "leagues": "Argentina-Torneo-Federal-A.csv",
+    "leagues": "Argentina-Torneo-Federal-A",
     "first_date": "2006-11-15"
   },
   {
     "country": "Argentina",
-    "leagues": "Argentina-Primera-B-Nacional.csv",
+    "leagues": "Argentina-Primera-B-Nacional",
     "first_date": "2005-12-07"
   },
   {
     "country": "Argentina",
-    "leagues": "Argentina-Superliga.csv",
+    "leagues": "Argentina-Superliga",
     "first_date": "2015-02-13"
   },
   {
     "country": "Argentina",
-    "leagues": "Argentina-Torneo-Regional-Federal-Amateur-Litoral-Sur.csv",
+    "leagues": "Argentina-Torneo-Regional-Federal-Amateur-Litoral-Sur",
     "first_date": "2021-02-12"
   },
   {
     "country": "Argentina",
-    "leagues": "Argentina-Primera-B-Metropolitana.csv",
+    "leagues": "Argentina-Primera-B-Metropolitana",
     "first_date": "2007-01-26"
   },
   {
     "country": "Argentina",
-    "leagues": "Argentina-Torneo-Regional-Federal-Amateur-Pampeana-Norte.csv",
+    "leagues": "Argentina-Torneo-Regional-Federal-Amateur-Pampeana-Norte",
     "first_date": "2022-02-10"
   },
   {
     "country": "Argentina",
-    "leagues": "Argentina-Reserve-League.csv",
+    "leagues": "Argentina-Reserve-League",
     "first_date": "2018-08-10"
   },
   {
     "country": "Armenia",
-    "leagues": "Armenia-Premier-League.csv",
+    "leagues": "Armenia-Premier-League",
     "first_date": "2012-03-31"
   },
   {
     "country": "Armenia",
-    "leagues": "Armenia-First-League.csv",
+    "leagues": "Armenia-First-League",
     "first_date": "2012-04-10"
   },
   {
     "country": "Aruba",
-    "leagues": "Aruba-Division-de-Honor.csv",
+    "leagues": "Aruba-Division-de-Honor",
     "first_date": "2007-09-27"
   },
   {
     "country": "Australia",
-    "leagues": "Australia-Western-Australia-State-League-1.csv",
+    "leagues": "Australia-Western-Australia-State-League-1",
     "first_date": "2020-07-04"
   },
   {
     "country": "Australia",
-    "leagues": "Australia-Victoria-NPL-Youth-League.csv",
+    "leagues": "Australia-Victoria-NPL-Youth-League",
     "first_date": "2019-02-15"
   },
   {
     "country": "Australia",
-    "leagues": "Australia-W-League.csv",
+    "leagues": "Australia-W-League",
     "first_date": "2018-10-25"
   },
   {
     "country": "Australia",
-    "leagues": "Australia-Npl-Western-Australia.csv",
+    "leagues": "Australia-Npl-Western-Australia",
     "first_date": "2018-01-20"
   },
   {
     "country": "Australia",
-    "leagues": "Australia-Ffa-Cup.csv",
+    "leagues": "Australia-Ffa-Cup",
     "first_date": "2018-07-25"
   },
   {
     "country": "Australia",
-    "leagues": "Australia-Northern-Territory-Premier-League.csv",
+    "leagues": "Australia-Northern-Territory-Premier-League",
     "first_date": "2020-06-13"
   },
   {
     "country": "Australia",
-    "leagues": "Australia-South-Australia-Reserves-Premier-League.csv",
+    "leagues": "Australia-South-Australia-Reserves-Premier-League",
     "first_date": "2020-07-04"
   },
   {
     "country": "Australia",
-    "leagues": "Australia-Npl-Tasmania.csv",
+    "leagues": "Australia-Npl-Tasmania",
     "first_date": "2019-03-01"
   },
   {
     "country": "Australia",
-    "leagues": "Australia-Western-Australia-NPL-Night-Series.csv",
+    "leagues": "Australia-Western-Australia-NPL-Night-Series",
     "first_date": "2021-01-30"
   },
   {
     "country": "Australia",
-    "leagues": "Australia-A-League.csv",
+    "leagues": "Australia-A-League",
     "first_date": "2005-08-25"
   },
   {
     "country": "Australia",
-    "leagues": "Australia-Queensland-Premier-League.csv",
+    "leagues": "Australia-Queensland-Premier-League",
     "first_date": "2020-09-11"
   },
   {
     "country": "Australia",
-    "leagues": "Australia-Capital-Territory-NPL-Women.csv",
+    "leagues": "Australia-Capital-Territory-NPL-Women",
     "first_date": "2020-08-22"
   },
   {
     "country": "Australia",
-    "leagues": "Australia-National-Youth-League.csv",
+    "leagues": "Australia-National-Youth-League",
     "first_date": "2017-11-18"
   },
   {
     "country": "Australia",
-    "leagues": "Australia-Queensland-NPL-Women.csv",
+    "leagues": "Australia-Queensland-NPL-Women",
     "first_date": "2020-08-22"
   },
   {
     "country": "Australia",
-    "leagues": "Australia-NPL-Finals.csv",
+    "leagues": "Australia-NPL-Finals",
     "first_date": "2018-08-11"
   },
   {
     "country": "Australia",
-    "leagues": "Australia-Brisbane-Reserves-Premier-League.csv",
+    "leagues": "Australia-Brisbane-Reserves-Premier-League",
     "first_date": "2021-03-07"
   },
   {
     "country": "Australia",
-    "leagues": "Australia-A-League-Women.csv",
+    "leagues": "Australia-A-League-Women",
     "first_date": "2023-10-14"
   },
   {
     "country": "Australia",
-    "leagues": "Australia-Capital-Territory.csv",
+    "leagues": "Australia-Capital-Territory",
     "first_date": "2016-04-02"
   },
   {
     "country": "Australia",
-    "leagues": "Australia-Brisbane-Premier-League.csv",
+    "leagues": "Australia-Brisbane-Premier-League",
     "first_date": "2017-02-18"
   },
   {
     "country": "Australia",
-    "leagues": "Australia-New-South-Wales.csv",
+    "leagues": "Australia-New-South-Wales",
     "first_date": "2013-03-16"
   },
   {
     "country": "Australia",
-    "leagues": "Australia-Npl-Victoria.csv",
+    "leagues": "Australia-Npl-Victoria",
     "first_date": "2019-02-14"
   },
   {
     "country": "Australia",
-    "leagues": "Australia-A-League-Men.csv",
+    "leagues": "Australia-A-League-Men",
     "first_date": "2023-10-20"
   },
   {
     "country": "Australia",
-    "leagues": "Australia-Npl-Queensland.csv",
+    "leagues": "Australia-Npl-Queensland",
     "first_date": "2019-02-02"
   },
   {
     "country": "Australia",
-    "leagues": "Australia-Northern-Nsw.csv",
+    "leagues": "Australia-Northern-Nsw",
     "first_date": "2014-04-05"
   },
   {
     "country": "Australia",
-    "leagues": "Australia-Queensland-FFA-Cup-Preliminary.csv",
+    "leagues": "Australia-Queensland-FFA-Cup-Preliminary",
     "first_date": "2020-02-15"
   },
   {
     "country": "Australia",
-    "leagues": "Australia-Western-Australia-NPL-Women.csv",
+    "leagues": "Australia-Western-Australia-NPL-Women",
     "first_date": "2020-08-23"
   },
   {
     "country": "Australia",
-    "leagues": "Australia-South-Australia-State-League-1.csv",
+    "leagues": "Australia-South-Australia-State-League-1",
     "first_date": "2020-07-04"
   },
   {
     "country": "Australia",
-    "leagues": "Australia-Npl-South-Australian.csv",
+    "leagues": "Australia-Npl-South-Australian",
     "first_date": "2019-02-22"
   },
   {
     "country": "Australia",
-    "leagues": "Australia-Victoria-Premier-League-2.csv",
+    "leagues": "Australia-Victoria-Premier-League-2",
     "first_date": "2019-02-16"
   },
   {
     "country": "Austria",
-    "leagues": "Austria-Landesliga-Tirol.csv",
+    "leagues": "Austria-Landesliga-Tirol",
     "first_date": "2020-08-07"
   },
   {
     "country": "Austria",
-    "leagues": "Austria-Landesliga-Wien.csv",
+    "leagues": "Austria-Landesliga-Wien",
     "first_date": "2020-08-21"
   },
   {
     "country": "Austria",
-    "leagues": "Austria-Regionalliga-Vorarlberg.csv",
+    "leagues": "Austria-Regionalliga-Vorarlberg",
     "first_date": "2020-08-01"
   },
   {
     "country": "Austria",
-    "leagues": "Austria-Regionalliga-Ost.csv",
+    "leagues": "Austria-Regionalliga-Ost",
     "first_date": "2008-08-01"
   },
   {
     "country": "Austria",
-    "leagues": "Austria-Regionalliga-West.csv",
+    "leagues": "Austria-Regionalliga-West",
     "first_date": "2008-07-25"
   },
   {
     "country": "Austria",
-    "leagues": "Austria-Landesliga-Kaernten.csv",
+    "leagues": "Austria-Landesliga-Kaernten",
     "first_date": "2020-07-31"
   },
   {
     "country": "Austria",
-    "leagues": "Austria-Landesliga-Niederoesterreich.csv",
+    "leagues": "Austria-Landesliga-Niederoesterreich",
     "first_date": "2020-08-21"
   },
   {
     "country": "Austria",
-    "leagues": "Austria-Landesliga-Oberoesterreich.csv",
+    "leagues": "Austria-Landesliga-Oberoesterreich",
     "first_date": "2020-08-14"
   },
   {
     "country": "Austria",
-    "leagues": "Austria-Jugendliga-U18.csv",
+    "leagues": "Austria-Jugendliga-U18",
     "first_date": "2020-08-29"
   },
   {
     "country": "Austria",
-    "leagues": "Austria-Admiral-Bundesliga.csv",
+    "leagues": "Austria-Admiral-Bundesliga",
     "first_date": "2005-07-11"
   },
   {
     "country": "Austria",
-    "leagues": "Austria-Regionalliga-Mitte.csv",
+    "leagues": "Austria-Regionalliga-Mitte",
     "first_date": "2008-08-01"
   },
   {
     "country": "Austria",
-    "leagues": "Austria-Erste-Liga.csv",
+    "leagues": "Austria-Erste-Liga",
     "first_date": "2005-07-07"
   },
   {
     "country": "Austria",
-    "leagues": "Austria-Landesliga-Burgenland.csv",
+    "leagues": "Austria-Landesliga-Burgenland",
     "first_date": "2020-08-21"
   },
   {
     "country": "Austria",
-    "leagues": "Austria-Landesliga-Salzburg.csv",
+    "leagues": "Austria-Landesliga-Salzburg",
     "first_date": "2020-08-14"
   },
   {
     "country": "Austria",
-    "leagues": "Austria-Landesliga-Steiermark.csv",
+    "leagues": "Austria-Landesliga-Steiermark",
     "first_date": "2020-08-28"
   },
   {
     "country": "Austria",
-    "leagues": "Austria-Regionalliga-Salzburg.csv",
+    "leagues": "Austria-Regionalliga-Salzburg",
     "first_date": "2020-08-07"
   },
   {
     "country": "Austria",
-    "leagues": "Austria-KFV-Cup.csv",
+    "leagues": "Austria-KFV-Cup",
     "first_date": "2020-07-24"
   },
   {
     "country": "Austria",
-    "leagues": "Austria-Regionalliga-Tirol.csv",
+    "leagues": "Austria-Regionalliga-Tirol",
     "first_date": "2020-07-31"
   },
   {
     "country": "Austria",
-    "leagues": "Austria-Landesliga-Vorarlberg.csv",
+    "leagues": "Austria-Landesliga-Vorarlberg",
     "first_date": "2018-07-27"
   },
   {
     "country": "Azerbaijan",
-    "leagues": "Azerbaijan-Birinci-Dasta.csv",
+    "leagues": "Azerbaijan-Birinci-Dasta",
     "first_date": "2007-09-01"
   },
   {
     "country": "Azerbaijan",
-    "leagues": "Azerbaijan-Premier-League.csv",
+    "leagues": "Azerbaijan-Premier-League",
     "first_date": "2005-08-11"
   },
   {
     "country": "Bahrain",
-    "leagues": "Bahrain-Permier-League-Play-offs.csv",
+    "leagues": "Bahrain-Permier-League-Play-offs",
     "first_date": "2022-05-06"
   },
   {
     "country": "Bahrain",
-    "leagues": "Bahrain-Premier-League.csv",
+    "leagues": "Bahrain-Premier-League",
     "first_date": "2005-10-06"
   },
   {
     "country": "Bahrain",
-    "leagues": "Bahrain-Second-Division.csv",
+    "leagues": "Bahrain-Second-Division",
     "first_date": "2019-09-17"
   },
   {
     "country": "Bangladesh",
-    "leagues": "Bangladesh-Premier-League.csv",
+    "leagues": "Bangladesh-Premier-League",
     "first_date": "2008-09-12"
   },
   {
     "country": "Barbados",
-    "leagues": "Barbados-Premier-League.csv",
+    "leagues": "Barbados-Premier-League",
     "first_date": "2006-02-11"
   },
   {
     "country": "Barbados",
-    "leagues": "Barbados-Premier-League-2018.csv",
+    "leagues": "Barbados-Premier-League-2018",
     "first_date": "2018-01-13"
   },
   {
     "country": "Belarus",
-    "leagues": "Belarus-Second-Division-Play-offs.csv",
+    "leagues": "Belarus-Second-Division-Play-offs",
     "first_date": "2010-04-24"
   },
   {
     "country": "Belarus",
-    "leagues": "Belarus-Vysshaya-Liga.csv",
+    "leagues": "Belarus-Vysshaya-Liga",
     "first_date": "2005-04-15"
   },
   {
     "country": "Belarus",
-    "leagues": "Belarus-Vysshaya-Liga-Reserve.csv",
+    "leagues": "Belarus-Vysshaya-Liga-Reserve",
     "first_date": "2020-03-18"
   },
   {
     "country": "Belarus",
-    "leagues": "Belarus-Second-Division-Vitebsk-Region.csv",
+    "leagues": "Belarus-Second-Division-Vitebsk-Region",
     "first_date": "2022-05-07"
   },
   {
     "country": "Belarus",
-    "leagues": "Belarus-Second-Division-Brest-Region.csv",
+    "leagues": "Belarus-Second-Division-Brest-Region",
     "first_date": "2022-04-16"
   },
   {
     "country": "Belarus",
-    "leagues": "Belarus-Second-Division-Minsk-Region.csv",
+    "leagues": "Belarus-Second-Division-Minsk-Region",
     "first_date": "2022-04-15"
   },
   {
     "country": "Belarus",
-    "leagues": "Belarus-Second-Division-Gomel-Region.csv",
+    "leagues": "Belarus-Second-Division-Gomel-Region",
     "first_date": "2022-05-07"
   },
   {
     "country": "Belarus",
-    "leagues": "Belarus-Second-Division-Grodno-Region.csv",
+    "leagues": "Belarus-Second-Division-Grodno-Region",
     "first_date": "2022-04-23"
   },
   {
     "country": "Belarus",
-    "leagues": "Belarus-Vysshaya-Liga-Women.csv",
+    "leagues": "Belarus-Vysshaya-Liga-Women",
     "first_date": "2020-04-30"
   },
   {
     "country": "Belarus",
-    "leagues": "Belarus-Second-Division-Mogilev-Region.csv",
+    "leagues": "Belarus-Second-Division-Mogilev-Region",
     "first_date": "2022-05-07"
   },
   {
     "country": "Belarus",
-    "leagues": "Belarus-Pershaya-Liga.csv",
+    "leagues": "Belarus-Pershaya-Liga",
     "first_date": "2005-04-15"
   },
   {
     "country": "Belgium",
-    "leagues": "Belgium-Third-Amateur-Division-ACFF-A.csv",
+    "leagues": "Belgium-Third-Amateur-Division-ACFF-A",
     "first_date": "2007-08-30"
   },
   {
     "country": "Belgium",
-    "leagues": "Belgium-Third-Amateur-Division-VFV-B.csv",
+    "leagues": "Belgium-Third-Amateur-Division-VFV-B",
     "first_date": "2007-08-31"
   },
   {
     "country": "Belgium",
-    "leagues": "Belgium-First-Division-B.csv",
+    "leagues": "Belgium-First-Division-B",
     "first_date": "2005-08-30"
   },
   {
     "country": "Belgium",
-    "leagues": "Belgium-Second-Division-Women.csv",
+    "leagues": "Belgium-Second-Division-Women",
     "first_date": "2020-09-19"
   },
   {
     "country": "Belgium",
-    "leagues": "Belgium-Provincial-West-Vlaanderen.csv",
+    "leagues": "Belgium-Provincial-West-Vlaanderen",
     "first_date": "2010-08-29"
   },
   {
     "country": "Belgium",
-    "leagues": "Belgium-Provincial-Limburg.csv",
+    "leagues": "Belgium-Provincial-Limburg",
     "first_date": "2010-09-04"
   },
   {
     "country": "Belgium",
-    "leagues": "Belgium-Provincial-Luxembourg.csv",
+    "leagues": "Belgium-Provincial-Luxembourg",
     "first_date": "2010-08-21"
   },
   {
     "country": "Belgium",
-    "leagues": "Belgium-Provincial-Namur.csv",
+    "leagues": "Belgium-Provincial-Namur",
     "first_date": "2010-08-21"
   },
   {
     "country": "Belgium",
-    "leagues": "Belgium-Provincial-Brabant.csv",
+    "leagues": "Belgium-Provincial-Brabant",
     "first_date": "2010-08-28"
   },
   {
     "country": "Belgium",
-    "leagues": "Belgium-Challenger-Pro-League.csv",
+    "leagues": "Belgium-Challenger-Pro-League",
     "first_date": "2021-08-13"
   },
   {
     "country": "Belgium",
-    "leagues": "Belgium-Reserve-Pro-League-2.csv",
+    "leagues": "Belgium-Reserve-Pro-League-2",
     "first_date": "2018-08-06"
   },
   {
     "country": "Belgium",
-    "leagues": "Belgium-Reserve-Pro-League.csv",
+    "leagues": "Belgium-Reserve-Pro-League",
     "first_date": "2018-08-06"
   },
   {
     "country": "Belgium",
-    "leagues": "Belgium-Provincial-Hainaut.csv",
+    "leagues": "Belgium-Provincial-Hainaut",
     "first_date": "2010-08-22"
   },
   {
     "country": "Belgium",
-    "leagues": "Belgium-Second-Amateur-Division-VFV-A.csv",
+    "leagues": "Belgium-Second-Amateur-Division-VFV-A",
     "first_date": "2005-09-02"
   },
   {
     "country": "Belgium",
-    "leagues": "Belgium-Second-Amateur-Division-VFV-B.csv",
+    "leagues": "Belgium-Second-Amateur-Division-VFV-B",
     "first_date": "2005-09-02"
   },
   {
     "country": "Belgium",
-    "leagues": "Belgium-Pro-League.csv",
+    "leagues": "Belgium-Pro-League",
     "first_date": "2005-08-04"
   },
   {
     "country": "Belgium",
-    "leagues": "Belgium-Provincial-Oost-Vlaanderen.csv",
+    "leagues": "Belgium-Provincial-Oost-Vlaanderen",
     "first_date": "2010-08-28"
   },
   {
     "country": "Belgium",
-    "leagues": "Belgium-Third-Amateur-Division-VFV-A.csv",
+    "leagues": "Belgium-Third-Amateur-Division-VFV-A",
     "first_date": "2007-08-31"
   },
   {
     "country": "Belgium",
-    "leagues": "Belgium-Super-League-Women.csv",
+    "leagues": "Belgium-Super-League-Women",
     "first_date": "2018-09-07"
   },
   {
     "country": "Belgium",
-    "leagues": "Belgium-Third-Amateur-Division-ACFF-B.csv",
+    "leagues": "Belgium-Third-Amateur-Division-ACFF-B",
     "first_date": "2007-08-31"
   },
   {
     "country": "Belgium",
-    "leagues": "Belgium-1st-National-Women.csv",
+    "leagues": "Belgium-1st-National-Women",
     "first_date": "2018-08-25"
   },
   {
     "country": "Belgium",
-    "leagues": "Belgium-First-Amateur-Division.csv",
+    "leagues": "Belgium-First-Amateur-Division",
     "first_date": "2016-09-02"
   },
   {
     "country": "Belgium",
-    "leagues": "Belgium-Provincial-Play-offs.csv",
+    "leagues": "Belgium-Provincial-Play-offs",
     "first_date": "2019-04-28"
   },
   {
     "country": "Belgium",
-    "leagues": "Belgium-Belgium-Playoffs.csv",
+    "leagues": "Belgium-Belgium-Playoffs",
     "first_date": "2014-05-04"
   },
   {
     "country": "Belgium",
-    "leagues": "Belgium-Provincial-Liege.csv",
+    "leagues": "Belgium-Provincial-Liege",
     "first_date": "2010-08-21"
   },
   {
     "country": "Belgium",
-    "leagues": "Belgium-Provincial-Antwerpen.csv",
+    "leagues": "Belgium-Provincial-Antwerpen",
     "first_date": "2010-08-28"
   },
   {
     "country": "Belgium",
-    "leagues": "Belgium-UEFA-Europa-League-Play-offs.csv",
+    "leagues": "Belgium-UEFA-Europa-League-Play-offs",
     "first_date": "2017-04-01"
   },
   {
     "country": "Belgium",
-    "leagues": "Belgium-Second-Amateur-Division-ACFF.csv",
+    "leagues": "Belgium-Second-Amateur-Division-ACFF",
     "first_date": "2017-05-21"
   },
   {
     "country": "Belize",
-    "leagues": "Belize-Premier-League.csv",
+    "leagues": "Belize-Premier-League",
     "first_date": "2007-09-29"
   },
   {
     "country": "Benin",
-    "leagues": "Benin-Championnat-National.csv",
+    "leagues": "Benin-Championnat-National",
     "first_date": "2017-06-17"
   },
   {
     "country": "Bermuda",
-    "leagues": "Bermuda-Premier-League.csv",
+    "leagues": "Bermuda-Premier-League",
     "first_date": "2007-10-06"
   },
   {
     "country": "Bhutan",
-    "leagues": "Bhutan-Bhutan-Premier-League.csv",
+    "leagues": "Bhutan-Bhutan-Premier-League",
     "first_date": "2020-10-21"
   },
   {
     "country": "Bhutan",
-    "leagues": "Bhutan-Super-League.csv",
+    "leagues": "Bhutan-Super-League",
     "first_date": "2010-06-25"
   },
   {
     "country": "Bolivia",
-    "leagues": "Bolivia-Nacional-B.csv",
+    "leagues": "Bolivia-Nacional-B",
     "first_date": "2020-11-07"
   },
   {
     "country": "Bolivia",
-    "leagues": "Bolivia-Liga-De-Futbol-Prof.csv",
+    "leagues": "Bolivia-Liga-De-Futbol-Prof",
     "first_date": "2006-07-28"
   },
   {
     "country": "Bolivia",
-    "leagues": "Bolivia-Liga-De-Futbol-Prof-2016.csv",
+    "leagues": "Bolivia-Liga-De-Futbol-Prof-2016",
     "first_date": "2017-05-13"
   },
   {
     "country": "Bosnia_and_herzegovina",
-    "leagues": "Bosnia-and-Herzegovina-Premier-Liga.csv",
+    "leagues": "Bosnia-and-Herzegovina-Premier-Liga",
     "first_date": "2005-08-05"
   },
   {
     "country": "Bosnia_and_herzegovina",
-    "leagues": "Bosnia-and-Herzegovina-First-League-RS.csv",
+    "leagues": "Bosnia-and-Herzegovina-First-League-RS",
     "first_date": "2005-08-12"
   },
   {
     "country": "Bosnia_and_herzegovina",
-    "leagues": "Bosnia-and-Herzegovina-First-League-FBiH.csv",
+    "leagues": "Bosnia-and-Herzegovina-First-League-FBiH",
     "first_date": "2005-08-12"
   },
   {
     "country": "Botswana",
-    "leagues": "Botswana-Premier-League.csv",
+    "leagues": "Botswana-Premier-League",
     "first_date": "2018-08-18"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Acreano.csv",
+    "leagues": "Brazil-Acreano",
     "first_date": "2005-05-20"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Carioca-Serie-A.csv",
+    "leagues": "Brazil-Carioca-Serie-A",
     "first_date": "2006-01-13"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Serie-A.csv",
+    "leagues": "Brazil-Serie-A",
     "first_date": "2005-04-22"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Copa-do-Nordeste-2021.csv",
+    "leagues": "Brazil-Copa-do-Nordeste-2021",
     "first_date": "2020-12-16"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Copa-Santa-Catarina.csv",
+    "leagues": "Brazil-Copa-Santa-Catarina",
     "first_date": "2021-01-13"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Brasileiro-De-Aspirantes.csv",
+    "leagues": "Brazil-Brasileiro-De-Aspirantes",
     "first_date": "2021-01-07"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Brasileiro-Women.csv",
+    "leagues": "Brazil-Brasileiro-Women",
     "first_date": "2019-03-16"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Paranaense-U19.csv",
+    "leagues": "Brazil-Paranaense-U19",
     "first_date": "2019-05-03"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Paulista-A2.csv",
+    "leagues": "Brazil-Paulista-A2",
     "first_date": "2007-01-17"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Catarinense-2.csv",
+    "leagues": "Brazil-Catarinense-2",
     "first_date": "2019-06-01"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Sergipano.csv",
+    "leagues": "Brazil-Sergipano",
     "first_date": "2006-01-07"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Baiano-1.csv",
+    "leagues": "Brazil-Baiano-1",
     "first_date": "2006-01-07"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Amapaense.csv",
+    "leagues": "Brazil-Amapaense",
     "first_date": "2005-07-09"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Cearense-2.csv",
+    "leagues": "Brazil-Cearense-2",
     "first_date": "2010-01-16"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Mineiro-U20.csv",
+    "leagues": "Brazil-Mineiro-U20",
     "first_date": "2019-04-13"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Mineiro-1.csv",
+    "leagues": "Brazil-Mineiro-1",
     "first_date": "2006-01-17"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Mineiro-2.csv",
+    "leagues": "Brazil-Mineiro-2",
     "first_date": "2007-02-10"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Gaucho-2.csv",
+    "leagues": "Brazil-Gaucho-2",
     "first_date": "2007-04-27"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Serie-C.csv",
+    "leagues": "Brazil-Serie-C",
     "first_date": "2005-07-30"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Serie-B.csv",
+    "leagues": "Brazil-Serie-B",
     "first_date": "2005-04-22"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Cearense-1.csv",
+    "leagues": "Brazil-Cearense-1",
     "first_date": "2006-01-06"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Roraimense.csv",
+    "leagues": "Brazil-Roraimense",
     "first_date": "2005-02-18"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Copa-Gaucha.csv",
+    "leagues": "Brazil-Copa-Gaucha",
     "first_date": "2020-11-17"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Paranaense-2.csv",
+    "leagues": "Brazil-Paranaense-2",
     "first_date": "2009-05-01"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Rondoniense.csv",
+    "leagues": "Brazil-Rondoniense",
     "first_date": "2006-03-03"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Carioca-U20.csv",
+    "leagues": "Brazil-Carioca-U20",
     "first_date": "2019-03-16"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Paraibano.csv",
+    "leagues": "Brazil-Paraibano",
     "first_date": "2005-03-09"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Paulista-A1.csv",
+    "leagues": "Brazil-Paulista-A1",
     "first_date": "2006-01-10"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Paranaense-1.csv",
+    "leagues": "Brazil-Paranaense-1",
     "first_date": "2006-01-10"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Copa-do-Nordeste.csv",
+    "leagues": "Brazil-Copa-do-Nordeste",
     "first_date": "2010-06-09"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Brasiliense.csv",
+    "leagues": "Brazil-Brasiliense",
     "first_date": "2006-01-14"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Tocantinense.csv",
+    "leagues": "Brazil-Tocantinense",
     "first_date": "2005-03-18"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Alagoano.csv",
+    "leagues": "Brazil-Alagoano",
     "first_date": "2006-01-14"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Piauiense.csv",
+    "leagues": "Brazil-Piauiense",
     "first_date": "2005-04-29"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Matogrossense.csv",
+    "leagues": "Brazil-Matogrossense",
     "first_date": "2006-02-03"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Paulista-A3.csv",
+    "leagues": "Brazil-Paulista-A3",
     "first_date": "2009-01-31"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Catarinense-1.csv",
+    "leagues": "Brazil-Catarinense-1",
     "first_date": "2006-01-10"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Copa-Paulista.csv",
+    "leagues": "Brazil-Copa-Paulista",
     "first_date": "2017-06-30"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Sul-Matogrossense.csv",
+    "leagues": "Brazil-Sul-Matogrossense",
     "first_date": "2006-01-28"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Brasileiro-U20.csv",
+    "leagues": "Brazil-Brasileiro-U20",
     "first_date": "2018-07-03"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Baiano-2.csv",
+    "leagues": "Brazil-Baiano-2",
     "first_date": "2012-07-01"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Amazonense.csv",
+    "leagues": "Brazil-Amazonense",
     "first_date": "2006-01-10"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Pernambucano-1.csv",
+    "leagues": "Brazil-Pernambucano-1",
     "first_date": "2006-02-07"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Copa-Do-Nordeste-U20.csv",
+    "leagues": "Brazil-Copa-Do-Nordeste-U20",
     "first_date": "2020-12-08"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Potiguar.csv",
+    "leagues": "Brazil-Potiguar",
     "first_date": "2006-01-27"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Primeira-Liga.csv",
+    "leagues": "Brazil-Primeira-Liga",
     "first_date": "2017-01-24"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Paulista-Women.csv",
+    "leagues": "Brazil-Paulista-Women",
     "first_date": "2019-03-31"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Carioca-2.csv",
+    "leagues": "Brazil-Carioca-2",
     "first_date": "2007-08-17"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Maranhense.csv",
+    "leagues": "Brazil-Maranhense",
     "first_date": "2010-11-18"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Capixaba.csv",
+    "leagues": "Brazil-Capixaba",
     "first_date": "2006-02-08"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Paulista-Serie-B.csv",
+    "leagues": "Brazil-Paulista-Serie-B",
     "first_date": "2019-04-06"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Goiano-1.csv",
+    "leagues": "Brazil-Goiano-1",
     "first_date": "2006-01-07"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Gaucho-1.csv",
+    "leagues": "Brazil-Gaucho-1",
     "first_date": "2006-01-10"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Carioca-1-Taca-Rio.csv",
+    "leagues": "Brazil-Carioca-1-Taca-Rio",
     "first_date": "2007-03-09"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Serie-D.csv",
+    "leagues": "Brazil-Serie-D",
     "first_date": "2009-07-05"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Paulista-U20.csv",
+    "leagues": "Brazil-Paulista-U20",
     "first_date": "2019-04-12"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Copa-Fares-Lopes.csv",
+    "leagues": "Brazil-Copa-Fares-Lopes",
     "first_date": "2021-01-13"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Sao-Paolo-Youth-Cup.csv",
+    "leagues": "Brazil-Sao-Paolo-Youth-Cup",
     "first_date": "2018-01-02"
   },
   {
     "country": "Brazil",
-    "leagues": "Brazil-Paraense.csv",
+    "leagues": "Brazil-Paraense",
     "first_date": "2005-11-25"
   },
   {
     "country": "Bulgaria",
-    "leagues": "Bulgaria-3-League-Northeast.csv",
+    "leagues": "Bulgaria-3-League-Northeast",
     "first_date": "2008-08-16"
   },
   {
     "country": "Bulgaria",
-    "leagues": "Bulgaria-3-League-Southwest.csv",
+    "leagues": "Bulgaria-3-League-Southwest",
     "first_date": "2010-08-14"
   },
   {
     "country": "Bulgaria",
-    "leagues": "Bulgaria-Second-League.csv",
+    "leagues": "Bulgaria-Second-League",
     "first_date": "2021-07-24"
   },
   {
     "country": "Bulgaria",
-    "leagues": "Bulgaria-3-League-Northwest.csv",
+    "leagues": "Bulgaria-3-League-Northwest",
     "first_date": "2009-08-16"
   },
   {
     "country": "Bulgaria",
-    "leagues": "Bulgaria-First-League.csv",
+    "leagues": "Bulgaria-First-League",
     "first_date": "2021-07-23"
   },
   {
     "country": "Bulgaria",
-    "leagues": "Bulgaria-Second-League-West.csv",
+    "leagues": "Bulgaria-Second-League-West",
     "first_date": "2005-08-12"
   },
   {
     "country": "Bulgaria",
-    "leagues": "Bulgaria-Parva-Liga.csv",
+    "leagues": "Bulgaria-Parva-Liga",
     "first_date": "2005-08-05"
   },
   {
     "country": "Bulgaria",
-    "leagues": "Bulgaria-3-League-Southeast.csv",
+    "leagues": "Bulgaria-3-League-Southeast",
     "first_date": "2010-08-15"
   },
   {
     "country": "Bulgaria",
-    "leagues": "Bulgaria-Vtora-Liga.csv",
+    "leagues": "Bulgaria-Vtora-Liga",
     "first_date": "2005-08-12"
   },
   {
     "country": "Burkina_faso",
-    "leagues": "Burkina-Faso-Premier-League.csv",
+    "leagues": "Burkina-Faso-Premier-League",
     "first_date": "2017-06-04"
   },
   {
     "country": "Burundi",
-    "leagues": "Burundi-Ligue-A.csv",
+    "leagues": "Burundi-Ligue-A",
     "first_date": "2020-02-22"
   },
   {
     "country": "Cambodia",
-    "leagues": "Cambodia-C-League.csv",
+    "leagues": "Cambodia-C-League",
     "first_date": "2010-03-27"
   },
   {
     "country": "Cameroon",
-    "leagues": "Cameroon-Elite-Two.csv",
+    "leagues": "Cameroon-Elite-Two",
     "first_date": "2019-10-01"
   },
   {
     "country": "Cameroon",
-    "leagues": "Cameroon-Elite-One.csv",
+    "leagues": "Cameroon-Elite-One",
     "first_date": "2007-12-07"
   },
   {
     "country": "Canada",
-    "leagues": "Canada-Premier-League.csv",
+    "leagues": "Canada-Premier-League",
     "first_date": "2019-04-27"
   },
   {
     "country": "Canada",
-    "leagues": "Canada-PCSL.csv",
+    "leagues": "Canada-PCSL",
     "first_date": "2005-05-06"
   },
   {
     "country": "Canada",
-    "leagues": "Canada-League-1-Ontario.csv",
+    "leagues": "Canada-League-1-Ontario",
     "first_date": "2021-07-31"
   },
   {
     "country": "Canada",
-    "leagues": "Canada-PLSQ.csv",
+    "leagues": "Canada-PLSQ",
     "first_date": "2020-07-25"
   },
   {
     "country": "Canada",
-    "leagues": "Canada-Canadian-Soccer-League.csv",
+    "leagues": "Canada-Canadian-Soccer-League",
     "first_date": "2005-05-20"
   },
   {
     "country": "Chile",
-    "leagues": "Chile-Segunda-Division.csv",
+    "leagues": "Chile-Segunda-Division",
     "first_date": "2019-04-06"
   },
   {
     "country": "Chile",
-    "leagues": "Chile-Primera-B.csv",
+    "leagues": "Chile-Primera-B",
     "first_date": "2006-03-03"
   },
   {
     "country": "Chile",
-    "leagues": "Chile-Chilean-Cup.csv",
+    "leagues": "Chile-Chilean-Cup",
     "first_date": "2008-07-06"
   },
   {
     "country": "Chile",
-    "leagues": "Chile-Primera-Division.csv",
+    "leagues": "Chile-Primera-Division",
     "first_date": "2005-05-31"
   },
   {
     "country": "China_pr",
-    "leagues": "China-PR-Super-League.csv",
+    "leagues": "China-PR-Super-League",
     "first_date": "2005-04-01"
   },
   {
     "country": "China_pr",
-    "leagues": "China-PR-FA-Cup.csv",
+    "leagues": "China-PR-FA-Cup",
     "first_date": "2018-03-17"
   },
   {
     "country": "China_pr",
-    "leagues": "China-PR-League-One.csv",
+    "leagues": "China-PR-League-One",
     "first_date": "2005-03-03"
   },
   {
     "country": "Chinese_taipei",
-    "leagues": "Chinese-Taipei-Taiwan-Mulan-Football-League.csv",
+    "leagues": "Chinese-Taipei-Taiwan-Mulan-Football-League",
     "first_date": "2020-04-11"
   },
   {
     "country": "Chinese_taipei",
-    "leagues": "Chinese-Taipei-Taiwan-Football-Premier-League.csv",
+    "leagues": "Chinese-Taipei-Taiwan-Football-Premier-League",
     "first_date": "2009-01-01"
   },
   {
     "country": "Colombia",
-    "leagues": "Colombia-Liga-BetPlay.csv",
+    "leagues": "Colombia-Liga-BetPlay",
     "first_date": "2005-06-21"
   },
   {
     "country": "Colombia",
-    "leagues": "Colombia-Copa-Betplay.csv",
+    "leagues": "Colombia-Copa-Betplay",
     "first_date": "2008-03-12"
   },
   {
     "country": "Colombia",
-    "leagues": "Colombia-Torneo-Betplay.csv",
+    "leagues": "Colombia-Torneo-Betplay",
     "first_date": "2006-07-14"
   },
   {
     "country": "Congo",
-    "leagues": "Congo-Ligue-1.csv",
+    "leagues": "Congo-Ligue-1",
     "first_date": "2018-01-27"
   },
   {
     "country": "Congo_dr",
-    "leagues": "Congo-DR-Super-Ligue.csv",
+    "leagues": "Congo-DR-Super-Ligue",
     "first_date": "2010-01-23"
   },
   {
     "country": "Costa_rica",
-    "leagues": "Costa-Rica-Liga-de-Ascenso.csv",
+    "leagues": "Costa-Rica-Liga-de-Ascenso",
     "first_date": "2009-08-08"
   },
   {
     "country": "Costa_rica",
-    "leagues": "Costa-Rica-Primera-Division.csv",
+    "leagues": "Costa-Rica-Primera-Division",
     "first_date": "2005-12-10"
   },
   {
     "country": "Côte_d'ivoire",
-    "leagues": "Cote-d-Ivoire-Ligue-1.csv",
+    "leagues": "Cote-d-Ivoire-Ligue-1",
     "first_date": "2017-05-13"
   },
   {
     "country": "Croatia",
-    "leagues": "Croatia-1-HNL.csv",
+    "leagues": "Croatia-1-HNL",
     "first_date": "2005-07-19"
   },
   {
     "country": "Croatia",
-    "leagues": "Croatia-3-HNL-Sjever.csv",
+    "leagues": "Croatia-3-HNL-Sjever",
     "first_date": "2011-08-20"
   },
   {
     "country": "Croatia",
-    "leagues": "Croatia-U19-League.csv",
+    "leagues": "Croatia-U19-League",
     "first_date": "2020-09-05"
   },
   {
     "country": "Croatia",
-    "leagues": "Croatia-3-HNL-Center.csv",
+    "leagues": "Croatia-3-HNL-Center",
     "first_date": "2020-08-22"
   },
   {
     "country": "Croatia",
-    "leagues": "Croatia-3-HNL-Sredite.csv",
+    "leagues": "Croatia-3-HNL-Sredite",
     "first_date": "2012-08-25"
   },
   {
     "country": "Croatia",
-    "leagues": "Croatia-3-HNL-South.csv",
+    "leagues": "Croatia-3-HNL-South",
     "first_date": "2008-08-22"
   },
   {
     "country": "Croatia",
-    "leagues": "Croatia-3-HNL-West.csv",
+    "leagues": "Croatia-3-HNL-West",
     "first_date": "2008-08-22"
   },
   {
     "country": "Croatia",
-    "leagues": "Croatia-2-HNL.csv",
+    "leagues": "Croatia-2-HNL",
     "first_date": "2005-08-19"
   },
   {
     "country": "Croatia",
-    "leagues": "Croatia-3-HNL-North.csv",
+    "leagues": "Croatia-3-HNL-North",
     "first_date": "2020-08-22"
   },
   {
     "country": "Croatia",
-    "leagues": "Croatia-3-HNL-East.csv",
+    "leagues": "Croatia-3-HNL-East",
     "first_date": "2008-08-06"
   },
   {
     "country": "Cuba",
-    "leagues": "Cuba-Primera-Division.csv",
+    "leagues": "Cuba-Primera-Division",
     "first_date": "2019-01-19"
   },
   {
     "country": "Cyprus",
-    "leagues": "Cyprus-3-Division.csv",
+    "leagues": "Cyprus-3-Division",
     "first_date": "2008-09-19"
   },
   {
     "country": "Cyprus",
-    "leagues": "Cyprus-1-Division.csv",
+    "leagues": "Cyprus-1-Division",
     "first_date": "2005-08-26"
   },
   {
     "country": "Cyprus",
-    "leagues": "Cyprus-2-Division.csv",
+    "leagues": "Cyprus-2-Division",
     "first_date": "2006-09-22"
   },
   {
     "country": "Czech_republic",
-    "leagues": "Czech-Republic-4-Liga-Division-D.csv",
+    "leagues": "Czech-Republic-4-Liga-Division-D",
     "first_date": "2011-08-06"
   },
   {
     "country": "Czech_republic",
-    "leagues": "Czech-Republic-4-Liga-Division-A.csv",
+    "leagues": "Czech-Republic-4-Liga-Division-A",
     "first_date": "2011-08-12"
   },
   {
     "country": "Czech_republic",
-    "leagues": "Czech-Republic-3-Liga-MSFL.csv",
+    "leagues": "Czech-Republic-3-Liga-MSFL",
     "first_date": "2005-08-12"
   },
   {
     "country": "Czech_republic",
-    "leagues": "Czech-Republic-First-League-Women.csv",
+    "leagues": "Czech-Republic-First-League-Women",
     "first_date": "2018-08-18"
   },
   {
     "country": "Czech_republic",
-    "leagues": "Czech-Republic-4-Liga-Division-E.csv",
+    "leagues": "Czech-Republic-4-Liga-Division-E",
     "first_date": "2011-08-06"
   },
   {
     "country": "Czech_republic",
-    "leagues": "Czech-Republic-Fortuna-Liga.csv",
+    "leagues": "Czech-Republic-Fortuna-Liga",
     "first_date": "2005-08-04"
   },
   {
     "country": "Czech_republic",
-    "leagues": "Czech-Republic-4-Liga-Division-C.csv",
+    "leagues": "Czech-Republic-4-Liga-Division-C",
     "first_date": "2011-08-13"
   },
   {
     "country": "Czech_republic",
-    "leagues": "Czech-Republic-Tipsport-Liga.csv",
+    "leagues": "Czech-Republic-Tipsport-Liga",
     "first_date": "2021-01-07"
   },
   {
     "country": "Czech_republic",
-    "leagues": "Czech-Republic-4-Liga-Division-F.csv",
+    "leagues": "Czech-Republic-4-Liga-Division-F",
     "first_date": "2020-09-12"
   },
   {
     "country": "Czech_republic",
-    "leagues": "czech_result_2019_2020.csv",
+    "leagues": "czech_result_2019_2020",
     "first_date": "2019-07-12"
   },
   {
     "country": "Czech_republic",
-    "leagues": "czech_result_2020_2021.csv",
+    "leagues": "czech_result_2020_2021",
     "first_date": "2020-08-21"
   },
   {
     "country": "Czech_republic",
-    "leagues": "Czech-Republic-Youth-League.csv",
+    "leagues": "Czech-Republic-Youth-League",
     "first_date": "2017-09-26"
   },
   {
     "country": "Czech_republic",
-    "leagues": "Czech-Republic-4-Liga-Division-B.csv",
+    "leagues": "Czech-Republic-4-Liga-Division-B",
     "first_date": "2011-08-12"
   },
   {
     "country": "Czech_republic",
-    "leagues": "Czech-Republic-U19-League.csv",
+    "leagues": "Czech-Republic-U19-League",
     "first_date": "2017-11-17"
   },
   {
     "country": "Czech_republic",
-    "leagues": "Czech-Republic-2-Liga-FNL.csv",
+    "leagues": "Czech-Republic-2-Liga-FNL",
     "first_date": "2005-08-04"
   },
   {
     "country": "Czech_republic",
-    "leagues": "Czech-Republic-Czech-Cup.csv",
+    "leagues": "Czech-Republic-Czech-Cup",
     "first_date": "2018-07-28"
   },
   {
     "country": "Czech_republic",
-    "leagues": "ceska_druga.csv",
+    "leagues": "ceska_druga",
     "first_date": "2005-08-04"
   },
   {
     "country": "Czech_republic",
-    "leagues": "Czech-Republic-3-Liga-CFL.csv",
+    "leagues": "Czech-Republic-3-Liga-CFL",
     "first_date": "2005-08-05"
   },
   {
     "country": "Denmark",
-    "leagues": "Denmark-Denmark-Series-Group-3.csv",
+    "leagues": "Denmark-Denmark-Series-Group-3",
     "first_date": "2008-08-15"
   },
   {
     "country": "Denmark",
-    "leagues": "Denmark-2-Division-Group-East.csv",
+    "leagues": "Denmark-2-Division-Group-East",
     "first_date": "2005-08-05"
   },
   {
     "country": "Denmark",
-    "leagues": "Denmark-2-Division-Group-2.csv",
+    "leagues": "Denmark-2-Division-Group-2",
     "first_date": "2015-08-07"
   },
   {
     "country": "Denmark",
-    "leagues": "Denmark-2-Division-Group-West.csv",
+    "leagues": "Denmark-2-Division-Group-West",
     "first_date": "2005-08-04"
   },
   {
     "country": "Denmark",
-    "leagues": "Denmark-Reserve-League.csv",
+    "leagues": "Denmark-Reserve-League",
     "first_date": "2018-07-08"
   },
   {
     "country": "Denmark",
-    "leagues": "Denmark-2-Division-Group-3.csv",
+    "leagues": "Denmark-2-Division-Group-3",
     "first_date": "2015-08-07"
   },
   {
     "country": "Denmark",
-    "leagues": "Denmark-2-Division-Group-1.csv",
+    "leagues": "Denmark-2-Division-Group-1",
     "first_date": "2015-08-08"
   },
   {
     "country": "Denmark",
-    "leagues": "Denmark-Denmark-Series-Group-2.csv",
+    "leagues": "Denmark-Denmark-Series-Group-2",
     "first_date": "2008-08-15"
   },
   {
     "country": "Denmark",
-    "leagues": "Denmark-Women-s-Play-offs-1-2.csv",
+    "leagues": "Denmark-Women-s-Play-offs-1-2",
     "first_date": "2019-04-07"
   },
   {
     "country": "Denmark",
-    "leagues": "Denmark-Superliga.csv",
+    "leagues": "Denmark-Superliga",
     "first_date": "2005-07-18"
   },
   {
     "country": "Denmark",
-    "leagues": "Denmark-Denmark-Series-Group-4.csv",
+    "leagues": "Denmark-Denmark-Series-Group-4",
     "first_date": "2016-08-05"
   },
   {
     "country": "Denmark",
-    "leagues": "Denmark-Denmark-Series-Group-1.csv",
+    "leagues": "Denmark-Denmark-Series-Group-1",
     "first_date": "2008-08-14"
   },
   {
     "country": "Denmark",
-    "leagues": "Denmark-1-Division-Women-Play-offs.csv",
+    "leagues": "Denmark-1-Division-Women-Play-offs",
     "first_date": "2022-03-26"
   },
   {
     "country": "Denmark",
-    "leagues": "Denmark-U19-League.csv",
+    "leagues": "Denmark-U19-League",
     "first_date": "2019-08-10"
   },
   {
     "country": "Denmark",
-    "leagues": "Denmark-2-Division-Play-offs.csv",
+    "leagues": "Denmark-2-Division-Play-offs",
     "first_date": "2019-04-22"
   },
   {
     "country": "Denmark",
-    "leagues": "Denmark-First-Division.csv",
+    "leagues": "Denmark-First-Division",
     "first_date": "2005-07-29"
   },
   {
     "country": "Denmark",
-    "leagues": "Denmark-Elitedivisionen-Women.csv",
+    "leagues": "Denmark-Elitedivisionen-Women",
     "first_date": "2018-08-11"
   },
   {
     "country": "Djibouti",
-    "leagues": "Djibouti-Division-1.csv",
+    "leagues": "Djibouti-Division-1",
     "first_date": "2020-08-01"
   },
   {
     "country": "Dominican_republic",
-    "leagues": "Dominican-Republic-Liga-Mayor.csv",
+    "leagues": "Dominican-Republic-Liga-Mayor",
     "first_date": "2012-11-04"
   },
   {
     "country": "Ecuador",
-    "leagues": "Ecuador-Primera-B.csv",
+    "leagues": "Ecuador-Primera-B",
     "first_date": "2006-07-13"
   },
   {
     "country": "Ecuador",
-    "leagues": "Ecuador-Liga-Pro.csv",
+    "leagues": "Ecuador-Liga-Pro",
     "first_date": "2007-07-13"
   },
   {
     "country": "Egypt",
-    "leagues": "Egypt-Second-League-Group-B.csv",
+    "leagues": "Egypt-Second-League-Group-B",
     "first_date": "2020-09-22"
   },
   {
     "country": "Egypt",
-    "leagues": "Egypt-Premier-League.csv",
+    "leagues": "Egypt-Premier-League",
     "first_date": "2005-08-11"
   },
   {
     "country": "Egypt",
-    "leagues": "Egypt-Second-League-Group-C.csv",
+    "leagues": "Egypt-Second-League-Group-C",
     "first_date": "2020-09-22"
   },
   {
     "country": "Egypt",
-    "leagues": "Egypt-Second-League-Group-A.csv",
+    "leagues": "Egypt-Second-League-Group-A",
     "first_date": "2020-09-20"
   },
   {
     "country": "El_salvador",
-    "leagues": "El-Salvador-Primera-Division.csv",
+    "leagues": "El-Salvador-Primera-Division",
     "first_date": "2005-12-03"
   },
   {
     "country": "England",
-    "leagues": "England-National-League.csv",
+    "leagues": "England-National-League",
     "first_date": "2005-08-12"
   },
   {
     "country": "England",
-    "leagues": "England-Wsl-2-Women.csv",
+    "leagues": "England-Wsl-2-Women",
     "first_date": "2017-09-24"
   },
   {
     "country": "England",
-    "leagues": "England-Non-League-Div-One-Northern-South.csv",
+    "leagues": "England-Non-League-Div-One-Northern-South",
     "first_date": "2007-08-17"
   },
   {
     "country": "England",
-    "leagues": "England-Non-League-Premier-Isthmian.csv",
+    "leagues": "England-Non-League-Premier-Isthmian",
     "first_date": "2005-08-19"
   },
   {
     "country": "England",
-    "leagues": "England-Championship.csv",
+    "leagues": "England-Championship",
     "first_date": "2005-08-05"
   },
   {
     "country": "England",
-    "leagues": "England-Premier-League.csv",
+    "leagues": "England-Premier-League",
     "first_date": "2005-08-13"
   },
   {
     "country": "England",
-    "leagues": "England-Premier-League-2-Divison-Two.csv",
+    "leagues": "England-Premier-League-2-Divison-Two",
     "first_date": "2017-05-16"
   },
   {
     "country": "England",
-    "leagues": "England-Non-League-Div-One-Southern-S-W.csv",
+    "leagues": "England-Non-League-Div-One-Southern-S-W",
     "first_date": "2010-08-14"
   },
   {
     "country": "England",
-    "leagues": "England-Women-s-National-League-Premier-Division-North.csv",
+    "leagues": "England-Women-s-National-League-Premier-Division-North",
     "first_date": "2020-09-20"
   },
   {
     "country": "England",
-    "leagues": "England-Non-League-Premier-Southern-Central.csv",
+    "leagues": "England-Non-League-Premier-Southern-Central",
     "first_date": "2005-08-12"
   },
   {
     "country": "England",
-    "leagues": "England-Non-League-Premier-Southern-South.csv",
+    "leagues": "England-Non-League-Premier-Southern-South",
     "first_date": "2019-08-10"
   },
   {
     "country": "England",
-    "leagues": "England-FA-Cup.csv",
+    "leagues": "England-FA-Cup",
     "first_date": "2019-08-09"
   },
   {
     "country": "England",
-    "leagues": "England-Central-League-Cup.csv",
+    "leagues": "England-Central-League-Cup",
     "first_date": "2020-09-22"
   },
   {
     "country": "England",
-    "leagues": "England-Women-s-National-League-Premier-Division-South.csv",
+    "leagues": "England-Women-s-National-League-Premier-Division-South",
     "first_date": "2020-09-20"
   },
   {
     "country": "England",
-    "leagues": "England-League-Cup-Women.csv",
+    "leagues": "England-League-Cup-Women",
     "first_date": "2018-08-18"
   },
   {
     "country": "England",
-    "leagues": "England-Vanarama-National-League-North.csv",
+    "leagues": "England-Vanarama-National-League-North",
     "first_date": "2005-08-12"
   },
   {
     "country": "England",
-    "leagues": "England-Carabao-Cup.csv",
+    "leagues": "England-Carabao-Cup",
     "first_date": "2005-08-21"
   },
   {
     "country": "England",
-    "leagues": "England-Professional-Development-League.csv",
+    "leagues": "England-Professional-Development-League",
     "first_date": "2017-10-06"
   },
   {
     "country": "England",
-    "leagues": "England-Women-s-Super-League.csv",
+    "leagues": "England-Women-s-Super-League",
     "first_date": "2017-09-22"
   },
   {
     "country": "England",
-    "leagues": "England-Women-s-National-League-Division-One-Midlands.csv",
+    "leagues": "England-Women-s-National-League-Division-One-Midlands",
     "first_date": "2020-09-20"
   },
   {
     "country": "England",
-    "leagues": "England-Non-League-Div-One-Isthmian-South-East.csv",
+    "leagues": "England-Non-League-Div-One-Isthmian-South-East",
     "first_date": "2020-09-19"
   },
   {
     "country": "England",
-    "leagues": "England-Women-s-National-League-Division-One-SE.csv",
+    "leagues": "England-Women-s-National-League-Division-One-SE",
     "first_date": "2020-09-20"
   },
   {
     "country": "England",
-    "leagues": "England-Women-s-National-League-Division-One-SW.csv",
+    "leagues": "England-Women-s-National-League-Division-One-SW",
     "first_date": "2020-09-20"
   },
   {
     "country": "England",
-    "leagues": "England-EFL-Trophy.csv",
+    "leagues": "England-EFL-Trophy",
     "first_date": "2016-08-30"
   },
   {
     "country": "England",
-    "leagues": "England-Premier-League-Cup.csv",
+    "leagues": "England-Premier-League-Cup",
     "first_date": "2018-08-29"
   },
   {
     "country": "England",
-    "leagues": "England-Premier-League-U18.csv",
+    "leagues": "England-Premier-League-U18",
     "first_date": "2018-08-10"
   },
   {
     "country": "England",
-    "leagues": "England-Premier-League-U21.csv",
+    "leagues": "England-Premier-League-U21",
     "first_date": "2015-08-09"
   },
   {
     "country": "England",
-    "leagues": "England-Fa-Trophy.csv",
+    "leagues": "England-Fa-Trophy",
     "first_date": "2017-10-07"
   },
   {
     "country": "England",
-    "leagues": "England-Women-s-National-League-Division-One-North.csv",
+    "leagues": "England-Women-s-National-League-Division-One-North",
     "first_date": "2020-09-20"
   },
   {
     "country": "England",
-    "leagues": "England-Non-League-Div-One-Northern-North.csv",
+    "leagues": "England-Non-League-Div-One-Northern-North",
     "first_date": "2007-08-17"
   },
   {
     "country": "England",
-    "leagues": "England-Non-League-Div-One-Isthmian-South-Central.csv",
+    "leagues": "England-Non-League-Div-One-Isthmian-South-Central",
     "first_date": "2021-08-28"
   },
   {
     "country": "England",
-    "leagues": "England-League-One.csv",
+    "leagues": "England-League-One",
     "first_date": "2005-08-05"
   },
   {
     "country": "England",
-    "leagues": "England-Non-League-Div-One-Isthmian-North.csv",
+    "leagues": "England-Non-League-Div-One-Isthmian-North",
     "first_date": "2006-08-18"
   },
   {
     "country": "England",
-    "leagues": "England-Non-League-Premier-Northern.csv",
+    "leagues": "England-Non-League-Premier-Northern",
     "first_date": "2005-08-19"
   },
   {
     "country": "England",
-    "leagues": "England-Vanarama-National-League-South.csv",
+    "leagues": "England-Vanarama-National-League-South",
     "first_date": "2009-04-18"
   },
   {
     "country": "England",
-    "leagues": "England-Youth-Alliance.csv",
+    "leagues": "England-Youth-Alliance",
     "first_date": "2019-08-02"
   },
   {
     "country": "England",
-    "leagues": "England-League-Two.csv",
+    "leagues": "England-League-Two",
     "first_date": "2005-08-05"
   },
   {
     "country": "England",
-    "leagues": "England-Premier-League-2-Division-One.csv",
+    "leagues": "England-Premier-League-2-Division-One",
     "first_date": "2020-09-11"
   },
   {
     "country": "England",
-    "leagues": "England-Non-League-Div-One-Isthmian-South.csv",
+    "leagues": "England-Non-League-Div-One-Isthmian-South",
     "first_date": "2006-08-18"
   },
   {
     "country": "England",
-    "leagues": "England-Non-League-Div-One-Southern-Central.csv",
+    "leagues": "England-Non-League-Div-One-Southern-Central",
     "first_date": "2005-08-12"
   },
   {
     "country": "Estonia",
-    "leagues": "Estonia-Esiliiga-B.csv",
+    "leagues": "Estonia-Esiliiga-B",
     "first_date": "2020-05-30"
   },
   {
     "country": "Estonia",
-    "leagues": "Estonia-II-Liiga.csv",
+    "leagues": "Estonia-II-Liiga",
     "first_date": "2020-05-23"
   },
   {
     "country": "Estonia",
-    "leagues": "Estonia-Esiliiga-A.csv",
+    "leagues": "Estonia-Esiliiga-A",
     "first_date": "2005-03-04"
   },
   {
     "country": "Estonia",
-    "leagues": "Estonia-Meistriliiga.csv",
+    "leagues": "Estonia-Meistriliiga",
     "first_date": "2005-03-01"
   },
   {
     "country": "Estonia",
-    "leagues": "Estonia-Esiliiga-Women.csv",
+    "leagues": "Estonia-Esiliiga-Women",
     "first_date": "2021-05-09"
   },
   {
     "country": "Ethiopia",
-    "leagues": "Ethiopia-Premier-League.csv",
+    "leagues": "Ethiopia-Premier-League",
     "first_date": "2015-10-28"
   },
   {
     "country": "Faroe_islands",
-    "leagues": "Faroe-Islands-Meistaradeildin.csv",
+    "leagues": "Faroe-Islands-Meistaradeildin",
     "first_date": "2005-03-27"
   },
   {
     "country": "Faroe_islands",
-    "leagues": "Faroe-Islands-1-Deild.csv",
+    "leagues": "Faroe-Islands-1-Deild",
     "first_date": "2005-04-29"
   },
   {
     "country": "Fiji",
-    "leagues": "Fiji-National-Football-League.csv",
+    "leagues": "Fiji-National-Football-League",
     "first_date": "2007-04-21"
   },
   {
     "country": "Finland",
-    "leagues": "Finland-Finland-Cup.csv",
+    "leagues": "Finland-Finland-Cup",
     "first_date": "2017-09-23"
   },
   {
     "country": "Finland",
-    "leagues": "Finland-Veikkausliiga.csv",
+    "leagues": "Finland-Veikkausliiga",
     "first_date": "2005-04-27"
   },
   {
     "country": "Finland",
-    "leagues": "Finland-Kakkonen-LohkoD.csv",
+    "leagues": "Finland-Kakkonen-LohkoD",
     "first_date": "2012-09-30"
   },
   {
     "country": "Finland",
-    "leagues": "Finland-Ykkonen.csv",
+    "leagues": "Finland-Ykkonen",
     "first_date": "2005-05-03"
   },
   {
     "country": "Finland",
-    "leagues": "Finland-Kakkonen-LohkoB.csv",
+    "leagues": "Finland-Kakkonen-LohkoB",
     "first_date": "2006-04-27"
   },
   {
     "country": "Finland",
-    "leagues": "Finland-Kakkonen-LohkoC.csv",
+    "leagues": "Finland-Kakkonen-LohkoC",
     "first_date": "2006-04-28"
   },
   {
     "country": "Finland",
-    "leagues": "Finland-Kakkonen.csv",
+    "leagues": "Finland-Kakkonen",
     "first_date": "2005-05-06"
   },
   {
     "country": "Finland",
-    "leagues": "Finland-Finland-Cup-2016.csv",
+    "leagues": "Finland-Finland-Cup-2016",
     "first_date": "2017-09-23"
   },
   {
     "country": "Finland",
-    "leagues": "Finland-Finland-Cup-2017.csv",
+    "leagues": "Finland-Finland-Cup-2017",
     "first_date": "2018-01-19"
   },
   {
     "country": "Finland",
-    "leagues": "Finland-Kolmonen.csv",
+    "leagues": "Finland-Kolmonen",
     "first_date": "2019-04-04"
   },
   {
     "country": "Finland",
-    "leagues": "Finland-A-Junior-League.csv",
+    "leagues": "Finland-A-Junior-League",
     "first_date": "2020-06-22"
   },
   {
     "country": "Finland",
-    "leagues": "Finland-Kansallinen-Liiga-Women.csv",
+    "leagues": "Finland-Kansallinen-Liiga-Women",
     "first_date": "2018-03-24"
   },
   {
     "country": "France",
-    "leagues": "France-CFA-Group-A.csv",
+    "leagues": "France-CFA-Group-A",
     "first_date": "2005-08-05"
   },
   {
     "country": "France",
-    "leagues": "France-National-3-Normandie.csv",
+    "leagues": "France-National-3-Normandie",
     "first_date": "2007-08-17"
   },
   {
     "country": "France",
-    "leagues": "France-National-3-Group-F.csv",
+    "leagues": "France-National-3-Group-F",
     "first_date": "2021-08-28"
   },
   {
     "country": "France",
-    "leagues": "France-National-3-Group-L.csv",
+    "leagues": "France-National-3-Group-L",
     "first_date": "2018-08-18"
   },
   {
     "country": "France",
-    "leagues": "France-National-3-Group-B.csv",
+    "leagues": "France-National-3-Group-B",
     "first_date": "2021-08-28"
   },
   {
     "country": "France",
-    "leagues": "France-CFA-Group-B.csv",
+    "leagues": "France-CFA-Group-B",
     "first_date": "2007-08-11"
   },
   {
     "country": "France",
-    "leagues": "France-National-3-Corse-Mediterranee.csv",
+    "leagues": "France-National-3-Corse-Mediterranee",
     "first_date": "2018-08-18"
   },
   {
     "country": "France",
-    "leagues": "France-National-3-Group-C.csv",
+    "leagues": "France-National-3-Group-C",
     "first_date": "2021-08-28"
   },
   {
     "country": "France",
-    "leagues": "France-National-3-Auvergne-Rhone-Alpes.csv",
+    "leagues": "France-National-3-Auvergne-Rhone-Alpes",
     "first_date": "2007-08-17"
   },
   {
     "country": "France",
-    "leagues": "France-CFA-Group-D.csv",
+    "leagues": "France-CFA-Group-D",
     "first_date": "2007-08-11"
   },
   {
     "country": "France",
-    "leagues": "France-National-3-Group-I.csv",
+    "leagues": "France-National-3-Group-I",
     "first_date": "2021-08-29"
   },
   {
     "country": "France",
-    "leagues": "France-National-3-Group-G.csv",
+    "leagues": "France-National-3-Group-G",
     "first_date": "2007-08-17"
   },
   {
     "country": "France",
-    "leagues": "France-National-3-Group-D.csv",
+    "leagues": "France-National-3-Group-D",
     "first_date": "2021-08-28"
   },
   {
     "country": "France",
-    "leagues": "France-National-3-Nouvelle-Aquitaine.csv",
+    "leagues": "France-National-3-Nouvelle-Aquitaine",
     "first_date": "2018-08-18"
   },
   {
     "country": "France",
-    "leagues": "France-National-3-Pays-de-la-Loire.csv",
+    "leagues": "France-National-3-Pays-de-la-Loire",
     "first_date": "2021-08-28"
   },
   {
     "country": "France",
-    "leagues": "France-CFA-Group-C.csv",
+    "leagues": "France-CFA-Group-C",
     "first_date": "2006-05-23"
   },
   {
     "country": "France",
-    "leagues": "France-National-3-Hauts-de-France.csv",
+    "leagues": "France-National-3-Hauts-de-France",
     "first_date": "2007-08-17"
   },
   {
     "country": "France",
-    "leagues": "France-Ligue-2.csv",
+    "leagues": "France-Ligue-2",
     "first_date": "2005-07-28"
   },
   {
     "country": "France",
-    "leagues": "France-Feminine-Division-2.csv",
+    "leagues": "France-Feminine-Division-2",
     "first_date": "2021-09-05"
   },
   {
     "country": "France",
-    "leagues": "France-National-3-Bourgogne-Franche-Comte.csv",
+    "leagues": "France-National-3-Bourgogne-Franche-Comte",
     "first_date": "2007-08-17"
   },
   {
     "country": "France",
-    "leagues": "France-National-3-Occitanie.csv",
+    "leagues": "France-National-3-Occitanie",
     "first_date": "2018-08-18"
   },
   {
     "country": "France",
-    "leagues": "France-National-3-Grand-Est.csv",
+    "leagues": "France-National-3-Grand-Est",
     "first_date": "2007-08-17"
   },
   {
     "country": "France",
-    "leagues": "France-National-3-Group-K.csv",
+    "leagues": "France-National-3-Group-K",
     "first_date": "2021-08-29"
   },
   {
     "country": "France",
-    "leagues": "France-National-3-Paris-Ile-de-France.csv",
+    "leagues": "France-National-3-Paris-Ile-de-France",
     "first_date": "2018-08-18"
   },
   {
     "country": "France",
-    "leagues": "France-Ligue-1.csv",
+    "leagues": "France-Ligue-1",
     "first_date": "2005-07-28"
   },
   {
     "country": "France",
-    "leagues": "France-National.csv",
+    "leagues": "France-National",
     "first_date": "2005-08-05"
   },
   {
     "country": "France",
-    "leagues": "France-National-3-Bretagne.csv",
+    "leagues": "France-National-3-Bretagne",
     "first_date": "2007-08-17"
   },
   {
     "country": "France",
-    "leagues": "France-National-3-Group-E.csv",
+    "leagues": "France-National-3-Group-E",
     "first_date": "2021-08-28"
   },
   {
     "country": "France",
-    "leagues": "France-National-3-Centre-Val-de-Loire.csv",
+    "leagues": "France-National-3-Centre-Val-de-Loire",
     "first_date": "2007-08-17"
   },
   {
     "country": "France",
-    "leagues": "France-National-3-Group-H.csv",
+    "leagues": "France-National-3-Group-H",
     "first_date": "2021-08-28"
   },
   {
     "country": "France",
-    "leagues": "France-Division-1-Women.csv",
+    "leagues": "France-Division-1-Women",
     "first_date": "2018-08-25"
   },
   {
     "country": "France",
-    "leagues": "France-National-3-Group-A.csv",
+    "leagues": "France-National-3-Group-A",
     "first_date": "2021-08-28"
   },
   {
     "country": "Gabon",
-    "leagues": "Gabon-Champoinnat-D1.csv",
+    "leagues": "Gabon-Champoinnat-D1",
     "first_date": "2010-11-27"
   },
   {
     "country": "Gambia",
-    "leagues": "Gambia-GFA-League.csv",
+    "leagues": "Gambia-GFA-League",
     "first_date": "2018-11-25"
   },
   {
     "country": "Georgia",
-    "leagues": "Georgia-Erovnuli-Liga-2.csv",
+    "leagues": "Georgia-Erovnuli-Liga-2",
     "first_date": "2009-08-21"
   },
   {
     "country": "Georgia",
-    "leagues": "Georgia-Liga-3.csv",
+    "leagues": "Georgia-Liga-3",
     "first_date": "2018-03-05"
   },
   {
     "country": "Georgia",
-    "leagues": "Georgia-Crystalbet-Erovnuli-Liga.csv",
+    "leagues": "Georgia-Crystalbet-Erovnuli-Liga",
     "first_date": "2005-07-29"
   },
   {
     "country": "Germany",
-    "leagues": "Germany-Oberliga-Hamburg.csv",
+    "leagues": "Germany-Oberliga-Hamburg",
     "first_date": "2008-08-08"
   },
   {
     "country": "Germany",
-    "leagues": "Germany-Oberliga-Rheinland-Pfalz-Saar.csv",
+    "leagues": "Germany-Oberliga-Rheinland-Pfalz-Saar",
     "first_date": "2012-08-03"
   },
   {
     "country": "Germany",
-    "leagues": "Germany-Oberliga-Nordost-Nord.csv",
+    "leagues": "Germany-Oberliga-Nordost-Nord",
     "first_date": "2009-05-30"
   },
   {
     "country": "Germany",
-    "leagues": "Germany-2-Bundesliga-Women.csv",
+    "leagues": "Germany-2-Bundesliga-Women",
     "first_date": "2020-10-04"
   },
   {
     "country": "Germany",
-    "leagues": "Germany-Regionalliga-Women-Nord.csv",
+    "leagues": "Germany-Regionalliga-Women-Nord",
     "first_date": "2022-02-13"
   },
   {
     "country": "Germany",
-    "leagues": "Germany-Oberliga-Baden-Wurttemberg.csv",
+    "leagues": "Germany-Oberliga-Baden-Wurttemberg",
     "first_date": "2005-08-11"
   },
   {
     "country": "Germany",
-    "leagues": "Germany-Oberliga-Schleswig-Holstein.csv",
+    "leagues": "Germany-Oberliga-Schleswig-Holstein",
     "first_date": "2008-08-08"
   },
   {
     "country": "Germany",
-    "leagues": "Germany-Oberliga-Bayern-Nord.csv",
+    "leagues": "Germany-Oberliga-Bayern-Nord",
     "first_date": "2012-07-20"
   },
   {
     "country": "Germany",
-    "leagues": "Germany-Oberliga-Westfalen.csv",
+    "leagues": "Germany-Oberliga-Westfalen",
     "first_date": "2012-08-17"
   },
   {
     "country": "Germany",
-    "leagues": "Germany-Oberliga-Nordost-Sued.csv",
+    "leagues": "Germany-Oberliga-Nordost-Sued",
     "first_date": "2010-08-08"
   },
   {
     "country": "Germany",
-    "leagues": "Germany-Junioren-Bundesliga.csv",
+    "leagues": "Germany-Junioren-Bundesliga",
     "first_date": "2017-08-26"
   },
   {
     "country": "Germany",
-    "leagues": "Germany-Regionalliga-Suedwest.csv",
+    "leagues": "Germany-Regionalliga-Suedwest",
     "first_date": "2013-07-26"
   },
   {
     "country": "Germany",
-    "leagues": "Germany-Oberliga-Bremen.csv",
+    "leagues": "Germany-Oberliga-Bremen",
     "first_date": "2008-08-22"
   },
   {
     "country": "Germany",
-    "leagues": "Germany-Oberliga-Sudwest.csv",
+    "leagues": "Germany-Oberliga-Sudwest",
     "first_date": "2005-08-01"
   },
   {
     "country": "Germany",
-    "leagues": "Germany-Oberliga-Play-offs.csv",
+    "leagues": "Germany-Oberliga-Play-offs",
     "first_date": "2023-05-27"
   },
   {
     "country": "Germany",
-    "leagues": "Germany-Regionalliga-Women-West.csv",
+    "leagues": "Germany-Regionalliga-Women-West",
     "first_date": "2021-12-19"
   },
   {
     "country": "Germany",
-    "leagues": "Germany-3-Liga.csv",
+    "leagues": "Germany-3-Liga",
     "first_date": "2008-07-25"
   },
   {
     "country": "Germany",
-    "leagues": "Germany-Oberliga-Hessen.csv",
+    "leagues": "Germany-Oberliga-Hessen",
     "first_date": "2005-08-04"
   },
   {
     "country": "Germany",
-    "leagues": "Germany-Bundesliga.csv",
+    "leagues": "Germany-Bundesliga",
     "first_date": "2005-08-05"
   },
   {
     "country": "Germany",
-    "leagues": "Germany-Oberliga-NRW.csv",
+    "leagues": "Germany-Oberliga-NRW",
     "first_date": "2009-08-07"
   },
   {
     "country": "Germany",
-    "leagues": "Germany-Oberliga-Bayern.csv",
+    "leagues": "Germany-Oberliga-Bayern",
     "first_date": "2005-07-28"
   },
   {
     "country": "Germany",
-    "leagues": "Germany-Regionalliga-Sud.csv",
+    "leagues": "Germany-Regionalliga-Sud",
     "first_date": "2005-08-04"
   },
   {
     "country": "Germany",
-    "leagues": "Germany-Regionalliga-Bayern.csv",
+    "leagues": "Germany-Regionalliga-Bayern",
     "first_date": "2012-07-19"
   },
   {
     "country": "Germany",
-    "leagues": "Germany-Regionalliga-Nordost.csv",
+    "leagues": "Germany-Regionalliga-Nordost",
     "first_date": "2012-08-10"
   },
   {
     "country": "Germany",
-    "leagues": "Germany-Regionalliga-West.csv",
+    "leagues": "Germany-Regionalliga-West",
     "first_date": "2008-08-15"
   },
   {
     "country": "Germany",
-    "leagues": "Germany-Bundesliga-Women.csv",
+    "leagues": "Germany-Bundesliga-Women",
     "first_date": "2019-08-16"
   },
   {
     "country": "Germany",
-    "leagues": "Germany-Oberliga-Mittelrhein.csv",
+    "leagues": "Germany-Oberliga-Mittelrhein",
     "first_date": "2012-08-25"
   },
   {
     "country": "Germany",
-    "leagues": "Germany-Oberliga-Niedersachsen.csv",
+    "leagues": "Germany-Oberliga-Niedersachsen",
     "first_date": "2010-08-06"
   },
   {
     "country": "Germany",
-    "leagues": "Germany-Regionalliga-Women-Play-offs.csv",
+    "leagues": "Germany-Regionalliga-Women-Play-offs",
     "first_date": "2021-06-06"
   },
   {
     "country": "Germany",
-    "leagues": "Germany-2-Bundesliga.csv",
+    "leagues": "Germany-2-Bundesliga",
     "first_date": "2005-08-05"
   },
   {
     "country": "Germany",
-    "leagues": "Germany-Oberliga-Bayern-Sued.csv",
+    "leagues": "Germany-Oberliga-Bayern-Sued",
     "first_date": "2012-07-17"
   },
   {
     "country": "Germany",
-    "leagues": "Germany-Regionalliga-Nord.csv",
+    "leagues": "Germany-Regionalliga-Nord",
     "first_date": "2005-07-28"
   },
   {
     "country": "Germany",
-    "leagues": "Germany-Oberliga-Niederrhein.csv",
+    "leagues": "Germany-Oberliga-Niederrhein",
     "first_date": "2012-08-03"
   },
   {
     "country": "Ghana",
-    "leagues": "Ghana-Premier-League.csv",
+    "leagues": "Ghana-Premier-League",
     "first_date": "2006-08-18"
   },
   {
     "country": "Gibraltar",
-    "leagues": "Gibraltar-Premier-Division.csv",
+    "leagues": "Gibraltar-Premier-Division",
     "first_date": "2018-08-13"
   },
   {
     "country": "Greece",
-    "leagues": "Greece-Gamma-Ethniki-Group-5.csv",
+    "leagues": "Greece-Gamma-Ethniki-Group-5",
     "first_date": "2013-09-22"
   },
   {
     "country": "Greece",
-    "leagues": "Greece-Gamma-Ethniki-Group-10.csv",
+    "leagues": "Greece-Gamma-Ethniki-Group-10",
     "first_date": "2020-10-18"
   },
   {
     "country": "Greece",
-    "leagues": "Greece-Super-League-2-Group-B.csv",
+    "leagues": "Greece-Super-League-2-Group-B",
     "first_date": "2021-11-24"
   },
   {
     "country": "Greece",
-    "leagues": "Greece-Gamma-Ethniki-Group-6.csv",
+    "leagues": "Greece-Gamma-Ethniki-Group-6",
     "first_date": "2018-09-29"
   },
   {
     "country": "Greece",
-    "leagues": "Greece-Gamma-Ethniki-Group-8.csv",
+    "leagues": "Greece-Gamma-Ethniki-Group-8",
     "first_date": "2018-09-30"
   },
   {
     "country": "Greece",
-    "leagues": "Greece-Super-League.csv",
+    "leagues": "Greece-Super-League",
     "first_date": "2005-08-26"
   },
   {
     "country": "Greece",
-    "leagues": "Greece-Super-League-2-South.csv",
+    "leagues": "Greece-Super-League-2-South",
     "first_date": "2023-09-23"
   },
   {
     "country": "Greece",
-    "leagues": "Greece-Gamma-Ethnik-Play-offs.csv",
+    "leagues": "Greece-Gamma-Ethnik-Play-offs",
     "first_date": "2019-05-05"
   },
   {
     "country": "Greece",
-    "leagues": "Greece-Gamma-Ethniki-Group-2.csv",
+    "leagues": "Greece-Gamma-Ethniki-Group-2",
     "first_date": "2013-09-22"
   },
   {
     "country": "Greece",
-    "leagues": "Greece-Gamma-Ethniki-Group-3.csv",
+    "leagues": "Greece-Gamma-Ethniki-Group-3",
     "first_date": "2013-09-22"
   },
   {
     "country": "Greece",
-    "leagues": "Greece-Greek-Cup.csv",
+    "leagues": "Greece-Greek-Cup",
     "first_date": "2014-08-28"
   },
   {
     "country": "Greece",
-    "leagues": "Greece-Football-League.csv",
+    "leagues": "Greece-Football-League",
     "first_date": "2005-09-23"
   },
   {
     "country": "Greece",
-    "leagues": "Greece-Super-League-2-Group-A.csv",
+    "leagues": "Greece-Super-League-2-Group-A",
     "first_date": "2019-09-28"
   },
   {
     "country": "Greece",
-    "leagues": "Greece-Gamma-Ethniki-Group-7.csv",
+    "leagues": "Greece-Gamma-Ethniki-Group-7",
     "first_date": "2013-09-22"
   },
   {
     "country": "Greece",
-    "leagues": "Greece-Gamma-Ethniki-Group-4.csv",
+    "leagues": "Greece-Gamma-Ethniki-Group-4",
     "first_date": "2013-09-22"
   },
   {
     "country": "Greece",
-    "leagues": "Greece-Gamma-Ethniki-Group-1.csv",
+    "leagues": "Greece-Gamma-Ethniki-Group-1",
     "first_date": "2013-09-22"
   },
   {
     "country": "Greece",
-    "leagues": "Greece-Super-League-2-North.csv",
+    "leagues": "Greece-Super-League-2-North",
     "first_date": "2023-08-18"
   },
   {
     "country": "Greece",
-    "leagues": "Greece-Gamma-Ethniki-Group-9.csv",
+    "leagues": "Greece-Gamma-Ethniki-Group-9",
     "first_date": "2020-10-11"
   },
   {
     "country": "Greece",
-    "leagues": "Greece-Super-League-K19.csv",
+    "leagues": "Greece-Super-League-K19",
     "first_date": "2019-08-24"
   },
   {
     "country": "Guadeloupe",
-    "leagues": "Guadeloupe-Division-d-Honneur.csv",
+    "leagues": "Guadeloupe-Division-d-Honneur",
     "first_date": "2008-09-05"
   },
   {
     "country": "Guatemala",
-    "leagues": "Guatemala-Primera-Division.csv",
+    "leagues": "Guatemala-Primera-Division",
     "first_date": "2009-08-01"
   },
   {
     "country": "Guatemala",
-    "leagues": "Guatemala-Liga-Nacional.csv",
+    "leagues": "Guatemala-Liga-Nacional",
     "first_date": "2005-11-29"
   },
   {
     "country": "Guinea",
-    "leagues": "Guinea-Ligue-1.csv",
+    "leagues": "Guinea-Ligue-1",
     "first_date": "2014-12-12"
   },
   {
     "country": "Haiti",
-    "leagues": "Haiti-Ligue-Haitienne.csv",
+    "leagues": "Haiti-Ligue-Haitienne",
     "first_date": "2007-08-21"
   },
   {
     "country": "Honduras",
-    "leagues": "Honduras-Liga-Nacional.csv",
+    "leagues": "Honduras-Liga-Nacional",
     "first_date": "2006-12-02"
   },
   {
     "country": "Hong_kong",
-    "leagues": "Hong-Kong-First-Division.csv",
+    "leagues": "Hong-Kong-First-Division",
     "first_date": "2008-09-14"
   },
   {
     "country": "Hong_kong",
-    "leagues": "Hong-Kong-Premier-League.csv",
+    "leagues": "Hong-Kong-Premier-League",
     "first_date": "2005-09-02"
   },
   {
     "country": "Hungary",
-    "leagues": "Hungary-NB-3-Tisza.csv",
+    "leagues": "Hungary-NB-3-Tisza",
     "first_date": "2008-08-08"
   },
   {
     "country": "Hungary",
-    "leagues": "Hungary-NB-3-Nyugati.csv",
+    "leagues": "Hungary-NB-3-Nyugati",
     "first_date": "2016-08-06"
   },
   {
     "country": "Hungary",
-    "leagues": "Hungary-NB-3-Bakony.csv",
+    "leagues": "Hungary-NB-3-Bakony",
     "first_date": "2008-08-08"
   },
   {
     "country": "Hungary",
-    "leagues": "Hungary-NB-3-Duna.csv",
+    "leagues": "Hungary-NB-3-Duna",
     "first_date": "2008-08-05"
   },
   {
     "country": "Hungary",
-    "leagues": "Hungary-NB-3-Keleti.csv",
+    "leagues": "Hungary-NB-3-Keleti",
     "first_date": "2020-08-12"
   },
   {
     "country": "Hungary",
-    "leagues": "Hungary-NB-3-Matra.csv",
+    "leagues": "Hungary-NB-3-Matra",
     "first_date": "2008-08-08"
   },
   {
     "country": "Hungary",
-    "leagues": "Hungary-NB-3-Kozep.csv",
+    "leagues": "Hungary-NB-3-Kozep",
     "first_date": "2020-08-12"
   },
   {
     "country": "Hungary",
-    "leagues": "Hungary-NB-3-Alfold.csv",
+    "leagues": "Hungary-NB-3-Alfold",
     "first_date": "2008-08-08"
   },
   {
     "country": "Hungary",
-    "leagues": "Hungary-OTP-Bank-Liga.csv",
+    "leagues": "Hungary-OTP-Bank-Liga",
     "first_date": "2005-07-29"
   },
   {
     "country": "Hungary",
-    "leagues": "Hungary-Merkantil-Bank-Liga.csv",
+    "leagues": "Hungary-Merkantil-Bank-Liga",
     "first_date": "2008-08-09"
   },
   {
     "country": "Hungary",
-    "leagues": "Hungary-NB-2-East.csv",
+    "leagues": "Hungary-NB-2-East",
     "first_date": "2005-08-05"
   },
   {
     "country": "Hungary",
-    "leagues": "Hungary-Nb-I-Women.csv",
+    "leagues": "Hungary-Nb-I-Women",
     "first_date": "2020-05-28"
   },
   {
     "country": "Hungary",
-    "leagues": "Hungary-NB-3-Drava.csv",
+    "leagues": "Hungary-NB-3-Drava",
     "first_date": "2008-08-08"
   },
   {
     "country": "Iceland",
-    "leagues": "Iceland-U19-A-Division.csv",
+    "leagues": "Iceland-U19-A-Division",
     "first_date": "2021-01-30"
   },
   {
     "country": "Iceland",
-    "leagues": "Iceland-League-Cup.csv",
+    "leagues": "Iceland-League-Cup",
     "first_date": "2021-02-12"
   },
   {
     "country": "Iceland",
-    "leagues": "Iceland-Fotbolti-net-Cup-C.csv",
+    "leagues": "Iceland-Fotbolti-net-Cup-C",
     "first_date": "2021-01-23"
   },
   {
     "country": "Iceland",
-    "leagues": "Iceland-U19-League-Women.csv",
+    "leagues": "Iceland-U19-League-Women",
     "first_date": "2021-05-02"
   },
   {
     "country": "Iceland",
-    "leagues": "Iceland-Pepsideild.csv",
+    "leagues": "Iceland-Pepsideild",
     "first_date": "2021-04-30"
   },
   {
     "country": "Iceland",
-    "leagues": "Iceland-Premier-League-Women.csv",
+    "leagues": "Iceland-Premier-League-Women",
     "first_date": "2021-05-04"
   },
   {
     "country": "Iceland",
-    "leagues": "Iceland-League-Cup-B.csv",
+    "leagues": "Iceland-League-Cup-B",
     "first_date": "2022-02-18"
   },
   {
     "country": "Iceland",
-    "leagues": "Iceland-1-Deild-Women.csv",
+    "leagues": "Iceland-1-Deild-Women",
     "first_date": "2021-05-06"
   },
   {
     "country": "Iceland",
-    "leagues": "Iceland-U19-League.csv",
+    "leagues": "Iceland-U19-League",
     "first_date": "2021-05-01"
   },
   {
     "country": "Iceland",
-    "leagues": "Iceland-Northern-Iceland-Cup.csv",
+    "leagues": "Iceland-Northern-Iceland-Cup",
     "first_date": "2021-01-24"
   },
   {
     "country": "Iceland",
-    "leagues": "Iceland-Fotbolti-Net-Cup-Cup-B.csv",
+    "leagues": "Iceland-Fotbolti-Net-Cup-Cup-B",
     "first_date": "2021-01-15"
   },
   {
     "country": "Iceland",
-    "leagues": "Iceland-4-Deild.csv",
+    "leagues": "Iceland-4-Deild",
     "first_date": "2021-05-13"
   },
   {
     "country": "Iceland",
-    "leagues": "Iceland-League-Cup-Women-A.csv",
+    "leagues": "Iceland-League-Cup-Women-A",
     "first_date": "2021-02-13"
   },
   {
     "country": "Iceland",
-    "leagues": "Iceland-Inkasso-Deildin.csv",
+    "leagues": "Iceland-Inkasso-Deildin",
     "first_date": "2021-05-06"
   },
   {
     "country": "Iceland",
-    "leagues": "Iceland-3-Deild.csv",
+    "leagues": "Iceland-3-Deild",
     "first_date": "2021-05-08"
   },
   {
     "country": "Iceland",
-    "leagues": "Iceland-League-Cup-Women-B.csv",
+    "leagues": "Iceland-League-Cup-Women-B",
     "first_date": "2021-02-25"
   },
   {
     "country": "Iceland",
-    "leagues": "Iceland-U19-B-Division.csv",
+    "leagues": "Iceland-U19-B-Division",
     "first_date": "2021-01-30"
   },
   {
     "country": "Iceland",
-    "leagues": "Iceland-Fotbolti-Net-Cup-Cup-A.csv",
+    "leagues": "Iceland-Fotbolti-Net-Cup-Cup-A",
     "first_date": "2021-01-15"
   },
   {
     "country": "Iceland",
-    "leagues": "Iceland-Reykjavik-Cup.csv",
+    "leagues": "Iceland-Reykjavik-Cup",
     "first_date": "2024-01-06"
   },
   {
     "country": "Iceland",
-    "leagues": "Iceland-Reykjavik-Youth-Cup.csv",
+    "leagues": "Iceland-Reykjavik-Youth-Cup",
     "first_date": "2018-11-10"
   },
   {
     "country": "Iceland",
-    "leagues": "Iceland-League-Cup-C.csv",
+    "leagues": "Iceland-League-Cup-C",
     "first_date": "2021-02-27"
   },
   {
     "country": "Iceland",
-    "leagues": "Iceland-League-Cup-Women-C.csv",
+    "leagues": "Iceland-League-Cup-Women-C",
     "first_date": "2021-02-25"
   },
   {
     "country": "Iceland",
-    "leagues": "Iceland-2-Deild.csv",
+    "leagues": "Iceland-2-Deild",
     "first_date": "2021-05-07"
   },
   {
     "country": "India",
-    "leagues": "India-I-League.csv",
+    "leagues": "India-I-League",
     "first_date": "2006-01-09"
   },
   {
     "country": "India",
-    "leagues": "India-Calcutta-Premier-Division-A.csv",
+    "leagues": "India-Calcutta-Premier-Division-A",
     "first_date": "2017-08-12"
   },
   {
     "country": "India",
-    "leagues": "India-Santosh-Trophy.csv",
+    "leagues": "India-Santosh-Trophy",
     "first_date": "2010-07-14"
   },
   {
     "country": "India",
-    "leagues": "India-I-League-2nd-Division.csv",
+    "leagues": "India-I-League-2nd-Division",
     "first_date": "2020-10-08"
   },
   {
     "country": "India",
-    "leagues": "India-Indian-Super-League.csv",
+    "leagues": "India-Indian-Super-League",
     "first_date": "2014-10-12"
   },
   {
     "country": "Indonesia",
-    "leagues": "Indonesia-Liga-1.csv",
+    "leagues": "Indonesia-Liga-1",
     "first_date": "2008-07-12"
   },
   {
     "country": "Indonesia",
-    "leagues": "Indonesia-Liga-2.csv",
+    "leagues": "Indonesia-Liga-2",
     "first_date": "2013-10-21"
   },
   {
     "country": "Iran",
-    "leagues": "Iran-Azadegan-League.csv",
+    "leagues": "Iran-Azadegan-League",
     "first_date": "2007-10-27"
   },
   {
     "country": "Iran",
-    "leagues": "Iran-Azadegan-League-Group-A.csv",
+    "leagues": "Iran-Azadegan-League-Group-A",
     "first_date": "2007-10-27"
   },
   {
     "country": "Iran",
-    "leagues": "Iran-Persian-Gulf-Pro-League.csv",
+    "leagues": "Iran-Persian-Gulf-Pro-League",
     "first_date": "2005-08-31"
   },
   {
     "country": "Iran",
-    "leagues": "Iran-Azadegan-League-Group-B.csv",
+    "leagues": "Iran-Azadegan-League-Group-B",
     "first_date": "2007-10-27"
   },
   {
     "country": "Iraq",
-    "leagues": "Iraq-Iraqi-League-South.csv",
+    "leagues": "Iraq-Iraqi-League-South",
     "first_date": "2010-11-27"
   },
   {
     "country": "Iraq",
-    "leagues": "Iraq-Iraqi-League.csv",
+    "leagues": "Iraq-Iraqi-League",
     "first_date": "2007-11-25"
   },
   {
     "country": "Israel",
-    "leagues": "Israel-Ligat-ha-Al.csv",
+    "leagues": "Israel-Ligat-ha-Al",
     "first_date": "2005-08-25"
   },
   {
     "country": "Israel",
-    "leagues": "Israel-Ligat-Al-Women.csv",
+    "leagues": "Israel-Ligat-Al-Women",
     "first_date": "2019-11-21"
   },
   {
     "country": "Israel",
-    "leagues": "Israel-Toto-Cup-Ligat-Leumit.csv",
+    "leagues": "Israel-Toto-Cup-Ligat-Leumit",
     "first_date": "2021-08-05"
   },
   {
     "country": "Israel",
-    "leagues": "Israel-Liga-Alef-North.csv",
+    "leagues": "Israel-Liga-Alef-North",
     "first_date": "2019-09-12"
   },
   {
     "country": "Israel",
-    "leagues": "Israel-Lig-Bet-Play-offs.csv",
+    "leagues": "Israel-Lig-Bet-Play-offs",
     "first_date": "2018-09-21"
   },
   {
     "country": "Israel",
-    "leagues": "Israel-Liga-Bet-South-A.csv",
+    "leagues": "Israel-Liga-Bet-South-A",
     "first_date": "2021-12-03"
   },
   {
     "country": "Israel",
-    "leagues": "Israel-Liga-Bet-North-A.csv",
+    "leagues": "Israel-Liga-Bet-North-A",
     "first_date": "2021-12-17"
   },
   {
     "country": "Israel",
-    "leagues": "Israel-Liga-Bet-North-B.csv",
+    "leagues": "Israel-Liga-Bet-North-B",
     "first_date": "2021-12-17"
   },
   {
     "country": "Israel",
-    "leagues": "Israel-Liga-Leumit.csv",
+    "leagues": "Israel-Liga-Leumit",
     "first_date": "2005-08-25"
   },
   {
     "country": "Israel",
-    "leagues": "Israel-Liga-Bet-South-B.csv",
+    "leagues": "Israel-Liga-Bet-South-B",
     "first_date": "2021-12-17"
   },
   {
     "country": "Israel",
-    "leagues": "Israel-Toto-Cup-Ligat-Al.csv",
+    "leagues": "Israel-Toto-Cup-Ligat-Al",
     "first_date": "2012-08-04"
   },
   {
     "country": "Israel",
-    "leagues": "Israel-Liga-Alef-Sued.csv",
+    "leagues": "Israel-Liga-Alef-Sued",
     "first_date": "2021-12-17"
   },
   {
     "country": "Italy",
-    "leagues": "Italy-Serie-A-Women.csv",
+    "leagues": "Italy-Serie-A-Women",
     "first_date": "2018-09-21"
   },
   {
     "country": "Italy",
-    "leagues": "Italy-Serie-D-Girone-E.csv",
+    "leagues": "Italy-Serie-D-Girone-E",
     "first_date": "2011-09-03"
   },
   {
     "country": "Italy",
-    "leagues": "Italy-Serie-C-Girone-B.csv",
+    "leagues": "Italy-Serie-C-Girone-B",
     "first_date": "2011-09-04"
   },
   {
     "country": "Italy",
-    "leagues": "Italy-Primavera-2.csv",
+    "leagues": "Italy-Primavera-2",
     "first_date": "2017-10-21"
   },
   {
     "country": "Italy",
-    "leagues": "Italy-Serie-D-Girone-B.csv",
+    "leagues": "Italy-Serie-D-Girone-B",
     "first_date": "2011-09-04"
   },
   {
     "country": "Italy",
-    "leagues": "Italy-Coppa-Italia-Serie-C.csv",
+    "leagues": "Italy-Coppa-Italia-Serie-C",
     "first_date": "2017-11-21"
   },
   {
     "country": "Italy",
-    "leagues": "Italy-Lega-Pro-2-Girone-A.csv",
+    "leagues": "Italy-Lega-Pro-2-Girone-A",
     "first_date": "2005-08-27"
   },
   {
     "country": "Italy",
-    "leagues": "Italy-PrimaVera-1.csv",
+    "leagues": "Italy-PrimaVera-1",
     "first_date": "2017-09-26"
   },
   {
     "country": "Italy",
-    "leagues": "Italy-Serie-D-Girone-D.csv",
+    "leagues": "Italy-Serie-D-Girone-D",
     "first_date": "2011-09-04"
   },
   {
     "country": "Italy",
-    "leagues": "Italy-Serie-A.csv",
+    "leagues": "Italy-Serie-A",
     "first_date": "2005-08-26"
   },
   {
     "country": "Italy",
-    "leagues": "Italy-Serie-D-Girone-C.csv",
+    "leagues": "Italy-Serie-D-Girone-C",
     "first_date": "2011-09-04"
   },
   {
     "country": "Italy",
-    "leagues": "Italy-Lega-Pro-2-Girone-B.csv",
+    "leagues": "Italy-Lega-Pro-2-Girone-B",
     "first_date": "2005-08-27"
   },
   {
     "country": "Italy",
-    "leagues": "Italy-Serie-D-Girone-H.csv",
+    "leagues": "Italy-Serie-D-Girone-H",
     "first_date": "2011-09-04"
   },
   {
     "country": "Italy",
-    "leagues": "Italy-Serie-D-Girone-G.csv",
+    "leagues": "Italy-Serie-D-Girone-G",
     "first_date": "2011-09-04"
   },
   {
     "country": "Italy",
-    "leagues": "Italy-Serie-B.csv",
+    "leagues": "Italy-Serie-B",
     "first_date": "2005-08-25"
   },
   {
     "country": "Italy",
-    "leagues": "Italy-Serie-C-Girone-C.csv",
+    "leagues": "Italy-Serie-C-Girone-C",
     "first_date": "2014-08-29"
   },
   {
     "country": "Italy",
-    "leagues": "Italy-Serie-C-Play-offs.csv",
+    "leagues": "Italy-Serie-C-Play-offs",
     "first_date": "2019-05-11"
   },
   {
     "country": "Italy",
-    "leagues": "Italy-Lega-Pro-2-Girone-C.csv",
+    "leagues": "Italy-Lega-Pro-2-Girone-C",
     "first_date": "2005-08-26"
   },
   {
     "country": "Italy",
-    "leagues": "Italy-Serie-D-Girone-I.csv",
+    "leagues": "Italy-Serie-D-Girone-I",
     "first_date": "2011-09-04"
   },
   {
     "country": "Italy",
-    "leagues": "Italy-Serie-D-Playoffs.csv",
+    "leagues": "Italy-Serie-D-Playoffs",
     "first_date": "2019-05-11"
   },
   {
     "country": "Italy",
-    "leagues": "Italy-Serie-D-Girone-F.csv",
+    "leagues": "Italy-Serie-D-Girone-F",
     "first_date": "2011-09-03"
   },
   {
     "country": "Italy",
-    "leagues": "Italy-Serie-D-Girone-A.csv",
+    "leagues": "Italy-Serie-D-Girone-A",
     "first_date": "2011-09-03"
   },
   {
     "country": "Italy",
-    "leagues": "Italy-Coppa-Italia-Women.csv",
+    "leagues": "Italy-Coppa-Italia-Women",
     "first_date": "2018-09-16"
   },
   {
     "country": "Italy",
-    "leagues": "Italy-Serie-C-Girone-A.csv",
+    "leagues": "Italy-Serie-C-Girone-A",
     "first_date": "2011-09-04"
   },
   {
     "country": "Jamaica",
-    "leagues": "Jamaica-Premier-League.csv",
+    "leagues": "Jamaica-Premier-League",
     "first_date": "2006-09-09"
   },
   {
     "country": "Japan",
-    "leagues": "Japan-J3-League.csv",
+    "leagues": "Japan-J3-League",
     "first_date": "2016-03-13"
   },
   {
     "country": "Japan",
-    "leagues": "Japan-Nadeshiko-League-2.csv",
+    "leagues": "Japan-Nadeshiko-League-2",
     "first_date": "2019-03-21"
   },
   {
     "country": "Japan",
-    "leagues": "Japan-J-League-Cup.csv",
+    "leagues": "Japan-J-League-Cup",
     "first_date": "2021-03-02"
   },
   {
     "country": "Japan",
-    "leagues": "Japan-J-League.csv",
+    "leagues": "Japan-J-League",
     "first_date": "2005-03-04"
   },
   {
     "country": "Japan",
-    "leagues": "Japan-Japan-Football-League.csv",
+    "leagues": "Japan-Japan-Football-League",
     "first_date": "2019-03-17"
   },
   {
     "country": "Japan",
-    "leagues": "Japan-Nadeshiko-League-1.csv",
+    "leagues": "Japan-Nadeshiko-League-1",
     "first_date": "2019-03-21"
   },
   {
     "country": "Japan",
-    "leagues": "Japan-Ybc-Levain-Cup.csv",
+    "leagues": "Japan-Ybc-Levain-Cup",
     "first_date": "2005-03-18"
   },
   {
     "country": "Japan",
-    "leagues": "Japan-J2-League.csv",
+    "leagues": "Japan-J2-League",
     "first_date": "2005-03-04"
   },
   {
     "country": "Jordan",
-    "leagues": "Jordan-1st-Division.csv",
+    "leagues": "Jordan-1st-Division",
     "first_date": "2019-02-11"
   },
   {
     "country": "Jordan",
-    "leagues": "Jordan-Shield-Cup.csv",
+    "leagues": "Jordan-Shield-Cup",
     "first_date": "2017-08-17"
   },
   {
     "country": "Jordan",
-    "leagues": "Jordan-Premier-League.csv",
+    "leagues": "Jordan-Premier-League",
     "first_date": "2005-10-12"
   },
   {
     "country": "Kazakhstan",
-    "leagues": "Kazakhstan-Premier-League.csv",
+    "leagues": "Kazakhstan-Premier-League",
     "first_date": "2005-04-01"
   },
   {
     "country": "Kazakhstan",
-    "leagues": "Kazakhstan-First-Division.csv",
+    "leagues": "Kazakhstan-First-Division",
     "first_date": "2005-05-05"
   },
   {
     "country": "Kazakhstan",
-    "leagues": "Kazakhstan-Kazakhstan-Cup.csv",
+    "leagues": "Kazakhstan-Kazakhstan-Cup",
     "first_date": "2021-04-22"
   },
   {
     "country": "Kenya",
-    "leagues": "Kenya-Super-League.csv",
+    "leagues": "Kenya-Super-League",
     "first_date": "2018-12-01"
   },
   {
     "country": "Kenya",
-    "leagues": "Kenya-Premier-League.csv",
+    "leagues": "Kenya-Premier-League",
     "first_date": "2009-02-06"
   },
   {
     "country": "Korea_republic",
-    "leagues": "Korea-Republic-National-League.csv",
+    "leagues": "Korea-Republic-National-League",
     "first_date": "2008-04-05"
   },
   {
     "country": "Korea_republic",
-    "leagues": "Korea-Republic-K4-League.csv",
+    "leagues": "Korea-Republic-K4-League",
     "first_date": "2021-03-13"
   },
   {
     "country": "Korea_republic",
-    "leagues": "Korea-Republic-League-Cup.csv",
+    "leagues": "Korea-Republic-League-Cup",
     "first_date": "2005-03-05"
   },
   {
     "country": "Korea_republic",
-    "leagues": "Korea-Republic-WK-League.csv",
+    "leagues": "Korea-Republic-WK-League",
     "first_date": "2019-04-15"
   },
   {
     "country": "Korea_republic",
-    "leagues": "Korea-Republic-K-League-1.csv",
+    "leagues": "Korea-Republic-K-League-1",
     "first_date": "2005-08-23"
   },
   {
     "country": "Korea_republic",
-    "leagues": "Korea-Republic-K3-League-Advanced.csv",
+    "leagues": "Korea-Republic-K3-League-Advanced",
     "first_date": "2008-03-21"
   },
   {
     "country": "Korea_republic",
-    "leagues": "Korea-Republic-K-League-2.csv",
+    "leagues": "Korea-Republic-K-League-2",
     "first_date": "2016-03-26"
   },
   {
     "country": "Kosovo",
-    "leagues": "Kosovo-Superliga.csv",
+    "leagues": "Kosovo-Superliga",
     "first_date": "2018-08-18"
   },
   {
     "country": "Kuwait",
-    "leagues": "Kuwait-Division-1.csv",
+    "leagues": "Kuwait-Division-1",
     "first_date": "2008-10-16"
   },
   {
     "country": "Kuwait",
-    "leagues": "Kuwait-Premier-League.csv",
+    "leagues": "Kuwait-Premier-League",
     "first_date": "2005-11-09"
   },
   {
     "country": "Laos",
-    "leagues": "Laos-Premier-League.csv",
+    "leagues": "Laos-Premier-League",
     "first_date": "2020-07-11"
   },
   {
     "country": "Latvia",
-    "leagues": "Latvia-First-Liga.csv",
+    "leagues": "Latvia-First-Liga",
     "first_date": "2005-04-29"
   },
   {
     "country": "Latvia",
-    "leagues": "Latvia-Virsliga.csv",
+    "leagues": "Latvia-Virsliga",
     "first_date": "2005-04-09"
   },
   {
     "country": "Latvia",
-    "leagues": "Latvia-Women-League.csv",
+    "leagues": "Latvia-Women-League",
     "first_date": "2020-08-20"
   },
   {
     "country": "Lebanon",
-    "leagues": "Lebanon-Premier-League.csv",
+    "leagues": "Lebanon-Premier-League",
     "first_date": "2005-11-11"
   },
   {
     "country": "Lebanon",
-    "leagues": "Lebanon-Elite-Cup.csv",
+    "leagues": "Lebanon-Elite-Cup",
     "first_date": "2021-07-12"
   },
   {
     "country": "Lesotho",
-    "leagues": "Lesotho-Premier-League.csv",
+    "leagues": "Lesotho-Premier-League",
     "first_date": "2018-04-21"
   },
   {
     "country": "Libya",
-    "leagues": "Libya-Premier-League.csv",
+    "leagues": "Libya-Premier-League",
     "first_date": "2005-09-22"
   },
   {
     "country": "Lithuania",
-    "leagues": "Lithuania-A-Lyga.csv",
+    "leagues": "Lithuania-A-Lyga",
     "first_date": "2005-04-11"
   },
   {
     "country": "Lithuania",
-    "leagues": "Lithuania-A-Lyga-Women.csv",
+    "leagues": "Lithuania-A-Lyga-Women",
     "first_date": "2020-08-30"
   },
   {
     "country": "Lithuania",
-    "leagues": "Lithuania-1-Lyga.csv",
+    "leagues": "Lithuania-1-Lyga",
     "first_date": "2005-04-08"
   },
   {
     "country": "Luxembourg",
-    "leagues": "Luxembourg-National-Division.csv",
+    "leagues": "Luxembourg-National-Division",
     "first_date": "2008-08-03"
   },
   {
     "country": "Macao",
-    "leagues": "Macao-Primeira-Division.csv",
+    "leagues": "Macao-Primeira-Division",
     "first_date": "2019-01-23"
   },
   {
     "country": "Macedonia_fyr",
-    "leagues": "Macedonia-FYR-Second-League.csv",
+    "leagues": "Macedonia-FYR-Second-League",
     "first_date": "2005-08-05"
   },
   {
     "country": "Macedonia_fyr",
-    "leagues": "Macedonia-FYR-First-League.csv",
+    "leagues": "Macedonia-FYR-First-League",
     "first_date": "2005-08-05"
   },
   {
     "country": "Malaysia",
-    "leagues": "Malaysia-Malaysia-Cup.csv",
+    "leagues": "Malaysia-Malaysia-Cup",
     "first_date": "2018-08-04"
   },
   {
     "country": "Malaysia",
-    "leagues": "Malaysia-Premier-League.csv",
+    "leagues": "Malaysia-Premier-League",
     "first_date": "2005-12-03"
   },
   {
     "country": "Malaysia",
-    "leagues": "Malaysia-Super-League.csv",
+    "leagues": "Malaysia-Super-League",
     "first_date": "2005-12-02"
   },
   {
     "country": "Maldives",
-    "leagues": "Maldives-Male-League.csv",
+    "leagues": "Maldives-Male-League",
     "first_date": "2018-06-28"
   },
   {
     "country": "Mali",
-    "leagues": "Mali-Premiere-Division.csv",
+    "leagues": "Mali-Premiere-Division",
     "first_date": "2014-12-05"
   },
   {
     "country": "Malta",
-    "leagues": "Malta-Challenge-League.csv",
+    "leagues": "Malta-Challenge-League",
     "first_date": "2021-09-10"
   },
   {
     "country": "Malta",
-    "leagues": "Malta-First-Division.csv",
+    "leagues": "Malta-First-Division",
     "first_date": "2006-09-02"
   },
   {
     "country": "Malta",
-    "leagues": "Malta-Premier-League.csv",
+    "leagues": "Malta-Premier-League",
     "first_date": "2005-08-04"
   },
   {
     "country": "Mauritania",
-    "leagues": "Mauritania-Super-D1.csv",
+    "leagues": "Mauritania-Super-D1",
     "first_date": "2018-09-28"
   },
   {
     "country": "Mauritius",
-    "leagues": "Mauritius-Mauritian-League.csv",
+    "leagues": "Mauritius-Mauritian-League",
     "first_date": "2018-04-23"
   },
   {
     "country": "Mexico",
-    "leagues": "Mexico-Liga-Premier-Serie-B.csv",
+    "leagues": "Mexico-Liga-Premier-Serie-B",
     "first_date": "2019-08-17"
   },
   {
     "country": "Mexico",
-    "leagues": "Mexico-Liga-MX.csv",
+    "leagues": "Mexico-Liga-MX",
     "first_date": "2006-01-19"
   },
   {
     "country": "Mexico",
-    "leagues": "Mexico-Liga-Mx-Women.csv",
+    "leagues": "Mexico-Liga-Mx-Women",
     "first_date": "2018-07-13"
   },
   {
     "country": "Mexico",
-    "leagues": "Mexico-U20-League.csv",
+    "leagues": "Mexico-U20-League",
     "first_date": "2020-08-06"
   },
   {
     "country": "Mexico",
-    "leagues": "Mexico-Copa-MX.csv",
+    "leagues": "Mexico-Copa-MX",
     "first_date": "2016-07-20"
   },
   {
     "country": "Mexico",
-    "leagues": "Mexico-Liga-Premier-Serie-A.csv",
+    "leagues": "Mexico-Liga-Premier-Serie-A",
     "first_date": "2019-08-17"
   },
   {
     "country": "Mexico",
-    "leagues": "Mexico-Liga-de-Expansion-MX.csv",
+    "leagues": "Mexico-Liga-de-Expansion-MX",
     "first_date": "2005-11-22"
   },
   {
     "country": "Moldova",
-    "leagues": "Moldova-National-Division.csv",
+    "leagues": "Moldova-National-Division",
     "first_date": "2005-08-12"
   },
   {
     "country": "Moldova",
-    "leagues": "Moldova-Division-A.csv",
+    "leagues": "Moldova-Division-A",
     "first_date": "2007-08-03"
   },
   {
     "country": "Moldova",
-    "leagues": "Moldova-Super-Liga.csv",
+    "leagues": "Moldova-Super-Liga",
     "first_date": "2023-08-05"
   },
   {
     "country": "Mongolia",
-    "leagues": "Mongolia-Premier-League.csv",
+    "leagues": "Mongolia-Premier-League",
     "first_date": "2019-04-13"
   },
   {
     "country": "Montenegro",
-    "leagues": "Montenegro-Second-League.csv",
+    "leagues": "Montenegro-Second-League",
     "first_date": "2007-08-11"
   },
   {
     "country": "Montenegro",
-    "leagues": "Montenegro-First-League.csv",
+    "leagues": "Montenegro-First-League",
     "first_date": "2006-08-11"
   },
   {
     "country": "Morocco",
-    "leagues": "Morocco-Botola-2.csv",
+    "leagues": "Morocco-Botola-2",
     "first_date": "2006-09-15"
   },
   {
     "country": "Morocco",
-    "leagues": "Morocco-Botola-Pro.csv",
+    "leagues": "Morocco-Botola-Pro",
     "first_date": "2005-09-02"
   },
   {
     "country": "Namibia",
-    "leagues": "Namibia-Premier-League.csv",
+    "leagues": "Namibia-Premier-League",
     "first_date": "2007-09-27"
   },
   {
     "country": "Nepal",
-    "leagues": "Nepal-A-Division.csv",
+    "leagues": "Nepal-A-Division",
     "first_date": "2010-02-20"
   },
   {
     "country": "Netherlands",
-    "leagues": "Netherlands-Tweede-Divisie.csv",
+    "leagues": "Netherlands-Tweede-Divisie",
     "first_date": "2016-08-13"
   },
   {
     "country": "Netherlands",
-    "leagues": "Netherlands-Women-s-Cup.csv",
+    "leagues": "Netherlands-Women-s-Cup",
     "first_date": "2020-09-02"
   },
   {
     "country": "Netherlands",
-    "leagues": "Netherlands-Derde-Divisie-Zondag.csv",
+    "leagues": "Netherlands-Derde-Divisie-Zondag",
     "first_date": "2017-08-27"
   },
   {
     "country": "Netherlands",
-    "leagues": "Netherlands-Eredivisie.csv",
+    "leagues": "Netherlands-Eredivisie",
     "first_date": "2005-08-11"
   },
   {
     "country": "Netherlands",
-    "leagues": "Netherlands-Reserve-League.csv",
+    "leagues": "Netherlands-Reserve-League",
     "first_date": "2017-11-20"
   },
   {
     "country": "Netherlands",
-    "leagues": "Netherlands-Eredivisie-Women.csv",
+    "leagues": "Netherlands-Eredivisie-Women",
     "first_date": "2017-10-15"
   },
   {
     "country": "Netherlands",
-    "leagues": "Netherlands-Derde-Divisie-Zaterdag.csv",
+    "leagues": "Netherlands-Derde-Divisie-Zaterdag",
     "first_date": "2010-08-21"
   },
   {
     "country": "Netherlands",
-    "leagues": "Netherlands-Eredivisie-Playoffs.csv",
+    "leagues": "Netherlands-Eredivisie-Playoffs",
     "first_date": "2017-05-08"
   },
   {
     "country": "Netherlands",
-    "leagues": "Netherlands-Eerste-Divisie.csv",
+    "leagues": "Netherlands-Eerste-Divisie",
     "first_date": "2005-08-11"
   },
   {
     "country": "New_zealand",
-    "leagues": "New-Zealand-National-League-Women.csv",
+    "leagues": "New-Zealand-National-League-Women",
     "first_date": "2020-10-30"
   },
   {
     "country": "New_zealand",
-    "leagues": "New-Zealand-Premiership.csv",
+    "leagues": "New-Zealand-Premiership",
     "first_date": "2005-10-21"
   },
   {
     "country": "New_zealand",
-    "leagues": "New-Zealand-Regional-Leagues.csv",
+    "leagues": "New-Zealand-Regional-Leagues",
     "first_date": "2020-08-29"
   },
   {
     "country": "Nicaragua",
-    "leagues": "Nicaragua-Primera-Division.csv",
+    "leagues": "Nicaragua-Primera-Division",
     "first_date": "2005-07-23"
   },
   {
     "country": "Nicaragua",
-    "leagues": "Nicaragua-Liga-Primera-U20.csv",
+    "leagues": "Nicaragua-Liga-Primera-U20",
     "first_date": "2020-02-09"
   },
   {
     "country": "Nigeria",
-    "leagues": "Nigeria-Premier-League.csv",
+    "leagues": "Nigeria-Premier-League",
     "first_date": "2007-09-23"
   },
   {
     "country": "Nigeria",
-    "leagues": "Nigeria-Npfl.csv",
+    "leagues": "Nigeria-Npfl",
     "first_date": "2018-01-13"
   },
   {
     "country": "Northern_ireland",
-    "leagues": "Northern-Ireland-Championship.csv",
+    "leagues": "Northern-Ireland-Championship",
     "first_date": "2005-09-23"
   },
   {
     "country": "Northern_ireland",
-    "leagues": "Northern-Ireland-Premiership-Women.csv",
+    "leagues": "Northern-Ireland-Premiership-Women",
     "first_date": "2021-04-28"
   },
   {
     "country": "Northern_ireland",
-    "leagues": "Northern-Ireland-Premiership-Development-League.csv",
+    "leagues": "Northern-Ireland-Premiership-Development-League",
     "first_date": "2018-08-04"
   },
   {
     "country": "Northern_ireland",
-    "leagues": "Northern-Ireland-Championship-Women.csv",
+    "leagues": "Northern-Ireland-Championship-Women",
     "first_date": "2021-06-02"
   },
   {
     "country": "Northern_ireland",
-    "leagues": "Northern-Ireland-Premiership.csv",
+    "leagues": "Northern-Ireland-Premiership",
     "first_date": "2005-09-16"
   },
   {
     "country": "Norway",
-    "leagues": "Norway-3-Division-Group-1.csv",
+    "leagues": "Norway-3-Division-Group-1",
     "first_date": "2018-04-13"
   },
   {
     "country": "Norway",
-    "leagues": "Norway-Junior-U19.csv",
+    "leagues": "Norway-Junior-U19",
     "first_date": "2019-05-03"
   },
   {
     "country": "Norway",
-    "leagues": "Norway-Obos-Ligaen.csv",
+    "leagues": "Norway-Obos-Ligaen",
     "first_date": "2006-04-08"
   },
   {
     "country": "Norway",
-    "leagues": "Norway-2-Division-Group-1.csv",
+    "leagues": "Norway-2-Division-Group-1",
     "first_date": "2007-04-13"
   },
   {
     "country": "Norway",
-    "leagues": "Norway-Eliteserien.csv",
+    "leagues": "Norway-Eliteserien",
     "first_date": "2005-04-09"
   },
   {
     "country": "Norway",
-    "leagues": "Norway-Toppserien.csv",
+    "leagues": "Norway-Toppserien",
     "first_date": "2019-03-23"
   },
   {
     "country": "Norway",
-    "leagues": "Norway-2-Division-Group-2.csv",
+    "leagues": "Norway-2-Division-Group-2",
     "first_date": "2007-04-13"
   },
   {
     "country": "Norway",
-    "leagues": "Norway-1-Division-Women.csv",
+    "leagues": "Norway-1-Division-Women",
     "first_date": "2020-09-11"
   },
   {
     "country": "Norway",
-    "leagues": "Norway-2-Division-Group-4.csv",
+    "leagues": "Norway-2-Division-Group-4",
     "first_date": "2007-04-13"
   },
   {
     "country": "Norway",
-    "leagues": "Norway-2-Division-Group-3.csv",
+    "leagues": "Norway-2-Division-Group-3",
     "first_date": "2007-04-13"
   },
   {
     "country": "Oman",
-    "leagues": "Oman-Professional-League.csv",
+    "leagues": "Oman-Professional-League",
     "first_date": "2005-11-08"
   },
   {
     "country": "Pakistan",
-    "leagues": "Pakistan-Premier-League.csv",
+    "leagues": "Pakistan-Premier-League",
     "first_date": "2008-01-04"
   },
   {
     "country": "Palestine",
-    "leagues": "Palestine-West-Bank-League.csv",
+    "leagues": "Palestine-West-Bank-League",
     "first_date": "2017-11-20"
   },
   {
     "country": "Palestine",
-    "leagues": "Palestine-West-Bank-Premier-League.csv",
+    "leagues": "Palestine-West-Bank-Premier-League",
     "first_date": "2023-08-17"
   },
   {
     "country": "Palestine",
-    "leagues": "Palestine-West-Bank-League-1st-Division.csv",
+    "leagues": "Palestine-West-Bank-League-1st-Division",
     "first_date": "2021-09-14"
   },
   {
     "country": "Panama",
-    "leagues": "Panama-Lpf.csv",
+    "leagues": "Panama-Lpf",
     "first_date": "2011-07-16"
   },
   {
     "country": "Panama",
-    "leagues": "Panama-Liga-Prom.csv",
+    "leagues": "Panama-Liga-Prom",
     "first_date": "2021-02-19"
   },
   {
     "country": "Paraguay",
-    "leagues": "Paraguay-Division-1-Clausura.csv",
+    "leagues": "Paraguay-Division-1-Clausura",
     "first_date": "2006-07-13"
   },
   {
     "country": "Paraguay",
-    "leagues": "Paraguay-Division-1.csv",
+    "leagues": "Paraguay-Division-1",
     "first_date": "2006-01-26"
   },
   {
     "country": "Paraguay",
-    "leagues": "Paraguay-Division-Intermedia.csv",
+    "leagues": "Paraguay-Division-Intermedia",
     "first_date": "2007-04-20"
   },
   {
     "country": "Peru",
-    "leagues": "Peru-Copa-Peru.csv",
+    "leagues": "Peru-Copa-Peru",
     "first_date": "2021-10-03"
   },
   {
     "country": "Peru",
-    "leagues": "Peru-Copa-Bicentenario.csv",
+    "leagues": "Peru-Copa-Bicentenario",
     "first_date": "2019-06-21"
   },
   {
     "country": "Peru",
-    "leagues": "Peru-Segunda-Division.csv",
+    "leagues": "Peru-Segunda-Division",
     "first_date": "2006-05-12"
   },
   {
     "country": "Peru",
-    "leagues": "Peru-Primera-Division.csv",
+    "leagues": "Peru-Primera-Division",
     "first_date": "2005-08-05"
   },
   {
     "country": "Poland",
-    "leagues": "Poland-3-Liga-Group-2.csv",
+    "leagues": "Poland-3-Liga-Group-2",
     "first_date": "2022-03-11"
   },
   {
     "country": "Poland",
-    "leagues": "Poland-Ekstraklasa.csv",
+    "leagues": "Poland-Ekstraklasa",
     "first_date": "2005-07-23"
   },
   {
     "country": "Poland",
-    "leagues": "Poland-2-Liga-East.csv",
+    "leagues": "Poland-2-Liga-East",
     "first_date": "2007-08-10"
   },
   {
     "country": "Poland",
-    "leagues": "Poland-2-Liga-West.csv",
+    "leagues": "Poland-2-Liga-West",
     "first_date": "2008-07-26"
   },
   {
     "country": "Poland",
-    "leagues": "Poland-Ekstraliga-Women.csv",
+    "leagues": "Poland-Ekstraliga-Women",
     "first_date": "2018-08-04"
   },
   {
     "country": "Poland",
-    "leagues": "Poland-1-Liga.csv",
+    "leagues": "Poland-1-Liga",
     "first_date": "2005-07-28"
   },
   {
     "country": "Poland",
-    "leagues": "Poland-Central-Youth-League.csv",
+    "leagues": "Poland-Central-Youth-League",
     "first_date": "2016-08-06"
   },
   {
     "country": "Poland",
-    "leagues": "Poland-3-Liga-Group-4.csv",
+    "leagues": "Poland-3-Liga-Group-4",
     "first_date": "2022-03-12"
   },
   {
     "country": "Poland",
-    "leagues": "Poland-3-Liga-Group-1.csv",
+    "leagues": "Poland-3-Liga-Group-1",
     "first_date": "2020-08-07"
   },
   {
     "country": "Poland",
-    "leagues": "Poland-3-Liga-Group-3.csv",
+    "leagues": "Poland-3-Liga-Group-3",
     "first_date": "2022-03-12"
   },
   {
     "country": "Portugal",
-    "leagues": "Portugal-2-Division-Group-C.csv",
+    "leagues": "Portugal-2-Division-Group-C",
     "first_date": "2013-08-24"
   },
   {
     "country": "Portugal",
-    "leagues": "Portugal-Segunda-Liga.csv",
+    "leagues": "Portugal-Segunda-Liga",
     "first_date": "2005-08-20"
   },
   {
     "country": "Portugal",
-    "leagues": "Portugal-2-Division-Sul.csv",
+    "leagues": "Portugal-2-Division-Sul",
     "first_date": "2009-09-06"
   },
   {
     "country": "Portugal",
-    "leagues": "Portugal-Taca-De-Portugal.csv",
+    "leagues": "Portugal-Taca-De-Portugal",
     "first_date": "2007-12-07"
   },
   {
     "country": "Portugal",
-    "leagues": "Portugal-League-Cup.csv",
+    "leagues": "Portugal-League-Cup",
     "first_date": "2012-07-28"
   },
   {
     "country": "Portugal",
-    "leagues": "Portugal-2-Division-Group-B.csv",
+    "leagues": "Portugal-2-Division-Group-B",
     "first_date": "2013-08-24"
   },
   {
     "country": "Portugal",
-    "leagues": "Portugal-2-Division-Centro.csv",
+    "leagues": "Portugal-2-Division-Centro",
     "first_date": "2005-09-03"
   },
   {
     "country": "Portugal",
-    "leagues": "Portugal-2-Division-Norte.csv",
+    "leagues": "Portugal-2-Division-Norte",
     "first_date": "2009-09-06"
   },
   {
     "country": "Portugal",
-    "leagues": "Portugal-2-Division-Group-G.csv",
+    "leagues": "Portugal-2-Division-Group-G",
     "first_date": "2013-08-25"
   },
   {
     "country": "Portugal",
-    "leagues": "Portugal-Primeira-Liga.csv",
+    "leagues": "Portugal-Primeira-Liga",
     "first_date": "2005-08-18"
   },
   {
     "country": "Portugal",
-    "leagues": "Portugal-2-Division-Group-A.csv",
+    "leagues": "Portugal-2-Division-Group-A",
     "first_date": "2013-08-25"
   },
   {
     "country": "Portugal",
-    "leagues": "Portugal-Liga-Revelacao-U23.csv",
+    "leagues": "Portugal-Liga-Revelacao-U23",
     "first_date": "2018-08-18"
   },
   {
     "country": "Portugal",
-    "leagues": "Portugal-2-Division-Group-F.csv",
+    "leagues": "Portugal-2-Division-Group-F",
     "first_date": "2013-08-25"
   },
   {
     "country": "Portugal",
-    "leagues": "Portugal-2-Division-Group-E.csv",
+    "leagues": "Portugal-2-Division-Group-E",
     "first_date": "2013-08-25"
   },
   {
     "country": "Portugal",
-    "leagues": "Portugal-Liga-Portugal.csv",
+    "leagues": "Portugal-Liga-Portugal",
     "first_date": "2021-08-06"
   },
   {
     "country": "Portugal",
-    "leagues": "Portugal-2-Division-Group-D.csv",
+    "leagues": "Portugal-2-Division-Group-D",
     "first_date": "2013-08-25"
   },
   {
     "country": "Portugal",
-    "leagues": "Portugal-2-Division-Group-H.csv",
+    "leagues": "Portugal-2-Division-Group-H",
     "first_date": "2013-08-25"
   },
   {
     "country": "Qatar",
-    "leagues": "Qatar-QSL-Cup.csv",
+    "leagues": "Qatar-QSL-Cup",
     "first_date": "2018-09-08"
   },
   {
     "country": "Qatar",
-    "leagues": "Qatar-Q-League.csv",
+    "leagues": "Qatar-Q-League",
     "first_date": "2008-10-27"
   },
   {
     "country": "Qatar",
-    "leagues": "Qatar-U23-League.csv",
+    "leagues": "Qatar-U23-League",
     "first_date": "2021-01-22"
   },
   {
     "country": "Qatar",
-    "leagues": "Qatar-Premier-League.csv",
+    "leagues": "Qatar-Premier-League",
     "first_date": "2005-09-15"
   },
   {
     "country": "Republic_of_ireland",
-    "leagues": "Republic-of-Ireland-Premier-Division.csv",
+    "leagues": "Republic-of-Ireland-Premier-Division",
     "first_date": "2005-03-15"
   },
   {
     "country": "Republic_of_ireland",
-    "leagues": "Republic-of-Ireland-First-Division.csv",
+    "leagues": "Republic-of-Ireland-First-Division",
     "first_date": "2005-03-17"
   },
   {
     "country": "Republic_of_ireland",
-    "leagues": "Republic-of-Ireland-FAI-Cup.csv",
+    "leagues": "Republic-of-Ireland-FAI-Cup",
     "first_date": "2007-06-14"
   },
   {
     "country": "Republic_of_ireland",
-    "leagues": "Republic-of-Ireland-Women-s-National-League.csv",
+    "leagues": "Republic-of-Ireland-Women-s-National-League",
     "first_date": "2020-08-15"
   },
   {
     "country": "Romania",
-    "leagues": "Romania-3-Liga-Series-5.csv",
+    "leagues": "Romania-3-Liga-Series-5",
     "first_date": "2008-08-14"
   },
   {
     "country": "Romania",
-    "leagues": "Romania-3-Liga-Series-4.csv",
+    "leagues": "Romania-3-Liga-Series-4",
     "first_date": "2008-08-14"
   },
   {
     "country": "Romania",
-    "leagues": "Romania-Liga-2-Seria-2.csv",
+    "leagues": "Romania-Liga-2-Seria-2",
     "first_date": "2005-08-19"
   },
   {
     "country": "Romania",
-    "leagues": "Romania-Romania-Cup.csv",
+    "leagues": "Romania-Romania-Cup",
     "first_date": "2019-07-31"
   },
   {
     "country": "Romania",
-    "leagues": "Romania-Liga-1-Women.csv",
+    "leagues": "Romania-Liga-1-Women",
     "first_date": "2019-08-25"
   },
   {
     "country": "Romania",
-    "leagues": "Romania-Liga-2-Serie-1.csv",
+    "leagues": "Romania-Liga-2-Serie-1",
     "first_date": "2005-08-19"
   },
   {
     "country": "Romania",
-    "leagues": "Romania-3-Liga-Series-1.csv",
+    "leagues": "Romania-3-Liga-Series-1",
     "first_date": "2007-08-23"
   },
   {
     "country": "Romania",
-    "leagues": "Romania-3-Liga-Series-8.csv",
+    "leagues": "Romania-3-Liga-Series-8",
     "first_date": "2020-09-12"
   },
   {
     "country": "Romania",
-    "leagues": "Romania-Liga-2.csv",
+    "leagues": "Romania-Liga-2",
     "first_date": "2005-08-19"
   },
   {
     "country": "Romania",
-    "leagues": "Romania-3-Liga-Series-6.csv",
+    "leagues": "Romania-3-Liga-Series-6",
     "first_date": "2008-08-14"
   },
   {
     "country": "Romania",
-    "leagues": "Romania-3-Liga-Series-7.csv",
+    "leagues": "Romania-3-Liga-Series-7",
     "first_date": "2020-09-12"
   },
   {
     "country": "Romania",
-    "leagues": "Romania-3-Liga-Series-10.csv",
+    "leagues": "Romania-3-Liga-Series-10",
     "first_date": "2020-09-12"
   },
   {
     "country": "Romania",
-    "leagues": "Romania-3-Liga-Series-3.csv",
+    "leagues": "Romania-3-Liga-Series-3",
     "first_date": "2008-08-14"
   },
   {
     "country": "Romania",
-    "leagues": "Romania-3-Liga-Series-9.csv",
+    "leagues": "Romania-3-Liga-Series-9",
     "first_date": "2020-09-12"
   },
   {
     "country": "Romania",
-    "leagues": "Romania-Liga-1.csv",
+    "leagues": "Romania-Liga-1",
     "first_date": "2005-08-04"
   },
   {
     "country": "Romania",
-    "leagues": "Romania-3-Liga-Series-2.csv",
+    "leagues": "Romania-3-Liga-Series-2",
     "first_date": "2008-08-14"
   },
   {
     "country": "Russia",
-    "leagues": "Russia-FNL-2-Group-2.csv",
+    "leagues": "Russia-FNL-2-Group-2",
     "first_date": "2022-04-01"
   },
   {
     "country": "Russia",
-    "leagues": "Russia-Premier-League.csv",
+    "leagues": "Russia-Premier-League",
     "first_date": "2011-03-12"
   },
   {
     "country": "Russia",
-    "leagues": "Russia-Kazan-Pre-Season-Tournament.csv",
+    "leagues": "Russia-Kazan-Pre-Season-Tournament",
     "first_date": "2022-04-03"
   },
   {
     "country": "Russia",
-    "leagues": "Russia-Premier-League-Women.csv",
+    "leagues": "Russia-Premier-League-Women",
     "first_date": "2021-03-13"
   },
   {
     "country": "Russia",
-    "leagues": "Russia-FNL-2-Group-4.csv",
+    "leagues": "Russia-FNL-2-Group-4",
     "first_date": "2022-04-03"
   },
   {
     "country": "Russia",
-    "leagues": "Russia-FNL-2-Group-1.csv",
+    "leagues": "Russia-FNL-2-Group-1",
     "first_date": "2018-07-18"
   },
   {
     "country": "Russia",
-    "leagues": "Russia-FNL-2-Group-3.csv",
+    "leagues": "Russia-FNL-2-Group-3",
     "first_date": "2022-04-01"
   },
   {
     "country": "Russia",
-    "leagues": "Russia-Youth-League.csv",
+    "leagues": "Russia-Youth-League",
     "first_date": "2015-07-16"
   },
   {
     "country": "Russia",
-    "leagues": "Russia-FNL.csv",
+    "leagues": "Russia-FNL",
     "first_date": "2017-05-10"
   },
   {
     "country": "Rwanda",
-    "leagues": "Rwanda-National-Soccer-League.csv",
+    "leagues": "Rwanda-National-Soccer-League",
     "first_date": "2015-09-18"
   },
   {
     "country": "San_marino",
-    "leagues": "San-Marino-Campionato.csv",
+    "leagues": "San-Marino-Campionato",
     "first_date": "2005-09-22"
   },
   {
     "country": "Saudi_arabia",
-    "leagues": "Saudi-Arabia-Youth-League.csv",
+    "leagues": "Saudi-Arabia-Youth-League",
     "first_date": "2019-11-16"
   },
   {
     "country": "Saudi_arabia",
-    "leagues": "Saudi-Arabia-Pro-League.csv",
+    "leagues": "Saudi-Arabia-Pro-League",
     "first_date": "2005-09-20"
   },
   {
     "country": "Saudi_arabia",
-    "leagues": "Saudi-Arabia-Division-1-Saudi-Arabia-Pro-League.csv",
+    "leagues": "Saudi-Arabia-Division-1-Saudi-Arabia-Pro-League",
     "first_date": "2023-08-11"
   },
   {
     "country": "Saudi_arabia",
-    "leagues": "Saudi-Arabia-Division-1-Saudi-Arabia-Pro-League-Saudi-Arabia-Youth-League.csv",
+    "leagues": "Saudi-Arabia-Division-1-Saudi-Arabia-Pro-League-Saudi-Arabia-Youth-League",
     "first_date": "2023-08-11"
   },
   {
     "country": "Saudi_arabia",
-    "leagues": "Saudi-Arabia-Division-1.csv",
+    "leagues": "Saudi-Arabia-Division-1",
     "first_date": "2007-10-17"
   },
   {
     "country": "Scotland",
-    "leagues": "Scotland-Premiership-Play-Offs.csv",
+    "leagues": "Scotland-Premiership-Play-Offs",
     "first_date": "2017-05-09"
   },
   {
     "country": "Scotland",
-    "leagues": "Scotland-Premiership.csv",
+    "leagues": "Scotland-Premiership",
     "first_date": "2005-07-29"
   },
   {
     "country": "Scotland",
-    "leagues": "Scotland-Championship-Scotland-Football-League-Highland-League.csv",
+    "leagues": "Scotland-Championship-Scotland-Football-League-Highland-League",
     "first_date": "2023-07-29"
   },
   {
     "country": "Scotland",
-    "leagues": "Scotland-Football-League-Lowland-League.csv",
+    "leagues": "Scotland-Football-League-Lowland-League",
     "first_date": "2018-07-28"
   },
   {
     "country": "Scotland",
-    "leagues": "Scotland-Football-League-Highland-League.csv",
+    "leagues": "Scotland-Football-League-Highland-League",
     "first_date": "2021-12-18"
   },
   {
     "country": "Scotland",
-    "leagues": "Scotland-Championship-Scotland-Football-League-Highland-League-Scotland-Football-League-Lowland-League-Scotland-League-One-Scotland-League-Two-Scotland-Premiership.csv",
+    "leagues": "Scotland-Championship-Scotland-Football-League-Highland-League-Scotland-Football-League-Lowland-League-Scotland-League-One-Scotland-League-Two-Scotland-Premiership",
     "first_date": "2023-08-05"
   },
   {
     "country": "Scotland",
-    "leagues": "Scotland-Championship-Play-Offs.csv",
+    "leagues": "Scotland-Championship-Play-Offs",
     "first_date": "2017-05-10"
   },
   {
     "country": "Scotland",
-    "leagues": "Scotland-Reserve-League.csv",
+    "leagues": "Scotland-Reserve-League",
     "first_date": "2018-08-20"
   },
   {
     "country": "Scotland",
-    "leagues": "Scotland-League-Two.csv",
+    "leagues": "Scotland-League-Two",
     "first_date": "2005-08-05"
   },
   {
     "country": "Scotland",
-    "leagues": "Scotland-Championship-Scotland-Football-League-Highland-League-Scotland-Football-League-Lowland-League-Scotland-League-One.csv",
+    "leagues": "Scotland-Championship-Scotland-Football-League-Highland-League-Scotland-Football-League-Lowland-League-Scotland-League-One",
     "first_date": "2023-07-21"
   },
   {
     "country": "Scotland",
-    "leagues": "Scotland-Championship-Scotland-Football-League-Highland-League-Scotland-Football-League-Lowland-League.csv",
+    "leagues": "Scotland-Championship-Scotland-Football-League-Highland-League-Scotland-Football-League-Lowland-League",
     "first_date": "2023-07-21"
   },
   {
     "country": "Scotland",
-    "leagues": "Scotland-Championship.csv",
+    "leagues": "Scotland-Championship",
     "first_date": "2005-08-05"
   },
   {
     "country": "Scotland",
-    "leagues": "Scotland-League-Cup.csv",
+    "leagues": "Scotland-League-Cup",
     "first_date": "2018-07-13"
   },
   {
     "country": "Scotland",
-    "leagues": "Scotland-League-One.csv",
+    "leagues": "Scotland-League-One",
     "first_date": "2005-08-05"
   },
   {
     "country": "Scotland",
-    "leagues": "Scotland-League-One-Play-Offs.csv",
+    "leagues": "Scotland-League-One-Play-Offs",
     "first_date": "2017-05-10"
   },
   {
     "country": "Scotland",
-    "leagues": "Scotland-Championship-Scotland-Football-League-Highland-League-Scotland-Football-League-Lowland-League-Scotland-League-One-Scotland-League-Two-Scotland-Premiership-Scotland-Reserve-League.csv",
+    "leagues": "Scotland-Championship-Scotland-Football-League-Highland-League-Scotland-Football-League-Lowland-League-Scotland-League-One-Scotland-League-Two-Scotland-Premiership-Scotland-Reserve-League",
     "first_date": "2023-08-05"
   },
   {
     "country": "Scotland",
-    "leagues": "Scotland-Championship-Scotland-Football-League-Highland-League-Scotland-Football-League-Lowland-League-Scotland-League-One-Scotland-League-Two.csv",
+    "leagues": "Scotland-Championship-Scotland-Football-League-Highland-League-Scotland-Football-League-Lowland-League-Scotland-League-One-Scotland-League-Two",
     "first_date": "2023-08-05"
   },
   {
     "country": "Senegal",
-    "leagues": "Senegal-Ligue-1.csv",
+    "leagues": "Senegal-Ligue-1",
     "first_date": "2010-12-18"
   },
   {
     "country": "Serbia",
-    "leagues": "Serbia-Srpska-Liga-Vojvodina.csv",
+    "leagues": "Serbia-Srpska-Liga-Vojvodina",
     "first_date": "2006-08-11"
   },
   {
     "country": "Serbia",
-    "leagues": "Serbia-Srpska-Liga-East.csv",
+    "leagues": "Serbia-Srpska-Liga-East",
     "first_date": "2011-08-20"
   },
   {
     "country": "Serbia",
-    "leagues": "Serbia-Prva-Liga-Serbia-Srpska-Liga-Belgrade.csv",
+    "leagues": "Serbia-Prva-Liga-Serbia-Srpska-Liga-Belgrade",
     "first_date": "2023-08-05"
   },
   {
     "country": "Serbia",
-    "leagues": "Serbia-Super-Liga-Zene.csv",
+    "leagues": "Serbia-Super-Liga-Zene",
     "first_date": "2020-08-08"
   },
   {
     "country": "Serbia",
-    "leagues": "Serbia-Prva-Liga.csv",
+    "leagues": "Serbia-Prva-Liga",
     "first_date": "2006-08-11"
   },
   {
     "country": "Serbia",
-    "leagues": "Serbia-Prva-Liga-Serbia-Srpska-Liga-Belgrade-Serbia-Srpska-Liga-East.csv",
+    "leagues": "Serbia-Prva-Liga-Serbia-Srpska-Liga-Belgrade-Serbia-Srpska-Liga-East",
     "first_date": "2023-08-11"
   },
   {
     "country": "Serbia",
-    "leagues": "Serbia-Prva-Liga-Serbia-Srpska-Liga-Belgrade-Serbia-Srpska-Liga-East-Serbia-Srpska-Liga-Vojvodina.csv",
+    "leagues": "Serbia-Prva-Liga-Serbia-Srpska-Liga-Belgrade-Serbia-Srpska-Liga-East-Serbia-Srpska-Liga-Vojvodina",
     "first_date": "2023-08-11"
   },
   {
     "country": "Serbia",
-    "leagues": "Serbia-Srpska-Liga-West.csv",
+    "leagues": "Serbia-Srpska-Liga-West",
     "first_date": "2010-08-14"
   },
   {
     "country": "Serbia",
-    "leagues": "Serbia-Super-Liga.csv",
+    "leagues": "Serbia-Super-Liga",
     "first_date": "2006-08-03"
   },
   {
     "country": "Serbia",
-    "leagues": "Serbia-Srpska-Liga-Belgrade.csv",
+    "leagues": "Serbia-Srpska-Liga-Belgrade",
     "first_date": "2006-08-11"
   },
   {
     "country": "Serbia",
-    "leagues": "Serbia-Prva-Liga-Serbia-Srpska-Liga-Belgrade-Serbia-Srpska-Liga-East-Serbia-Srpska-Liga-Vojvodina-Serbia-Srpska-Liga-West-Serbia-Super-Liga.csv",
+    "leagues": "Serbia-Prva-Liga-Serbia-Srpska-Liga-Belgrade-Serbia-Srpska-Liga-East-Serbia-Srpska-Liga-Vojvodina-Serbia-Srpska-Liga-West-Serbia-Super-Liga",
     "first_date": "2023-07-29"
   },
   {
     "country": "Serbia",
-    "leagues": "Serbia-Prva-Liga-Serbia-Srpska-Liga-Belgrade-Serbia-Srpska-Liga-East-Serbia-Srpska-Liga-Vojvodina-Serbia-Srpska-Liga-West-Serbia-Super-Liga-Serbia-Super-Liga-Zene.csv",
+    "leagues": "Serbia-Prva-Liga-Serbia-Srpska-Liga-Belgrade-Serbia-Srpska-Liga-East-Serbia-Srpska-Liga-Vojvodina-Serbia-Srpska-Liga-West-Serbia-Super-Liga-Serbia-Super-Liga-Zene",
     "first_date": "2023-07-29"
   },
   {
     "country": "Serbia",
-    "leagues": "Serbia-Prva-Liga-Serbia-Srpska-Liga-Belgrade-Serbia-Srpska-Liga-East-Serbia-Srpska-Liga-Vojvodina-Serbia-Srpska-Liga-West.csv",
+    "leagues": "Serbia-Prva-Liga-Serbia-Srpska-Liga-Belgrade-Serbia-Srpska-Liga-East-Serbia-Srpska-Liga-Vojvodina-Serbia-Srpska-Liga-West",
     "first_date": "2023-08-12"
   },
   {
     "country": "Sierra_leone",
-    "leagues": "Sierra-Leone-Premier-League.csv",
+    "leagues": "Sierra-Leone-Premier-League",
     "first_date": "2019-01-26"
   },
   {
     "country": "Singapore",
-    "leagues": "Singapore-S-League.csv",
+    "leagues": "Singapore-S-League",
     "first_date": "2005-03-11"
   },
   {
     "country": "Slovakia",
-    "leagues": "Slovakia-3-Liga-Bratislava.csv",
+    "leagues": "Slovakia-3-Liga-Bratislava",
     "first_date": "2012-05-05"
   },
   {
     "country": "Slovakia",
-    "leagues": "Slovakia-2-Liga-West.csv",
+    "leagues": "Slovakia-2-Liga-West",
     "first_date": "2014-07-26"
   },
   {
     "country": "Slovakia",
-    "leagues": "Slovakia-3-Liga-East.csv",
+    "leagues": "Slovakia-3-Liga-East",
     "first_date": "2008-08-01"
   },
   {
     "country": "Slovakia",
-    "leagues": "Slovakia-Fortuna-Liga.csv",
+    "leagues": "Slovakia-Fortuna-Liga",
     "first_date": "2005-07-15"
   },
   {
     "country": "Slovakia",
-    "leagues": "Slovakia-Slovakia-Cup.csv",
+    "leagues": "Slovakia-Slovakia-Cup",
     "first_date": "2007-09-17"
   },
   {
     "country": "Slovakia",
-    "leagues": "Slovakia-2-Liga-East.csv",
+    "leagues": "Slovakia-2-Liga-East",
     "first_date": "2014-07-26"
   },
   {
     "country": "Slovakia",
-    "leagues": "Slovakia-Nike-liga.csv",
+    "leagues": "Slovakia-Nike-liga",
     "first_date": "2020-08-08"
   },
   {
     "country": "Slovakia",
-    "leagues": "Slovakia-3-Liga-West.csv",
+    "leagues": "Slovakia-3-Liga-West",
     "first_date": "2008-08-01"
   },
   {
     "country": "Slovakia",
-    "leagues": "Slovakia-2-Liga.csv",
+    "leagues": "Slovakia-2-Liga",
     "first_date": "2005-07-21"
   },
   {
     "country": "Slovakia",
-    "leagues": "Slovakia-3-Liga-Center.csv",
+    "leagues": "Slovakia-3-Liga-Center",
     "first_date": "2014-08-02"
   },
   {
     "country": "Slovakia",
-    "leagues": "Slovakia-Youth-League.csv",
+    "leagues": "Slovakia-Youth-League",
     "first_date": "2018-08-17"
   },
   {
     "country": "Slovakia",
-    "leagues": "Slovakia-Nike-Liga.csv",
+    "leagues": "Slovakia-Nike-Liga",
     "first_date": "2023-07-28"
   },
   {
     "country": "Slovenia",
-    "leagues": "Slovenia-1-SNL.csv",
+    "leagues": "Slovenia-1-SNL",
     "first_date": "2005-07-21"
   },
   {
     "country": "Slovenia",
-    "leagues": "Slovenia-1-Womens-Liga.csv",
+    "leagues": "Slovenia-1-Womens-Liga",
     "first_date": "2020-08-16"
   },
   {
     "country": "Slovenia",
-    "leagues": "Slovenia-3-SNL.csv",
+    "leagues": "Slovenia-3-SNL",
     "first_date": "2020-08-15"
   },
   {
     "country": "Slovenia",
-    "leagues": "Slovenia-1-Junior-League.csv",
+    "leagues": "Slovenia-1-Junior-League",
     "first_date": "2020-08-14"
   },
   {
     "country": "Slovenia",
-    "leagues": "Slovenia-2-SNL.csv",
+    "leagues": "Slovenia-2-SNL",
     "first_date": "2005-08-11"
   },
   {
     "country": "Solomon_islands",
-    "leagues": "Solomon-Islands-S-League.csv",
+    "leagues": "Solomon-Islands-S-League",
     "first_date": "2020-08-08"
   },
   {
     "country": "Somalia",
-    "leagues": "Somalia-Nation-Link-Telecom-Championship.csv",
+    "leagues": "Somalia-Nation-Link-Telecom-Championship",
     "first_date": "2019-02-06"
   },
   {
     "country": "South_africa",
-    "leagues": "South-Africa-Gladafrica-Championship.csv",
+    "leagues": "South-Africa-Gladafrica-Championship",
     "first_date": "2018-08-18"
   },
   {
     "country": "South_africa",
-    "leagues": "South-Africa-Premier-League.csv",
+    "leagues": "South-Africa-Premier-League",
     "first_date": "2005-08-02"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Division-De-Honor-Juvenil-Group-4.csv",
+    "leagues": "Spain-Division-De-Honor-Juvenil-Group-4",
     "first_date": "2021-12-18"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Segunda-B-Group-5.csv",
+    "leagues": "Spain-Segunda-B-Group-5",
     "first_date": "2020-10-17"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Primera-Nacional-Femenina-Group-2.csv",
+    "leagues": "Spain-Primera-Nacional-Femenina-Group-2",
     "first_date": "2021-12-19"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-La-Liga-2.csv",
+    "leagues": "Spain-La-Liga-2",
     "first_date": "2005-08-26"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Tercera-Group-13.csv",
+    "leagues": "Spain-Tercera-Group-13",
     "first_date": "2007-08-24"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Liga-Nacional-Juvenil-Canarias.csv",
+    "leagues": "Spain-Liga-Nacional-Juvenil-Canarias",
     "first_date": "2020-10-30"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Tercera-Group-14.csv",
+    "leagues": "Spain-Tercera-Group-14",
     "first_date": "2007-08-25"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Tercera-Group-11.csv",
+    "leagues": "Spain-Tercera-Group-11",
     "first_date": "2007-08-24"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Tercera-Group-15.csv",
+    "leagues": "Spain-Tercera-Group-15",
     "first_date": "2007-08-31"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-La-Liga.csv",
+    "leagues": "Spain-La-Liga",
     "first_date": "2005-08-26"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Tercera-Group-2.csv",
+    "leagues": "Spain-Tercera-Group-2",
     "first_date": "2007-08-24"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Segunda-B-Group-1.csv",
+    "leagues": "Spain-Segunda-B-Group-1",
     "first_date": "2005-08-26"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Tercera-Group-18.csv",
+    "leagues": "Spain-Tercera-Group-18",
     "first_date": "2007-08-24"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Liga-Nacional-Juvenil-Group-3.csv",
+    "leagues": "Spain-Liga-Nacional-Juvenil-Group-3",
     "first_date": "2020-10-31"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Division-De-Honor-Juvenil-Group-2.csv",
+    "leagues": "Spain-Division-De-Honor-Juvenil-Group-2",
     "first_date": "2021-12-18"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Tercera-Group-9.csv",
+    "leagues": "Spain-Tercera-Group-9",
     "first_date": "2007-08-24"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Tercera-Group-6.csv",
+    "leagues": "Spain-Tercera-Group-6",
     "first_date": "2007-08-24"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Segunda-B-Group-4.csv",
+    "leagues": "Spain-Segunda-B-Group-4",
     "first_date": "2007-08-25"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Liga-Nacional-Juvenil-Group-7.csv",
+    "leagues": "Spain-Liga-Nacional-Juvenil-Group-7",
     "first_date": "2020-10-31"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Division-De-Honor-Juvenil-Group-5.csv",
+    "leagues": "Spain-Division-De-Honor-Juvenil-Group-5",
     "first_date": "2021-12-18"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Liga-Nacional-Juvenil-Group-13.csv",
+    "leagues": "Spain-Liga-Nacional-Juvenil-Group-13",
     "first_date": "2020-10-24"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Primera-Nacional-Femenina-Group-6.csv",
+    "leagues": "Spain-Primera-Nacional-Femenina-Group-6",
     "first_date": "2021-12-18"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Liga-Nacional-Juvenil-Group-16.csv",
+    "leagues": "Spain-Liga-Nacional-Juvenil-Group-16",
     "first_date": "2020-10-31"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Division-De-Honor-Juvenil-Group-7.csv",
+    "leagues": "Spain-Division-De-Honor-Juvenil-Group-7",
     "first_date": "2021-12-18"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Segunda-B-Playoffs.csv",
+    "leagues": "Spain-Segunda-B-Playoffs",
     "first_date": "2017-06-04"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Liga-Nacional-Juvenil-Group-8.csv",
+    "leagues": "Spain-Liga-Nacional-Juvenil-Group-8",
     "first_date": "2020-10-17"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Primera-Nacional-Femenina-Group-4.csv",
+    "leagues": "Spain-Primera-Nacional-Femenina-Group-4",
     "first_date": "2021-12-19"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Tercera-Group-17.csv",
+    "leagues": "Spain-Tercera-Group-17",
     "first_date": "2007-08-23"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Tercera-Group-7.csv",
+    "leagues": "Spain-Tercera-Group-7",
     "first_date": "2007-08-25"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Division-De-Honor-Juvenil-Play-offs.csv",
+    "leagues": "Spain-Division-De-Honor-Juvenil-Play-offs",
     "first_date": "2018-08-31"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Liga-Nacional-Juvenil-Group-2.csv",
+    "leagues": "Spain-Liga-Nacional-Juvenil-Group-2",
     "first_date": "2020-10-17"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Division-De-Honor-Juvenil-Group-3.csv",
+    "leagues": "Spain-Division-De-Honor-Juvenil-Group-3",
     "first_date": "2021-12-18"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Liga-Nacional-Juvenil-Group-4.csv",
+    "leagues": "Spain-Liga-Nacional-Juvenil-Group-4",
     "first_date": "2021-01-09"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Liga-Nacional-Juvenil-Group-9.csv",
+    "leagues": "Spain-Liga-Nacional-Juvenil-Group-9",
     "first_date": "2020-10-24"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Tercera-Group-12.csv",
+    "leagues": "Spain-Tercera-Group-12",
     "first_date": "2007-08-24"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Segunda-B-Group-3.csv",
+    "leagues": "Spain-Segunda-B-Group-3",
     "first_date": "2007-08-25"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Tercera-Group-5.csv",
+    "leagues": "Spain-Tercera-Group-5",
     "first_date": "2007-09-01"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Liga-Nacional-Juvenil-Group-1.csv",
+    "leagues": "Spain-Liga-Nacional-Juvenil-Group-1",
     "first_date": "2020-10-24"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Liga-Nacional-Juvenil-Group-14.csv",
+    "leagues": "Spain-Liga-Nacional-Juvenil-Group-14",
     "first_date": "2020-10-24"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Tercera-Group-10.csv",
+    "leagues": "Spain-Tercera-Group-10",
     "first_date": "2007-08-24"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Tercera-Group-16.csv",
+    "leagues": "Spain-Tercera-Group-16",
     "first_date": "2007-08-31"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Tercera-Group-8.csv",
+    "leagues": "Spain-Tercera-Group-8",
     "first_date": "2007-08-24"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Liga-Nacional-Juvenil-Group-5.csv",
+    "leagues": "Spain-Liga-Nacional-Juvenil-Group-5",
     "first_date": "2020-12-05"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Liga-Nacional-Juvenil-Group-15.csv",
+    "leagues": "Spain-Liga-Nacional-Juvenil-Group-15",
     "first_date": "2020-10-31"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Tercera-Group-1.csv",
+    "leagues": "Spain-Tercera-Group-1",
     "first_date": "2007-08-23"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Tercera-Group-4.csv",
+    "leagues": "Spain-Tercera-Group-4",
     "first_date": "2007-08-25"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Liga-Nacional-Juvenil-Group-11.csv",
+    "leagues": "Spain-Liga-Nacional-Juvenil-Group-11",
     "first_date": "2020-10-31"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Segunda-B-Group-2.csv",
+    "leagues": "Spain-Segunda-B-Group-2",
     "first_date": "2007-08-25"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Primera-Nacional-Femenina-Group-1.csv",
+    "leagues": "Spain-Primera-Nacional-Femenina-Group-1",
     "first_date": "2018-09-07"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Liga-Nacional-Juvenil-Group-6.csv",
+    "leagues": "Spain-Liga-Nacional-Juvenil-Group-6",
     "first_date": "2020-11-14"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Primera-Nacional-Femenina-Group-3.csv",
+    "leagues": "Spain-Primera-Nacional-Femenina-Group-3",
     "first_date": "2021-12-18"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Liga-Nacional-Juvenil-Group-10.csv",
+    "leagues": "Spain-Liga-Nacional-Juvenil-Group-10",
     "first_date": "2020-10-31"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Division-De-Honor-Juvenil-Group-1.csv",
+    "leagues": "Spain-Division-De-Honor-Juvenil-Group-1",
     "first_date": "2021-12-18"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Primera-Division-Women.csv",
+    "leagues": "Spain-Primera-Division-Women",
     "first_date": "2018-09-08"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Liga-Nacional-Juvenil-Group-12.csv",
+    "leagues": "Spain-Liga-Nacional-Juvenil-Group-12",
     "first_date": "2020-10-31"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Primera-Nacional-Femenina-Group-5.csv",
+    "leagues": "Spain-Primera-Nacional-Femenina-Group-5",
     "first_date": "2022-01-08"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Primera-Nacional-Femenina-Group-7.csv",
+    "leagues": "Spain-Primera-Nacional-Femenina-Group-7",
     "first_date": "2021-12-18"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Tercera-Playoffs.csv",
+    "leagues": "Spain-Tercera-Playoffs",
     "first_date": "2020-07-18"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Division-De-Honor-Juvenil-Group-6.csv",
+    "leagues": "Spain-Division-De-Honor-Juvenil-Group-6",
     "first_date": "2021-12-18"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Liga-Nacional-Juvenil-Group-17.csv",
+    "leagues": "Spain-Liga-Nacional-Juvenil-Group-17",
     "first_date": "2020-11-29"
   },
   {
     "country": "Spain",
-    "leagues": "Spain-Tercera-Group-3.csv",
+    "leagues": "Spain-Tercera-Group-3",
     "first_date": "2007-08-24"
   },
   {
     "country": "Sudan",
-    "leagues": "Sudan-Sudan-Premier-League.csv",
+    "leagues": "Sudan-Sudan-Premier-League",
     "first_date": "2007-02-18"
   },
   {
     "country": "Suriname",
-    "leagues": "Suriname-Topklasse.csv",
+    "leagues": "Suriname-Topklasse",
     "first_date": "2006-10-07"
   },
   {
     "country": "Sweden",
-    "leagues": "Sweden-Svenska-Cupen-2020.csv",
+    "leagues": "Sweden-Svenska-Cupen-2020",
     "first_date": "2020-07-30"
   },
   {
     "country": "Sweden",
-    "leagues": "Sweden-Superettan.csv",
+    "leagues": "Sweden-Superettan",
     "first_date": "2005-04-15"
   },
   {
     "country": "Sweden",
-    "leagues": "Sweden-Division-2-Norrland.csv",
+    "leagues": "Sweden-Division-2-Norrland",
     "first_date": "2011-04-21"
   },
   {
     "country": "Sweden",
-    "leagues": "Sweden-Svenska-Cupen-2013.csv",
+    "leagues": "Sweden-Svenska-Cupen-2013",
     "first_date": "2013-06-04"
   },
   {
     "country": "Sweden",
-    "leagues": "Sweden-Svenska-Cupen-2015.csv",
+    "leagues": "Sweden-Svenska-Cupen-2015",
     "first_date": "2015-06-09"
   },
   {
     "country": "Sweden",
-    "leagues": "Sweden-Elitettan-Women.csv",
+    "leagues": "Sweden-Elitettan-Women",
     "first_date": "2018-04-14"
   },
   {
     "country": "Sweden",
-    "leagues": "Sweden-Svenska-Cupen.csv",
+    "leagues": "Sweden-Svenska-Cupen",
     "first_date": "2020-07-30"
   },
   {
     "country": "Sweden",
-    "leagues": "Sweden-Ettan-South.csv",
+    "leagues": "Sweden-Ettan-South",
     "first_date": "2006-04-16"
   },
   {
     "country": "Sweden",
-    "leagues": "Sweden-Division-2-Norra-Svealand.csv",
+    "leagues": "Sweden-Division-2-Norra-Svealand",
     "first_date": "2011-04-16"
   },
   {
     "country": "Sweden",
-    "leagues": "Sweden-Division-2-Vastra-Gotaland.csv",
+    "leagues": "Sweden-Division-2-Vastra-Gotaland",
     "first_date": "2011-04-16"
   },
   {
     "country": "Sweden",
-    "leagues": "Sweden-Division-2-Play-offs.csv",
+    "leagues": "Sweden-Division-2-Play-offs",
     "first_date": "2020-10-24"
   },
   {
     "country": "Sweden",
-    "leagues": "Sweden-Division-2-Norra-Gotaland.csv",
+    "leagues": "Sweden-Division-2-Norra-Gotaland",
     "first_date": "2011-04-16"
   },
   {
     "country": "Sweden",
-    "leagues": "Sweden-Allsvenskan.csv",
+    "leagues": "Sweden-Allsvenskan",
     "first_date": "2005-04-08"
   },
   {
     "country": "Sweden",
-    "leagues": "Sweden-Svenska-Cupen-2019.csv",
+    "leagues": "Sweden-Svenska-Cupen-2019",
     "first_date": "2019-05-15"
   },
   {
     "country": "Sweden",
-    "leagues": "Sweden-Ettan-North.csv",
+    "leagues": "Sweden-Ettan-North",
     "first_date": "2006-04-21"
   },
   {
     "country": "Sweden",
-    "leagues": "Sweden-Svenska-Cupen-2021.csv",
+    "leagues": "Sweden-Svenska-Cupen-2021",
     "first_date": "2021-06-09"
   },
   {
     "country": "Sweden",
-    "leagues": "Sweden-Svenska-Cupen-2017.csv",
+    "leagues": "Sweden-Svenska-Cupen-2017",
     "first_date": "2017-06-06"
   },
   {
     "country": "Sweden",
-    "leagues": "Sweden-Svenska-Cupen-2014.csv",
+    "leagues": "Sweden-Svenska-Cupen-2014",
     "first_date": "2014-06-03"
   },
   {
     "country": "Sweden",
-    "leagues": "Sweden-Svenska-Cupen-2016.csv",
+    "leagues": "Sweden-Svenska-Cupen-2016",
     "first_date": "2016-05-17"
   },
   {
     "country": "Sweden",
-    "leagues": "Sweden-Allsvenskan-Women.csv",
+    "leagues": "Sweden-Allsvenskan-Women",
     "first_date": "2013-04-13"
   },
   {
     "country": "Sweden",
-    "leagues": "Sweden-Division-2-Sodra-Svealand.csv",
+    "leagues": "Sweden-Division-2-Sodra-Svealand",
     "first_date": "2011-04-15"
   },
   {
     "country": "Sweden",
-    "leagues": "Sweden-Svenska-Cupen-2012.csv",
+    "leagues": "Sweden-Svenska-Cupen-2012",
     "first_date": "2012-06-03"
   },
   {
     "country": "Sweden",
-    "leagues": "Sweden-Division-2-Sodra-Gotaland.csv",
+    "leagues": "Sweden-Division-2-Sodra-Gotaland",
     "first_date": "2007-04-13"
   },
   {
     "country": "Sweden",
-    "leagues": "Sweden-Svenska-Cupen-2018.csv",
+    "leagues": "Sweden-Svenska-Cupen-2018",
     "first_date": "2018-05-15"
   },
   {
     "country": "Switzerland",
-    "leagues": "Switzerland-1-Liga-Classic.csv",
+    "leagues": "Switzerland-1-Liga-Classic",
     "first_date": "2018-03-03"
   },
   {
     "country": "Switzerland",
-    "leagues": "Switzerland-Nationalliga-A-Women.csv",
+    "leagues": "Switzerland-Nationalliga-A-Women",
     "first_date": "2018-08-16"
   },
   {
     "country": "Switzerland",
-    "leagues": "Switzerland-1-Liga-Promotion.csv",
+    "leagues": "Switzerland-1-Liga-Promotion",
     "first_date": "2017-08-02"
   },
   {
     "country": "Switzerland",
-    "leagues": "Switzerland-Super-League.csv",
+    "leagues": "Switzerland-Super-League",
     "first_date": "2005-07-12"
   },
   {
     "country": "Switzerland",
-    "leagues": "Switzerland-Nationalliga-B-Women.csv",
+    "leagues": "Switzerland-Nationalliga-B-Women",
     "first_date": "2020-08-15"
   },
   {
     "country": "Switzerland",
-    "leagues": "Switzerland-Challenge-League.csv",
+    "leagues": "Switzerland-Challenge-League",
     "first_date": "2005-07-14"
   },
   {
     "country": "Syria",
-    "leagues": "Syria-Premier-League.csv",
+    "leagues": "Syria-Premier-League",
     "first_date": "2005-10-06"
   },
   {
     "country": "Tajikistan",
-    "leagues": "Tajikistan-Vysshaya-Liga.csv",
+    "leagues": "Tajikistan-Vysshaya-Liga",
     "first_date": "2020-04-05"
   },
   {
     "country": "Tanzania",
-    "leagues": "Tanzania-Ligi-kuu-Bara.csv",
+    "leagues": "Tanzania-Ligi-kuu-Bara",
     "first_date": "2015-09-12"
   },
   {
     "country": "Thailand",
-    "leagues": "Thailand-Thai-League-3-East.csv",
+    "leagues": "Thailand-Thai-League-3-East",
     "first_date": "2021-12-18"
   },
   {
     "country": "Thailand",
-    "leagues": "Thailand-Thai-League-3-South.csv",
+    "leagues": "Thailand-Thai-League-3-South",
     "first_date": "2021-12-18"
   },
   {
     "country": "Thailand",
-    "leagues": "Thailand-Thai-League-3-West.csv",
+    "leagues": "Thailand-Thai-League-3-West",
     "first_date": "2021-12-18"
   },
   {
     "country": "Thailand",
-    "leagues": "Thailand-Thai-League-Two.csv",
+    "leagues": "Thailand-Thai-League-Two",
     "first_date": "2010-03-14"
   },
   {
     "country": "Thailand",
-    "leagues": "Thailand-Thai-League-3-BKK-Perimeter.csv",
+    "leagues": "Thailand-Thai-League-3-BKK-Perimeter",
     "first_date": "2019-02-09"
   },
   {
     "country": "Thailand",
-    "leagues": "Thailand-Thai-League-3-North.csv",
+    "leagues": "Thailand-Thai-League-3-North",
     "first_date": "2021-12-18"
   },
   {
     "country": "Thailand",
-    "leagues": "Thailand-Thai-Premier-League.csv",
+    "leagues": "Thailand-Thai-Premier-League",
     "first_date": "2007-03-16"
   },
   {
     "country": "Thailand",
-    "leagues": "Thailand-Thai-League-3-Championship-Round.csv",
+    "leagues": "Thailand-Thai-League-3-Championship-Round",
     "first_date": "2022-03-08"
   },
   {
     "country": "Thailand",
-    "leagues": "Thailand-Thai-League-3-North-East.csv",
+    "leagues": "Thailand-Thai-League-3-North-East",
     "first_date": "2021-12-18"
   },
   {
     "country": "Togo",
-    "leagues": "Togo-Championnat-National.csv",
+    "leagues": "Togo-Championnat-National",
     "first_date": "2018-09-22"
   },
   {
     "country": "Trinidad_and_tobago",
-    "leagues": "Trinidad-and-Tobago-T-T-Pro-League.csv",
+    "leagues": "Trinidad-and-Tobago-T-T-Pro-League",
     "first_date": "2011-09-09"
   },
   {
     "country": "Tunisia",
-    "leagues": "Tunisia-Ligue-2.csv",
+    "leagues": "Tunisia-Ligue-2",
     "first_date": "2021-01-30"
   },
   {
     "country": "Tunisia",
-    "leagues": "Tunisia-Ligue-1.csv",
+    "leagues": "Tunisia-Ligue-1",
     "first_date": "2005-07-30"
   },
   {
     "country": "Turkey",
-    "leagues": "Turkey-1-Lig-U21.csv",
+    "leagues": "Turkey-1-Lig-U21",
     "first_date": "2018-08-10"
   },
   {
     "country": "Turkey",
-    "leagues": "Turkey-Boelgesel-Amatoer-Lig-Region-7.csv",
+    "leagues": "Turkey-Boelgesel-Amatoer-Lig-Region-7",
     "first_date": "2021-12-19"
   },
   {
     "country": "Turkey",
-    "leagues": "Turkey-2-Lig-Kirmizi.csv",
+    "leagues": "Turkey-2-Lig-Kirmizi",
     "first_date": "2010-08-29"
   },
   {
     "country": "Turkey",
-    "leagues": "Turkey-1-Lig.csv",
+    "leagues": "Turkey-1-Lig",
     "first_date": "2005-08-28"
   },
   {
     "country": "Turkey",
-    "leagues": "Turkey-2-Lig-Beyaz.csv",
+    "leagues": "Turkey-2-Lig-Beyaz",
     "first_date": "2007-08-19"
   },
   {
     "country": "Turkey",
-    "leagues": "Turkey-Boelgesel-Amatoer-Lig-Region-8.csv",
+    "leagues": "Turkey-Boelgesel-Amatoer-Lig-Region-8",
     "first_date": "2021-12-18"
   },
   {
     "country": "Turkey",
-    "leagues": "Turkey-3-Lig-Group-4.csv",
+    "leagues": "Turkey-3-Lig-Group-4",
     "first_date": "2020-09-20"
   },
   {
     "country": "Turkey",
-    "leagues": "Turkey-3-Lig-Group-2.csv",
+    "leagues": "Turkey-3-Lig-Group-2",
     "first_date": "2008-09-06"
   },
   {
     "country": "Turkey",
-    "leagues": "Turkey-U19-Elit-B.csv",
+    "leagues": "Turkey-U19-Elit-B",
     "first_date": "2019-08-17"
   },
   {
     "country": "Turkey",
-    "leagues": "Turkey-U19-Sueper-Lig.csv",
+    "leagues": "Turkey-U19-Sueper-Lig",
     "first_date": "2019-08-17"
   },
   {
     "country": "Turkey",
-    "leagues": "Turkey-Boelgesel-Amatoer-Lig-Region-2.csv",
+    "leagues": "Turkey-Boelgesel-Amatoer-Lig-Region-2",
     "first_date": "2021-12-18"
   },
   {
     "country": "Turkey",
-    "leagues": "Turkey-Boelgesel-Amatoer-Lig-Region-9.csv",
+    "leagues": "Turkey-Boelgesel-Amatoer-Lig-Region-9",
     "first_date": "2021-12-18"
   },
   {
     "country": "Turkey",
-    "leagues": "Turkey-3-Lig-Group-3.csv",
+    "leagues": "Turkey-3-Lig-Group-3",
     "first_date": "2008-09-07"
   },
   {
     "country": "Turkey",
-    "leagues": "Turkey-Boelgesel-Amatoer-Lig-Region-6.csv",
+    "leagues": "Turkey-Boelgesel-Amatoer-Lig-Region-6",
     "first_date": "2021-12-18"
   },
   {
     "country": "Turkey",
-    "leagues": "Turkey-Turkish-Cup.csv",
+    "leagues": "Turkey-Turkish-Cup",
     "first_date": "2005-09-19"
   },
   {
     "country": "Turkey",
-    "leagues": "Turkey-Boelgesel-Amatoer-Lig-Region-3.csv",
+    "leagues": "Turkey-Boelgesel-Amatoer-Lig-Region-3",
     "first_date": "2021-12-19"
   },
   {
     "country": "Turkey",
-    "leagues": "Turkey-Boelgesel-Amatoer-Lig-Region-1.csv",
+    "leagues": "Turkey-Boelgesel-Amatoer-Lig-Region-1",
     "first_date": "2021-06-08"
   },
   {
     "country": "Turkey",
-    "leagues": "Turkey-Sueper-Lig-U21.csv",
+    "leagues": "Turkey-Sueper-Lig-U21",
     "first_date": "2018-08-10"
   },
   {
     "country": "Turkey",
-    "leagues": "Turkey-Boelgesel-Amatoer-Lig-Play-offs.csv",
+    "leagues": "Turkey-Boelgesel-Amatoer-Lig-Play-offs",
     "first_date": "2022-04-18"
   },
   {
     "country": "Turkey",
-    "leagues": "Turkey-Boelgesel-Amatoer-Lig-Region-4.csv",
+    "leagues": "Turkey-Boelgesel-Amatoer-Lig-Region-4",
     "first_date": "2021-12-18"
   },
   {
     "country": "Turkey",
-    "leagues": "Turkey-2-Lig-Playoff.csv",
+    "leagues": "Turkey-2-Lig-Playoff",
     "first_date": "2014-05-23"
   },
   {
     "country": "Turkey",
-    "leagues": "Turkey-Boelgesel-Amatoer-Lig-Region-5.csv",
+    "leagues": "Turkey-Boelgesel-Amatoer-Lig-Region-5",
     "first_date": "2021-12-18"
   },
   {
     "country": "Turkey",
-    "leagues": "Turkey-Super-Lig.csv",
+    "leagues": "Turkey-Super-Lig",
     "first_date": "2005-08-04"
   },
   {
     "country": "Turkey",
-    "leagues": "Turkey-3-Lig-Group-1.csv",
+    "leagues": "Turkey-3-Lig-Group-1",
     "first_date": "2008-09-03"
   },
   {
     "country": "Turkmenistan",
-    "leagues": "Turkmenistan-Yokary-Liga.csv",
+    "leagues": "Turkmenistan-Yokary-Liga",
     "first_date": "2020-04-19"
   },
   {
     "country": "Uganda",
-    "leagues": "Uganda-Premier-League.csv",
+    "leagues": "Uganda-Premier-League",
     "first_date": "2016-08-19"
   },
   {
     "country": "Ukraine",
-    "leagues": "Ukraine-Second-League-Group-B.csv",
+    "leagues": "Ukraine-Second-League-Group-B",
     "first_date": "2007-07-24"
   },
   {
     "country": "Ukraine",
-    "leagues": "Ukraine-Second-League-Group-A.csv",
+    "leagues": "Ukraine-Second-League-Group-A",
     "first_date": "2007-07-28"
   },
   {
     "country": "Ukraine",
-    "leagues": "Ukraine-Youth-League.csv",
+    "leagues": "Ukraine-Youth-League",
     "first_date": "2018-07-21"
   },
   {
     "country": "Ukraine",
-    "leagues": "Ukraine-Persha-Liga.csv",
+    "leagues": "Ukraine-Persha-Liga",
     "first_date": "2005-07-29"
   },
   {
     "country": "Ukraine",
-    "leagues": "Ukraine-Premier-League.csv",
+    "leagues": "Ukraine-Premier-League",
     "first_date": "2005-07-11"
   },
   {
     "country": "United_arab_emirates",
-    "leagues": "United-Arab-Emirates-Arabian-Gulf-Reserve-League.csv",
+    "leagues": "United-Arab-Emirates-Arabian-Gulf-Reserve-League",
     "first_date": "2019-09-20"
   },
   {
     "country": "United_arab_emirates",
-    "leagues": "United-Arab-Emirates-Arabian-Gulf-Cup.csv",
+    "leagues": "United-Arab-Emirates-Arabian-Gulf-Cup",
     "first_date": "2012-09-18"
   },
   {
     "country": "United_arab_emirates",
-    "leagues": "United-Arab-Emirates-Uae-League.csv",
+    "leagues": "United-Arab-Emirates-Uae-League",
     "first_date": "2005-08-30"
   },
   {
     "country": "United_arab_emirates",
-    "leagues": "United-Arab-Emirates-U19-League.csv",
+    "leagues": "United-Arab-Emirates-U19-League",
     "first_date": "2019-09-13"
   },
   {
     "country": "United_arab_emirates",
-    "leagues": "United-Arab-Emirates-Division-1.csv",
+    "leagues": "United-Arab-Emirates-Division-1",
     "first_date": "2007-09-26"
   },
   {
     "country": "United_arab_emirates",
-    "leagues": "United-Arab-Emirates-Presidents-Cup.csv",
+    "leagues": "United-Arab-Emirates-Presidents-Cup",
     "first_date": "2020-10-09"
   },
   {
     "country": "United_arab_emirates",
-    "leagues": "United-Arab-Emirates-U18-League.csv",
+    "leagues": "United-Arab-Emirates-U18-League",
     "first_date": "2022-11-11"
   },
   {
     "country": "Uruguay",
-    "leagues": "Uruguay-Primera-Division.csv",
+    "leagues": "Uruguay-Primera-Division",
     "first_date": "2005-08-19"
   },
   {
     "country": "Uruguay",
-    "leagues": "Uruguay-Primera-Division-Clausura.csv",
+    "leagues": "Uruguay-Primera-Division-Clausura",
     "first_date": "2006-02-17"
   },
   {
     "country": "Uruguay",
-    "leagues": "Uruguay-Segunda-Division.csv",
+    "leagues": "Uruguay-Segunda-Division",
     "first_date": "2006-09-15"
   },
   {
     "country": "USA",
-    "leagues": "USA-NASL.csv",
+    "leagues": "USA-NASL",
     "first_date": "2011-04-09"
   },
   {
     "country": "USA",
-    "leagues": "USA-NISA-2021.csv",
+    "leagues": "USA-NISA-2021",
     "first_date": "2021-08-07"
   },
   {
     "country": "USA",
-    "leagues": "USA-NISA-2020.csv",
+    "leagues": "USA-NISA-2020",
     "first_date": "2020-08-15"
   },
   {
     "country": "USA",
-    "leagues": "USA-USL-League-One.csv",
+    "leagues": "USA-USL-League-One",
     "first_date": "2019-03-29"
   },
   {
     "country": "USA",
-    "leagues": "USA-Major-League-Soccer.csv",
+    "leagues": "USA-Major-League-Soccer",
     "first_date": "2005-04-01"
   },
   {
     "country": "USA",
-    "leagues": "USA-USL-League-Two.csv",
+    "leagues": "USA-USL-League-Two",
     "first_date": "2007-04-27"
   },
   {
     "country": "USA",
-    "leagues": "USA-USL-2.csv",
+    "leagues": "USA-USL-2",
     "first_date": "2007-04-19"
   },
   {
     "country": "USA",
-    "leagues": "USA-NPSL.csv",
+    "leagues": "USA-NPSL",
     "first_date": "2020-02-23"
   },
   {
     "country": "USA",
-    "leagues": "USA-MLS-Next-U19.csv",
+    "leagues": "USA-MLS-Next-U19",
     "first_date": "2021-02-26"
   },
   {
     "country": "USA",
-    "leagues": "USA-NISA-2019.csv",
+    "leagues": "USA-NISA-2019",
     "first_date": "2019-11-10"
   },
   {
     "country": "USA",
-    "leagues": "USA-USL-Championship.csv",
+    "leagues": "USA-USL-Championship",
     "first_date": "2005-04-15"
   },
   {
     "country": "USA",
-    "leagues": "USA-Nwsl-Challenge-Cup-Women.csv",
+    "leagues": "USA-Nwsl-Challenge-Cup-Women",
     "first_date": "2020-06-27"
   },
   {
     "country": "USA",
-    "leagues": "USA-NISA.csv",
+    "leagues": "USA-NISA",
     "first_date": "2021-02-26"
   },
   {
     "country": "Uzbekistan",
-    "leagues": "Uzbekistan-Pro-League-A.csv",
+    "leagues": "Uzbekistan-Pro-League-A",
     "first_date": "2020-08-29"
   },
   {
     "country": "Uzbekistan",
-    "leagues": "Uzbekistan-Professional-Football-League.csv",
+    "leagues": "Uzbekistan-Professional-Football-League",
     "first_date": "2006-03-10"
   },
   {
     "country": "Venezuela",
-    "leagues": "Venezuela-Primera-Division.csv",
+    "leagues": "Venezuela-Primera-Division",
     "first_date": "2006-01-07"
   },
   {
     "country": "Venezuela",
-    "leagues": "Venezuela-Segunda-Division.csv",
+    "leagues": "Venezuela-Segunda-Division",
     "first_date": "2006-08-11"
   },
   {
     "country": "Vietnam",
-    "leagues": "Vietnam-Women-s-National-League.csv",
+    "leagues": "Vietnam-Women-s-National-League",
     "first_date": "2019-06-10"
   },
   {
     "country": "Vietnam",
-    "leagues": "Vietnam-V-League-2.csv",
+    "leagues": "Vietnam-V-League-2",
     "first_date": "2006-01-14"
   },
   {
     "country": "Vietnam",
-    "leagues": "Vietnam-U19-Women-s-Championship.csv",
+    "leagues": "Vietnam-U19-Women-s-Championship",
     "first_date": "2020-06-16"
   },
   {
     "country": "Vietnam",
-    "leagues": "Vietnam-V-League.csv",
+    "leagues": "Vietnam-V-League",
     "first_date": "2006-01-14"
   },
   {
     "country": "Vietnam",
-    "leagues": "Vietnam-Second-Division.csv",
+    "leagues": "Vietnam-Second-Division",
     "first_date": "2019-05-11"
   },
   {
     "country": "Vietnam",
-    "leagues": "Vietnam-U21-Championship.csv",
+    "leagues": "Vietnam-U21-Championship",
     "first_date": "2019-06-19"
   },
   {
     "country": "Vietnam",
-    "leagues": "Vietnam-U19-Championship.csv",
+    "leagues": "Vietnam-U19-Championship",
     "first_date": "2020-03-02"
   },
   {
     "country": "Wales",
-    "leagues": "Wales-Cymru-Alliance.csv",
+    "leagues": "Wales-Cymru-Alliance",
     "first_date": "2007-08-16"
   },
   {
     "country": "Wales",
-    "leagues": "Wales-Welsh-League-Division-1.csv",
+    "leagues": "Wales-Welsh-League-Division-1",
     "first_date": "2005-08-11"
   },
   {
     "country": "Wales",
-    "leagues": "Wales-Premier-League.csv",
+    "leagues": "Wales-Premier-League",
     "first_date": "2005-08-26"
   },
   {
     "country": "Wales",
-    "leagues": "Wales-FAW-Championship.csv",
+    "leagues": "Wales-FAW-Championship",
     "first_date": "2021-07-23"
   },
   {
     "country": "Yemen",
-    "leagues": "Yemen-Yemeni-League.csv",
+    "leagues": "Yemen-Yemeni-League",
     "first_date": "2007-12-27"
   },
   {
     "country": "Zambia",
-    "leagues": "Zambia-Super-League.csv",
+    "leagues": "Zambia-Super-League",
     "first_date": "2006-03-17"
   },
   {
     "country": "Zimbabwe",
-    "leagues": "Zimbabwe-Premier-Soccer-League.csv",
+    "leagues": "Zimbabwe-Premier-Soccer-League",
     "first_date": "2016-04-01"
   }
 ]
