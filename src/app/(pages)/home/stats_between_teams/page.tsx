@@ -134,6 +134,11 @@ const StatsBetweenTeams = () => {
       ),
     },
     {
+      key: "number_of_goals",
+      header: "goals",
+      Component: (item: any) => <span>{item?.number_of_goals}</span>,
+    },
+    {
       key: "avg_goals",
       header: "avg goals",
       Component: (item: any) => <span>{item?.avg_goals}</span>,
@@ -144,6 +149,27 @@ const StatsBetweenTeams = () => {
       Component: (item: any) => <span>{item?.avg_half_time_goals}</span>,
     },
   ];
+
+  const nextGamePrediction = [
+    {
+      key: "one_pred",
+      header: "1",
+      Component: (item: any) => <span>{item?.one_pred}%</span>,
+    },
+    {
+      key: "x_pred",
+      header: "X",
+      Component: (item: any) => <span>{item?.x_pred}%</span>,
+    },
+    {
+      key: "two_pred",
+      header: "2",
+      Component: (item: any) => <span>{item?.two_pred}%</span>,
+    },
+  ];
+
+  let hasPredictionData =
+    teamsScore[0]?.one_pred || teamsScore[0]?.x_pred || teamsScore[0]?.two_pred;
 
   return (
     <>
@@ -158,7 +184,18 @@ const StatsBetweenTeams = () => {
             eloHomeTeam={teamsScore[0]?.elo_team_1}
             eloAwayTeam={teamsScore[0]?.elo_team_2}
           />
-          <TableComponent column={topTableData} row={teamsScore} />
+          {hasPredictionData && (
+            <div className="py-4 space-y-2">
+              <h3 className="text-xl font-semibold antialiased">
+                Next Game Prediction
+              </h3>
+              <TableComponent column={nextGamePrediction} row={teamsScore} />
+            </div>
+          )}
+          <div className="py-4 space-y-2">
+            <h3 className="text-xl font-semibold antialiased">Statistics</h3>
+            <TableComponent column={topTableData} row={teamsScore} />
+          </div>
           <TeamVsTeamStats stats={teamsScore[0]?.last_games} />
         </div>
       )}
