@@ -53,6 +53,11 @@ const StatsBetweenTeams = () => {
       header: "Draws",
       Component: (item: any) => <span>{item?.draws}</span>,
     },
+    !stats?.awayTeam && {
+      key: "loses",
+      header: "Lose",
+      Component: (item: any) => <span>{item?.loses}</span>,
+    },
     {
       key: "nula_1",
       header: "0-1",
