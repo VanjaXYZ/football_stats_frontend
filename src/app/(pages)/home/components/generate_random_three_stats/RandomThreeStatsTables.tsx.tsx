@@ -49,10 +49,15 @@ const RandomThreeStatsTables = async ({ data }: any) => {
     <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-2 px-2 md:gap-6 whitespace-nowrap">
       {data?.random_three?.map((randomStats: any, index: number) => (
         <div className="w-full" key={index}>
-          <h2 className="text-center text-2xl bg-black text-white font-semibold uppercase">
-            {randomStats?.type}
+          <h2 className="text-center text-2xl text-black font-bold uppercase">
+            {randomStats[index]?.type}
           </h2>
-          <TableComponent column={columndData} row={randomStats} />
+          <TableComponent
+            column={columndData}
+            row={randomStats}
+            gameTypeHeaderData={randomStats[index]?.type}
+            hasGameTypeHeader
+          />
         </div>
       ))}
     </div>

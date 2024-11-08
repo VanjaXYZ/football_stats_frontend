@@ -9,11 +9,18 @@ const TableComponent = ({
   hasStickyHeader,
   hasSpecialStats,
   specialHeaders,
+  gameTypeHeaderData,
+  hasGameTypeHeader,
 }: any) => {
   return (
     <Table hasStickyHeader={hasStickyHeader}>
-      <StandardTableHeader column={column} hasStickyHeader={hasStickyHeader} />
-      <TableBody className="">
+      <StandardTableHeader
+        column={column}
+        hasStickyHeader={hasStickyHeader}
+        hasGameTypeHeader={hasGameTypeHeader}
+        gameTypeHeaderData={gameTypeHeaderData}
+      />
+      <TableBody className="w-full">
         {row?.map((item: any, index: number) =>
           hasSpecialStats ? (
             <SpecialStatsRow
