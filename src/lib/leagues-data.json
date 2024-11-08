@@ -3591,7 +3591,7 @@
   },
   {
     "country": "Saudi_arabia",
-    "leagues": "Saudi-Arabia-Division-1-Saudi-Arabia-Pro-League-Saudi-Arabia-Youth-League",
+    "leagues": "Saudi-Arabia-Division-1-Youth-League",
     "first_date": "2023-08-11"
   },
   {
@@ -3611,7 +3611,7 @@
   },
   {
     "country": "Scotland",
-    "leagues": "Scotland-Championship-Scotland-Football-League-Highland-League",
+    "leagues": "Scotland-Highland-League",
     "first_date": "2023-07-29"
   },
   {
@@ -3626,7 +3626,7 @@
   },
   {
     "country": "Scotland",
-    "leagues": "Scotland-Championship-Scotland-Football-League-Highland-League-Scotland-Football-League-Lowland-League-Scotland-League-One-Scotland-League-Two-Scotland-Premiership",
+    "leagues": "Scotland-League-Two-Scotland-Premiership",
     "first_date": "2023-08-05"
   },
   {
@@ -3646,12 +3646,12 @@
   },
   {
     "country": "Scotland",
-    "leagues": "Scotland-Championship-Scotland-Football-League-Highland-League-Scotland-Football-League-Lowland-League-Scotland-League-One",
+    "leagues": "Scotland-Championship-League-One",
     "first_date": "2023-07-21"
   },
   {
     "country": "Scotland",
-    "leagues": "Scotland-Championship-Scotland-Football-League-Highland-League-Scotland-Football-League-Lowland-League",
+    "leagues": "Scotland-Lowland-League",
     "first_date": "2023-07-21"
   },
   {
@@ -3676,12 +3676,12 @@
   },
   {
     "country": "Scotland",
-    "leagues": "Scotland-Championship-Scotland-Football-League-Highland-League-Scotland-Football-League-Lowland-League-Scotland-League-One-Scotland-League-Two-Scotland-Premiership-Scotland-Reserve-League",
+    "leagues": "Scotland-Championship-Reserve-League",
     "first_date": "2023-08-05"
   },
   {
     "country": "Scotland",
-    "leagues": "Scotland-Championship-Scotland-Football-League-Highland-League-Scotland-Football-League-Lowland-League-Scotland-League-One-Scotland-League-Two",
+    "leagues": "Scotland-League-Two",
     "first_date": "2023-08-05"
   },
   {
@@ -3701,7 +3701,7 @@
   },
   {
     "country": "Serbia",
-    "leagues": "Serbia-Prva-Liga-Serbia-Srpska-Liga-Belgrade",
+    "leagues": "Serbia-Prva-Liga-Srpska-Liga-Belgrade",
     "first_date": "2023-08-05"
   },
   {
@@ -3716,12 +3716,12 @@
   },
   {
     "country": "Serbia",
-    "leagues": "Serbia-Prva-Liga-Serbia-Srpska-Liga-Belgrade-Serbia-Srpska-Liga-East",
+    "leagues": "Serbia-Prva-Liga-Srpska-Liga-East",
     "first_date": "2023-08-11"
   },
   {
     "country": "Serbia",
-    "leagues": "Serbia-Prva-Liga-Serbia-Srpska-Liga-Belgrade-Serbia-Srpska-Liga-East-Serbia-Srpska-Liga-Vojvodina",
+    "leagues": "Serbia-Srpska-Liga-Vojvodina",
     "first_date": "2023-08-11"
   },
   {
@@ -3741,17 +3741,17 @@
   },
   {
     "country": "Serbia",
-    "leagues": "Serbia-Prva-Liga-Serbia-Srpska-Liga-Belgrade-Serbia-Srpska-Liga-East-Serbia-Srpska-Liga-Vojvodina-Serbia-Srpska-Liga-West-Serbia-Super-Liga",
+    "leagues": "Serbia-Prva-Liga-Super-Liga",
     "first_date": "2023-07-29"
   },
   {
     "country": "Serbia",
-    "leagues": "Serbia-Prva-Liga-Serbia-Srpska-Liga-Belgrade-Serbia-Srpska-Liga-East-Serbia-Srpska-Liga-Vojvodina-Serbia-Srpska-Liga-West-Serbia-Super-Liga-Serbia-Super-Liga-Zene",
+    "leagues": "Serbia-Prva-Liga-Super-Liga-Zene",
     "first_date": "2023-07-29"
   },
   {
     "country": "Serbia",
-    "leagues": "Serbia-Prva-Liga-Serbia-Srpska-Liga-Belgrade-Serbia-Srpska-Liga-East-Serbia-Srpska-Liga-Vojvodina-Serbia-Srpska-Liga-West",
+    "leagues": "Serbia-Prva-Liga-Srpska-Liga-West",
     "first_date": "2023-08-12"
   },
   {
