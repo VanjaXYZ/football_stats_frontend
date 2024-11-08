@@ -34,18 +34,18 @@ const TopELOTeams = ({ topEloTeams }: { topEloTeams: any }) => {
     },
   ];
   return (
-    <div>
+    <>
       <h3 className="antialiased text-3xl font-semibold text-center py-2">
         Top 50 Teams
       </h3>
-      <div className="max-h-[430px] overflow-y-auto relative">
+      <div className="max-h-[430px] overflow-y-auto shadow-2xl rounded-xl relative">
         <TableComponent
           column={columnsData}
           row={topEloTeams}
           hasStickyHeader
         />
       </div>
-    </div>
+    </>
   );
 };
 
