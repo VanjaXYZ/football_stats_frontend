@@ -31,15 +31,16 @@ export const GamePredictions = async () => {
         <div className="flex flex-col items-center">
           <span
             className={`${
-              item?.diference_one > 0 ? "text-green-500" : "text-red-800"
-            } text-black flex items-center`}
+              item?.diference_one > 0 ? "text-green-400" : "text-red-800"
+            } text-black flex items-center font-semibold`}
           >
             {Number(item.one).toFixed(2)}
             {item?.diference_one > 0 ? (
               <MoveUp color="#3fd951" size={18} />
             ) : (
               <MoveDown color="#911212" size={18} />
-            )}
+            )}{" "}
+            <span className="text-[12px]">({item?.diference_one})</span>
           </span>
           <span>{item?.prediction_home}%</span>
         </div>
@@ -52,8 +53,8 @@ export const GamePredictions = async () => {
         <div className="flex flex-col items-center">
           <span
             className={`${
-              item?.diference_x > 0 ? "text-green-500" : "text-red-800"
-            } text-black flex items-center`}
+              item?.diference_x > 0 ? "text-green-400" : "text-red-800"
+            } text-black flex items-center font-semibold`}
           >
             {Number(item.x).toFixed(2)}
             {item?.diference_x > 0 ? (
@@ -61,6 +62,7 @@ export const GamePredictions = async () => {
             ) : (
               <MoveDown color="#911212" size={18} />
             )}
+            <span className="text-[12px]">({item?.diference_x})</span>
           </span>
           <span>{item?.prediction_draw}%</span>
         </div>
@@ -73,8 +75,8 @@ export const GamePredictions = async () => {
         <div className="flex flex-col items-center">
           <span
             className={`${
-              item?.diference_two > 0 ? "text-green-500" : "text-red-800"
-            } text-black flex items-center`}
+              item?.diference_two > 0 ? "text-green-400" : "text-red-800"
+            } text-black flex items-center font-semibold`}
           >
             {Number(item.two).toFixed(2)}
             {item?.diference_two > 0 ? (
@@ -82,6 +84,7 @@ export const GamePredictions = async () => {
             ) : (
               <MoveDown color="#911212" size={18} />
             )}
+            <span className="text-[12px]">({item?.diference_two})</span>
           </span>
           <span>{item?.prediction_away}%</span>
         </div>
