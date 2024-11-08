@@ -10,6 +10,7 @@ const NumberOfGoals = ({ countries }: { countries: any }) => {
   const { otherStats, setActiveUrl, setOtherStatsCountry } =
     useOtherStats() as any;
   const [statsData, setStatsData] = useState([]);
+  const [hasSpecialStats, setHasSpecialStats] = useState<boolean>(false);
   const numberOfGoalsData: string[] | number = [
     "No goals",
     "0-1",
@@ -52,7 +53,12 @@ const NumberOfGoals = ({ countries }: { countries: any }) => {
   ];
   const special_urls = ["stats/two_one", "stats/plus_7_all"];
 
-  const onGetData = async (path: string[], position: number) => {
+  const onGetData = async (
+    path: string[],
+    position: number,
+    hasSpecialStatsBoolean: boolean
+  ) => {
+    setHasSpecialStats(hasSpecialStatsBoolean);
     setOtherStatsCountry("");
     const hasCountry = otherStats.country ? otherStats.country : "";
     const data = await getOverallStats(path[position], hasCountry);
@@ -68,7 +74,7 @@ const NumberOfGoals = ({ countries }: { countries: any }) => {
       </h2>
       <div className="grid grid-cols-2 gap-2 md:grid-cols-4 lg:grid-cols-5 px-4">
         {numberOfGoalsData.map((goals, index) => (
-          <Button key={index} onClick={() => onGetData(urls, index)}>
+          <Button key={index} onClick={() => onGetData(urls, index, false)}>
             {goals}
           </Button>
         ))}
@@ -78,7 +84,10 @@ const NumberOfGoals = ({ countries }: { countries: any }) => {
       </h2>
       <div className="grid grid-cols-2 gap-2 md:grid-cols-4 lg:grid-cols-5 px-4">
         {special_number_of_goals_data.map((goals, index) => (
-          <Button key={index} onClick={() => onGetData(special_urls, index)}>
+          <Button
+            key={index}
+            onClick={() => onGetData(special_urls, index, true)}
+          >
             {goals}
           </Button>
         ))}
@@ -91,7 +100,10 @@ const NumberOfGoals = ({ countries }: { countries: any }) => {
         />
       </section>
       {statsData?.length > 0 ? (
-        <ShowNumberOfGoalsStats data={statsData} />
+        <ShowNumberOfGoalsStats
+          data={statsData}
+          hasSpecialStats={hasSpecialStats}
+        />
       ) : (
         <p className="text-center p-20">No data</p>
       )}

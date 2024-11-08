@@ -10,7 +10,7 @@ interface Item {
   images_country?: any;
 }
 
-const ShowNumberOfGoalsStats = ({ data }: any) => {
+const ShowNumberOfGoalsStats = ({ data, hasSpecialStats }: any) => {
   const checkIf_2_To_1 = data.some((element: any) => element.country_2_to_1);
   const checkIf_Plus_7_All = data.some(
     (element: any) => element.country_plus_7_all
@@ -85,7 +85,12 @@ const ShowNumberOfGoalsStats = ({ data }: any) => {
   ].filter(Boolean);
   return (
     <div className="w-full">
-      <TableComponent column={tableHeaders} row={data} hasSpecialStats />;
+      <TableComponent
+        column={tableHeaders}
+        row={data}
+        hasSpecialStats={hasSpecialStats}
+      />
+      ;
     </div>
   );
 };
