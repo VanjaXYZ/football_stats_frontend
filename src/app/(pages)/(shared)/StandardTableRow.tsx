@@ -5,10 +5,7 @@ const StandardTableRow = ({ index, column, item }: any) => {
   return (
     <TableRow key={`row-${index}`}>
       {column?.map((data: any, cellIndex: number) => (
-        <TableCell
-          key={`cellID-${cellIndex}`}
-          className="text-center font-semibold p-1"
-        >
+        <TableCell key={`cellID-${cellIndex}`} className="text-center  p-1">
           {data?.Component ? data?.Component(item) : item[data?.key]}
         </TableCell>
       ))}
