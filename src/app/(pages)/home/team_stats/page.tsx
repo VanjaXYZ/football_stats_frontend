@@ -158,7 +158,7 @@ const lastTenGamesColumns = [
   },
 ];
 
-const page = () => {
+const SingleTeamStats = () => {
   const { singleTeamStats } = useSingleTeamStats() as any;
   const [teamStats, setTeamStats] = useState<any[]>([]);
   const [isLoading, setIsLoading] = useState<boolean>(false);
@@ -212,4 +212,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default SingleTeamStats;
