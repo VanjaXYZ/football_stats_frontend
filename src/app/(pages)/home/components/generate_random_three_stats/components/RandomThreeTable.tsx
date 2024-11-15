@@ -125,6 +125,7 @@ const RandomThreeTable = () => {
                   <TableRow
                     key={`row-${rowIndex}`}
                     onClick={() => handleSingleTeamStats(row)}
+                    className="cursor-pointer"
                   >
                     {columns?.map((column: any, colIndex: number) => (
                       <TableCell
