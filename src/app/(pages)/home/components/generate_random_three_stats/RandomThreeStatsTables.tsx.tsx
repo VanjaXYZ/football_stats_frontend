@@ -57,6 +57,8 @@ const RandomThreeStatsTables = async ({ data }: any) => {
             row={randomStats}
             gameTypeHeaderData={randomStats[index]?.type}
             hasGameTypeHeader
+            isLink
+            team={randomStats[index]?.stats}
           />
         </div>
       ))}

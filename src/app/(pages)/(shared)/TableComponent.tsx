@@ -11,6 +11,7 @@ const TableComponent = ({
   specialHeaders,
   gameTypeHeaderData,
   hasGameTypeHeader,
+  isLink,
 }: any) => {
   return (
     <Table hasStickyHeader={hasStickyHeader}>
@@ -36,6 +37,7 @@ const TableComponent = ({
               column={column}
               item={item}
               key={index}
+              isLink={isLink}
             />
           )
         )}
