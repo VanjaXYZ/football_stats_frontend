@@ -25,7 +25,7 @@ const SpecialStatsRow = ({ index, column, item }: any) => {
       );
       if (response.status === 200) {
         setSpecialStats(response.data);
-        console.log(response.data);
+        response.data;
       }
     } catch (error) {
       console.error(error);

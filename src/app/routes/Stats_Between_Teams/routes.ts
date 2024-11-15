@@ -56,3 +56,16 @@ export const getStatsBetweenTeams = async (
     console.error(error);
   }
 };
+
+export const getSingleTeamStats = async (country: string, team: string) => {
+  try {
+    const response = await axios.get(
+      `${Config.baseURL}/teams/between_teams/${country}/${team}`
+    );
+    if (response?.status === 200) {
+      return response?.data;
+    }
+  } catch (error) {
+    console.error(error);
+  }
+};

@@ -5,6 +5,7 @@ import { GamePredictions } from "./components/game_predictions/GamePredictions";
 import ChooseTeams from "./stats_between_teams/ChooseTeams";
 import GenerateRandomThreeStats from "./components/generate_random_three_stats/GenerateRandomThreeStats";
 import GenerateRandomThreeStatsElo from "./components/generate_random_three_stats_elo/GenerateRandomThreeStatsElo";
+import RandomThreeTable from "./components/generate_random_three_stats/components/RandomThreeTable";
 const Homepage = () => {
   return (
     <main className="w-full min-h-[100vh]">
@@ -17,8 +18,8 @@ const Homepage = () => {
           <GamePredictions />
         </Suspense>
         <div className="space-y-4">
-          <GenerateRandomThreeStats />
-          <GenerateRandomThreeStatsElo />
+          {/* <GenerateRandomThreeStatsElo /> */}
+          <RandomThreeTable />
         </div>
       </div>
     </main>

@@ -9,7 +9,7 @@ const StandardTableRow = ({ index, column, item, isLink }: any) => {
           <TableCell key={`cellID-${cellIndex}`} className="text-center p-1">
             <Link href={""} className="text-center" target="_blank">
               {data?.Component ? data?.Component(item) : item[data?.key]}
-              {console.log("Team: ", item)}
+              {("Team: ", item)}
             </Link>
           </TableCell>
         ) : (
