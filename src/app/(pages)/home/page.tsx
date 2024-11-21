@@ -6,6 +6,7 @@ import ChooseTeams from "./stats_between_teams/ChooseTeams";
 import GenerateRandomThreeStats from "./components/generate_random_three_stats/GenerateRandomThreeStats";
 import GenerateRandomThreeStatsElo from "./components/generate_random_three_stats_elo/GenerateRandomThreeStatsElo";
 import RandomThreeTable from "./components/generate_random_three_stats/components/RandomThreeTable";
+import RandomThreeElo from "./components/generate_random_three_stats/components/RandomThreeElo";
 const Homepage = () => {
   return (
     <main className="w-full min-h-[100vh]">
@@ -18,8 +19,8 @@ const Homepage = () => {
           <GamePredictions />
         </Suspense>
         <div className="space-y-4">
-          {/* <GenerateRandomThreeStatsElo /> */}
           <RandomThreeTable />
+          <RandomThreeElo />
         </div>
       </div>
     </main>
