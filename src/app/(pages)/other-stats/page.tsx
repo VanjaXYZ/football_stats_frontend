@@ -2,6 +2,7 @@ import { getCountries } from "@/app/routes/Stats_Between_Teams/routes";
 import HeroSection from "../(shared)/HeroSection";
 import NumberOfGoals from "./components/NumberOfGoals";
 import { Metadata } from "next";
+import { Suspense } from "react";
 
 export const metadata: Metadata = {
   title: "Other stats",
@@ -13,7 +14,9 @@ const OtherStats = async () => {
     <>
       <HeroSection />
       <div className="container">
-        <NumberOfGoals countries={countries} />
+        <Suspense fallback={<div>Loading...</div>}>
+          <NumberOfGoals countries={countries} />
+        </Suspense>
       </div>
     </>
   );

@@ -2,7 +2,7 @@
 import { getOverallStats } from "@/app/routes/Other_Stats/routes";
 import { Button } from "@/components/ui/button";
 import { useOtherStats } from "@/store/OtherStatsStore";
-import { useState } from "react";
+import { Suspense, useState } from "react";
 import SelectOtherStatsCountry from "./SelectOtherStatsCountry";
 import ShowNumberOfGoalsStats from "./ShowNumberOfGoalsStats";
 import CTAButton from "./CTAButton";
@@ -48,17 +48,21 @@ const NumberOfGoals = ({ countries }: { countries: any }) => {
         ))} */}
       </div>
       <section className="flex justify-center py-4">
-        <SelectOtherStatsCountry
-          countries={countries}
-          onGetData={onGetData}
-          setStatsData={(value: any) => setStatsData(value)}
-        />
+        <Suspense fallback={<div>Loading...</div>}>
+          <SelectOtherStatsCountry
+            countries={countries}
+            onGetData={onGetData}
+            setStatsData={(value: any) => setStatsData(value)}
+          />
+        </Suspense>
       </section>
       {otherStats.overallData?.length > 0 ? (
-        <ShowNumberOfGoalsStats
-          data={otherStats.overallData}
-          hasSpecialStats={hasSpecialStats}
-        />
+        <Suspense fallback={<div>Laoding...</div>}>
+          <ShowNumberOfGoalsStats
+            data={otherStats.overallData}
+            hasSpecialStats={hasSpecialStats}
+          />
+        </Suspense>
       ) : (
         <p className="text-center p-20">No data</p>
       )}
