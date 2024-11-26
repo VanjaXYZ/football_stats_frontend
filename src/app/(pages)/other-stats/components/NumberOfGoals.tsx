@@ -46,6 +46,10 @@ const NumberOfGoals = ({ countries }: { countries: any }) => {
             {goals}
           </Button>
         ))} */}
+
+        {/* 
+        rute: 2/1 & +7 all & two_one
+        */}
       </div>
       <section className="flex justify-center py-4">
         <Suspense fallback={<div>Loading...</div>}>

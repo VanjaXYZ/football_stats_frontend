@@ -14,8 +14,8 @@ const TopNavMenu = () => {
           href={"/"}
           className={
             pathname === "/"
-              ? "underline underline-offset-4 text-white text-xl"
-              : "text-white text-xl"
+              ? "underline underline-offset-4 text-white text-[12px] md:text-xl"
+              : "text-white text-[12px] md:text-xl"
           }
         >
           Home
@@ -24,8 +24,8 @@ const TopNavMenu = () => {
           href={"/other-stats"}
           className={
             pathname === "/other-stats"
-              ? "underline underline-offset-4 text-white text-xl"
-              : "text-white text-xl"
+              ? "underline underline-offset-4 text-white text-[12px] md:text-xl"
+              : "text-white text-[12px] md:text-xl"
           }
         >
           Other stats
@@ -34,8 +34,8 @@ const TopNavMenu = () => {
           href={"/elo"}
           className={
             pathname === "/elo"
-              ? "underline underline-offset-4 text-white text-xl"
-              : "text-white text-xl"
+              ? "underline underline-offset-4 text-white text-[12px] md:text-xl"
+              : "text-white text-[12px] md:text-xl"
           }
         >
           ELO
@@ -44,8 +44,8 @@ const TopNavMenu = () => {
           href={"/leagues"}
           className={
             pathname === "/leagues"
-              ? "underline underline-offset-4 text-white text-xl"
-              : "text-white text-xl"
+              ? "underline underline-offset-4 text-white text-[12px] md:text-xl"
+              : "text-white text-[12px] md:text-xl"
           }
         >
           Leagues
@@ -54,8 +54,8 @@ const TopNavMenu = () => {
           href={"/about"}
           className={
             pathname === "/about"
-              ? "underline underline-offset-4 text-white text-xl"
-              : "text-white text-xl"
+              ? "underline underline-offset-4 text-white text-[12px] md:text-xl"
+              : "text-white text-[12px] md:text-xl"
           }
         >
           About

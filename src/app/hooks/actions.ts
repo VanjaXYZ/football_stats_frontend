@@ -3,6 +3,7 @@ import { useOtherStats } from "@/store/OtherStatsStore";
 import axios from "axios";
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
 import { useState } from "react";
+import SelectOtherStatsCountry from "../(pages)/other-stats/components/SelectOtherStatsCountry";
 
 export const useFetchOtherStatsData = <T>() => {
   const [data, setData] = useState<T | null>(null);
@@ -12,7 +13,7 @@ export const useFetchOtherStatsData = <T>() => {
   const searchParams = useSearchParams() as any;
   const pathname = usePathname();
   const { replace } = useRouter();
-  const { otherStats } = useOtherStats() as any;
+  const { otherStats, setOtherStatsCountry } = useOtherStats() as any;
 
   // Funkcija za ručni API poziv
   const fetchData = async (url: string, text?: string, country?: string) => {
@@ -35,7 +36,7 @@ export const useFetchOtherStatsData = <T>() => {
       }
 
       replace(`${pathname}?${params.toString()}`);
-      // console.log(response.data);
+      setOtherStatsCountry(" ");
     } catch (error: any) {
       setError(error.message || "Something went wrong. Try again later.");
     } finally {

@@ -20,6 +20,7 @@ const SelectOtherStatsCountry = ({ countries, setStatsData }: any) => {
   const searchParams = useSearchParams() as any;
   const pathname = usePathname();
   const { replace } = useRouter();
+  const params = new URLSearchParams(searchParams);
 
   const onGetCountryStats = async (e: any) => {
     setOtherStatsCountry(e);
@@ -28,7 +29,6 @@ const SelectOtherStatsCountry = ({ countries, setStatsData }: any) => {
       otherStats.country
     );
     setStatsData(data);
-    const params = new URLSearchParams(searchParams);
 
     if (e) {
       params.set("country", e);

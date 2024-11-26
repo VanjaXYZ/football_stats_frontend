@@ -21,21 +21,21 @@ const StandardCTAButtons = () => {
         }
       />
       <CTAButton
-        text="1+"
+        text="0-1"
         onClickFn={() =>
           fetchData(
             `${Config.baseURL}/stats/one_goal_or_less`,
-            "one_plus",
+            "zero_to_one",
             otherStats.country
           )
         }
       />
       <CTAButton
-        text="2+"
+        text="0-2"
         onClickFn={() =>
           fetchData(
             `${Config.baseURL}/stats/two_goal_or_less`,
-            "two_plus",
+            "zero_to_two",
             otherStats.country
           )
         }
@@ -86,16 +86,6 @@ const StandardCTAButtons = () => {
           fetchData(
             `${Config.baseURL}/stats/plus_7`,
             "seven_plus",
-            otherStats.country
-          )
-        }
-      />
-      <CTAButton
-        text="2/1"
-        onClickFn={() =>
-          fetchData(
-            `${Config.baseURL}/stats/two_one`,
-            "two_one",
             otherStats.country
           )
         }
