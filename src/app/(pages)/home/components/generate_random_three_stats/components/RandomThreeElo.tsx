@@ -10,8 +10,10 @@ import {
   TableRow,
 } from "@/components/ui/table";
 import { useSingleTeamStats } from "@/store/SingleTeamStore";
+import Image from "next/image";
 import { useRouter } from "next/navigation";
 import { useEffect, useState } from "react";
+import { Config } from "../../../../../../../Config";
 
 const columns = [
   {
@@ -22,7 +24,22 @@ const columns = [
   {
     key: "country_elo",
     header: "Country",
-    Component: (item: any) => <div>{item?.country_elo?.country}</div>,
+    Component: (item: any) => (
+      <div className="flex items-center justify-center gap-x-6 max-w-32 m-auto flex-col">
+        <Image
+          src={`${
+            Config.baseURL
+          }/${item?.country_elo?.images_country[0]?.img_path?.replace(
+            "/",
+            ""
+          )}`}
+          width={20}
+          height={20}
+          alt={item?.country_elo?.country}
+        />
+        <p>{item?.country_elo?.country}</p>
+      </div>
+    ),
   },
   {
     key: "elo",
