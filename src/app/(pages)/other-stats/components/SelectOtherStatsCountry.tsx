@@ -13,9 +13,13 @@ import Image from "next/image";
 import { Config } from "../../../../../Config";
 import { getOverallStats } from "@/app/routes/Other_Stats/routes";
 import { useEffect } from "react";
+import { usePathname, useRouter, useSearchParams } from "next/navigation";
 
 const SelectOtherStatsCountry = ({ countries, setStatsData }: any) => {
   const { otherStats, setOtherStatsCountry } = useOtherStats() as any;
+  const searchParams = useSearchParams() as any;
+  const pathname = usePathname();
+  const { replace } = useRouter();
 
   const onGetCountryStats = async (e: any) => {
     setOtherStatsCountry(e);
@@ -24,6 +28,15 @@ const SelectOtherStatsCountry = ({ countries, setStatsData }: any) => {
       otherStats.country
     );
     setStatsData(data);
+    const params = new URLSearchParams(searchParams);
+
+    if (e) {
+      params.set("country", e);
+    } else {
+      params.delete("country");
+    }
+
+    replace(`${pathname}?${params.toString()}`);
   };
 
   useEffect(() => {
